@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-01-25",
+  "countries": [
+    {
+      "code": "LV",
+      "file": "brands/LV/brands_LV.json",
+      "sha256": "77428ffbc7c6a493dfead93584d85cb3c54e2a0c77ee5fdfa7f1465f84b14f13",
+      "items": 5941
+    }
+  ]
+}
