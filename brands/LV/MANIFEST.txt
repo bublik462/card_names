@@ -1,0 +1,10 @@
+country=LV
+created_utc=2026-06-25T04:14:31Z
+
+app_files:
+  - brands_LV.json
+  - brand_glossary_LV.json
+
+source_files:
+  - out/final/brands/LV/brands_LV.json
+  - overrides/brand_glossary_LV.json

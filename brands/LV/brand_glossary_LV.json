@@ -2873,9 +2873,43 @@
     "zara": "Q147662"
   },
   "reject": {
-    "labels": [],
+    "labels": [
+      "apavi",
+      "apģērbi",
+      "aptieka",
+      "auto serviss",
+      "autodaļas",
+      "automazgātava",
+      "autoserviss",
+      "bārs",
+      "būvmateriāli",
+      "drēbes",
+      "ēdnīca",
+      "frizētava",
+      "gaļa",
+      "grāmatnīca",
+      "kafejnīca",
+      "konditoreja",
+      "liels veikals",
+      "maiznīca",
+      "mazais veikals",
+      "mēbeles",
+      "optika",
+      "pārtikas veikals",
+      "puķes",
+      "restorāns",
+      "rezerves daļas",
+      "rotaļlietas",
+      "santehnika",
+      "skaistumkopšana",
+      "veikals",
+      "ziedi",
+      "zivis"
+    ],
     "regex": []
   },
-  "schema": 1,
-  "updatedAt": "2026-01-31"
+  "schema": 2,
+  "updatedAt": "2026-06-24T21:53:15Z",
+  "revision": "lv-20260624-01",
+  "knownFormats": []
 }
