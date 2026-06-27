@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-27T21:24:55Z",
+  "generatedAt": "2026-06-27T22:29:46Z",
   "files": [
     {
       "path": "brands/KOSOVO/brands_KOSOVO.json",
@@ -19,11 +19,11 @@
     },
     {
       "path": "brands/LV/brands_LV.json",
-      "sha256": "af2bb9f8de29223f539a0ef392ef17b02d5def05a21f42b90a90e790014940fe",
-      "bytes": 539548,
+      "sha256": "e86f508647a01eceec2e0e8d8fb8d9799442b40fbcf72538d8c44e9e57bd2a23",
+      "bytes": 529868,
       "country": "LV",
       "kind": "brands",
-      "items": 273
+      "items": 268
     },
     {
       "path": "brands/LV/brand_glossary_LV.json",
