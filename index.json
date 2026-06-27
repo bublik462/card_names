@@ -1,14 +1,26 @@
 {
-  "schema": 1,
-  "updatedAt": "2026-06-16",
+  "schema": 2,
+  "updatedAt": "2026-06-28",
   "countries": [
+    {
+      "code": "KOSOVO",
+      "file": "brands/KOSOVO/brands_KOSOVO.json",
+      "schema": 2,
+      "updatedAt": "2026-06-27",
+      "sha256": "6c16ac3d0f86832d0d556b227db2ea717ecd65096b99ea1636ad1c676eb3fc47",
+      "items": 74,
+      "glossaryFile": "brands/KOSOVO/brand_glossary_KOSOVO.json",
+      "glossarySha256": "93f7394a8a33bb1fedd3502e0aa1cc8a92441be77b82985529f7eed222e99a13"
+    },
     {
       "code": "LV",
       "file": "brands/LV/brands_LV.json",
-      "sha256": "1d2a5448288eeeb30f52817385c7b4e669764edf40ae4bb553573bf725969a16",
-      "items": 6552,
+      "schema": 2,
+      "updatedAt": "2026-06-28",
+      "sha256": "af2bb9f8de29223f539a0ef392ef17b02d5def05a21f42b90a90e790014940fe",
+      "items": 273,
       "glossaryFile": "brands/LV/brand_glossary_LV.json",
-      "glossarySha256": "a85b6e0d1882da3b2b3e532b5b3c6f624cb8e19610cece9297a2311fb2ef1220"
+      "glossarySha256": "a5c662037470f646efa53feddf2fc8bd8b584ab2502743f5b0cde7065ab2df08"
     }
   ]
 }
