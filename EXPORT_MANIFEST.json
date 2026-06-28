@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-28T13:00:55Z",
+  "generatedAt": "2026-06-28T13:08:32Z",
   "files": [
     {
       "path": "brands/KOSOVO/brands_KOSOVO.json",
-      "sha256": "6c16ac3d0f86832d0d556b227db2ea717ecd65096b99ea1636ad1c676eb3fc47",
-      "bytes": 147618,
+      "sha256": "246418fe47a1d6c10dbe2b10ab47a4c631bb6800975cfcf425a0eb4a634364db",
+      "bytes": 145539,
       "country": "KOSOVO",
       "kind": "brands",
-      "items": 74
+      "items": 73
     },
     {
       "path": "brands/KOSOVO/brand_glossary_KOSOVO.json",
