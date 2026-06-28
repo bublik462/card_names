@@ -77,80 +77,6 @@
       "reviewReason": "qid_verified"
     },
     {
-      "categoryPath": "amenity/bar",
-      "defaultCategoryPath": "amenity/bar",
-      "brand": "top!",
-      "brandKey": "top",
-      "brandWikidata": "Q20803907",
-      "resolved": {
-        "brand": "top!",
-        "brandKey": "top",
-        "brandWikidata": "Q20803907"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Tip Top",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "tip_top",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "bar",
-          "convenience"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q20803907",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "amenity/cafe",
       "defaultCategoryPath": "amenity/cafe",
       "brand": "Coffee Lab",
@@ -303,79 +229,6 @@
     {
       "categoryPath": "amenity/cafe",
       "defaultCategoryPath": "amenity/cafe",
-      "brand": "LaTS",
-      "brandKey": "lats",
-      "brandWikidata": "Q126453824",
-      "resolved": {
-        "brand": "LaTS",
-        "brandKey": "lats",
-        "brandWikidata": "Q126453824"
-      },
-      "raw": {
-        "brand": "LaTS",
-        "brandWikidata": "",
-        "name": "Baltinava",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lats",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "cafe"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q126453824",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/cafe",
-      "defaultCategoryPath": "amenity/cafe",
       "brand": "McCafé",
       "brandKey": "mccafe",
       "brandWikidata": "Q3114287",
@@ -447,80 +300,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "amenity/cafe",
-      "defaultCategoryPath": "amenity/cafe",
-      "brand": "Mego",
-      "brandKey": "mego",
-      "brandWikidata": "Q16363314",
-      "resolved": {
-        "brand": "Mego",
-        "brandKey": "mego",
-        "brandWikidata": "Q16363314"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Mego",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "mego",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "cafe",
-          "international"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q16363314",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "amenity/cafe",
@@ -598,153 +377,6 @@
       "reviewReason": "manual_verified"
     },
     {
-      "categoryPath": "amenity/cafe",
-      "defaultCategoryPath": "amenity/cafe",
-      "brand": "Viada",
-      "brandKey": "viada",
-      "brandWikidata": "Q12663942",
-      "resolved": {
-        "brand": "Viada",
-        "brandKey": "viada",
-        "brandWikidata": "Q12663942"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Viada",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "viada",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "cafe"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q12663942",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/car_wash",
-      "defaultCategoryPath": "amenity/car_wash",
-      "brand": "Circle K",
-      "brandKey": "circle_k",
-      "brandWikidata": "Q3268010",
-      "resolved": {
-        "brand": "Circle K",
-        "brandKey": "circle_k",
-        "brandWikidata": "Q3268010"
-      },
-      "raw": {
-        "brand": "Circle K",
-        "brandWikidata": "Q3268010",
-        "name": "Circle K",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "circle_k",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 44,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "car wash",
-          "car_wash"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3268010",
-        "acceptedQidCount": 39,
-        "totalQidCount": 39,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "amenity/car_wash",
       "defaultCategoryPath": "amenity/car_wash",
       "brand": "Ehrle",
@@ -797,228 +429,6 @@
         "totalQidCount": 5,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/car_wash",
-      "defaultCategoryPath": "amenity/car_wash",
-      "brand": "Neste",
-      "brandKey": "neste",
-      "brandWikidata": "Q616376",
-      "resolved": {
-        "brand": "Neste",
-        "brandKey": "neste",
-        "brandWikidata": "Q616376"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "EasyWash",
-        "nameWikidata": "",
-        "operator": "Neste",
-        "operatorWikidata": "",
-        "rawBrandKey": "easywash",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "operator_tag",
-        "categoryTokens": [
-          "car wash",
-          "car_wash"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q616376",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/car_wash",
-      "defaultCategoryPath": "amenity/car_wash",
-      "brand": "Viada",
-      "brandKey": "viada",
-      "brandWikidata": "Q12663942",
-      "resolved": {
-        "brand": "Viada",
-        "brandKey": "viada",
-        "brandWikidata": "Q12663942"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Viada",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "viada",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 4,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "car wash",
-          "car_wash"
-        ],
-        "samplePointCount": 4
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q12663942",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/car_wash",
-      "defaultCategoryPath": "amenity/car_wash",
-      "brand": "Virši",
-      "brandKey": "virsi",
-      "brandWikidata": "Q50378789",
-      "resolved": {
-        "brand": "Virši",
-        "brandKey": "virsi",
-        "brandWikidata": "Q50378789"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Virši",
-        "nameWikidata": "",
-        "operator": "Virši",
-        "operatorWikidata": "",
-        "rawBrandKey": "virsi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": false,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "operator_tag",
-        "categoryTokens": [
-          "car wash",
-          "car_wash"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q50378789",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
         "acceptedQidSource": "glossary_qid_lock",
         "acceptedQidReason": "qid_lock",
         "conflictingQids": []
@@ -1561,81 +971,6 @@
     {
       "categoryPath": "amenity/fast_food",
       "defaultCategoryPath": "amenity/fast_food",
-      "brand": "IKEA",
-      "brandKey": "ikea",
-      "brandWikidata": "Q54078",
-      "resolved": {
-        "brand": "IKEA",
-        "brandKey": "ikea",
-        "brandWikidata": "Q54078"
-      },
-      "raw": {
-        "brand": "IKEA",
-        "brandWikidata": "Q54078",
-        "name": "Zviedru restorāns",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "ikea",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "fast food",
-          "fast_food",
-          "swedish"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q54078",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "amenity/fast_food",
-      "defaultCategoryPath": "amenity/fast_food",
       "brand": "KFC",
       "brandKey": "kfc",
       "brandWikidata": "Q524757",
@@ -1685,81 +1020,6 @@
         "acceptedQid": "Q524757",
         "acceptedQidCount": 7,
         "totalQidCount": 7,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/fast_food",
-      "defaultCategoryPath": "amenity/fast_food",
-      "brand": "Lido",
-      "brandKey": "lido",
-      "brandWikidata": "Q1618438",
-      "resolved": {
-        "brand": "Lido",
-        "brandKey": "lido",
-        "brandWikidata": "Q1618438"
-      },
-      "raw": {
-        "brand": "Lido",
-        "brandWikidata": "Q1618438",
-        "name": "Lido Ģertrūde",
-        "nameWikidata": "",
-        "operator": "Lido",
-        "operatorWikidata": "",
-        "rawBrandKey": "lido",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "operator_tag",
-        "categoryTokens": [
-          "fast food",
-          "fast_food",
-          "regional"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q1618438",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "glossary_qid_lock",
@@ -2131,12 +1391,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q3268010",
-        "acceptedQidCount": 73,
-        "totalQidCount": 73,
+        "acceptedQidCount": 179,
+        "totalQidCount": 179,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -2153,8 +1413,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/fuel",
@@ -2430,8 +1690,8 @@
         "totalQidCount": 67,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -2448,8 +1708,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/fuel",
@@ -2794,12 +2054,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q12663942",
-        "acceptedQidCount": 91,
-        "totalQidCount": 91,
+        "acceptedQidCount": 95,
+        "totalQidCount": 95,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -2816,8 +2076,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/fuel",
@@ -2870,12 +2130,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q50378789",
-        "acceptedQidCount": 90,
-        "totalQidCount": 90,
+        "acceptedQidCount": 120,
+        "totalQidCount": 120,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -2892,8 +2152,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/ice_cream",
@@ -3021,8 +2281,8 @@
         "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3039,8 +2299,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/pharmacy",
@@ -3240,8 +2500,8 @@
         "totalQidCount": 15,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3258,8 +2518,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/pharmacy",
@@ -3337,79 +2597,6 @@
     {
       "categoryPath": "amenity/restaurant",
       "defaultCategoryPath": "amenity/restaurant",
-      "brand": "Lidl",
-      "brandKey": "lidl",
-      "brandWikidata": "Q151954",
-      "resolved": {
-        "brand": "Lidl",
-        "brandKey": "lidl",
-        "brandWikidata": "Q151954"
-      },
-      "raw": {
-        "brand": "Lidl",
-        "brandWikidata": "",
-        "name": "Lido",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lidl",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "restaurant"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q151954",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "amenity/restaurant",
-      "defaultCategoryPath": "amenity/restaurant",
       "brand": "Lido",
       "brandKey": "lido",
       "brandWikidata": "Q1618438",
@@ -3459,12 +2646,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1618438",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 3,
+        "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3481,8 +2668,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/restaurant",
@@ -3927,298 +3114,6 @@
       "reviewReason": "manual_verified"
     },
     {
-      "categoryPath": "shop/beauty",
-      "defaultCategoryPath": "shop/beauty",
-      "brand": "Douglas",
-      "brandKey": "douglas",
-      "brandWikidata": "Q2052213",
-      "resolved": {
-        "brand": "Douglas",
-        "brandKey": "douglas",
-        "brandWikidata": "Q2052213"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Douglas",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "douglas",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "beauty"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q2052213",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/beauty",
-      "defaultCategoryPath": "shop/beauty",
-      "brand": "Drogas",
-      "brandKey": "drogas",
-      "brandWikidata": "Q15806753",
-      "resolved": {
-        "brand": "Drogas",
-        "brandKey": "drogas",
-        "brandWikidata": "Q15806753"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Drogas",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "drogas",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "beauty"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q15806753",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/beverages",
-      "defaultCategoryPath": "shop/beverages",
-      "brand": "Latvijas balzams",
-      "brandKey": "latvijas_balzams",
-      "brandWikidata": "Q3133469",
-      "resolved": {
-        "brand": "Latvijas balzams",
-        "brandKey": "latvijas_balzams",
-        "brandWikidata": "Q3133469"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Latvijas balzams",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "latvijas_balzams",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "beverages"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3133469",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/beverages",
-      "defaultCategoryPath": "shop/beverages",
-      "brand": "Vynoteka",
-      "brandKey": "vynoteka",
-      "brandWikidata": "Q50378897",
-      "resolved": {
-        "brand": "Vynoteka",
-        "brandKey": "vynoteka",
-        "brandWikidata": "Q50378897"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Vynoteka",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "vynoteka",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "beverages"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
       "categoryPath": "shop/bicycle",
       "defaultCategoryPath": "shop/bicycle",
       "brand": "Specialized",
@@ -4558,8 +3453,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q8352675",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
+        "acceptedQidCount": 2,
+        "totalQidCount": 2,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -5142,12 +4037,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q6686",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
+        "acceptedQidCount": 2,
+        "totalQidCount": 2,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5164,8 +4059,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/car",
@@ -5434,12 +4329,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q53268",
-        "acceptedQidCount": 3,
-        "totalQidCount": 3,
+        "acceptedQidCount": 4,
+        "totalQidCount": 4,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5456,8 +4351,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/car",
@@ -5608,80 +4503,6 @@
     {
       "categoryPath": "shop/car_repair",
       "defaultCategoryPath": "shop/car_repair",
-      "brand": "Cupra",
-      "brandKey": "cupra",
-      "brandWikidata": "Q8352675",
-      "resolved": {
-        "brand": "Cupra",
-        "brandKey": "cupra",
-        "brandWikidata": "Q8352675"
-      },
-      "raw": {
-        "brand": "Cupra",
-        "brandWikidata": "Q8352675",
-        "name": "Autobrava Motors",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "cupra",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "car repair",
-          "car_repair"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q8352675",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/car_repair",
-      "defaultCategoryPath": "shop/car_repair",
       "brand": "Honda",
       "brandKey": "honda",
       "brandWikidata": "Q9584",
@@ -5728,8 +4549,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q9584",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
+        "acceptedQidCount": 2,
+        "totalQidCount": 2,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -5902,227 +4723,6 @@
       "reviewReason": "manual_verified"
     },
     {
-      "categoryPath": "shop/car_repair",
-      "defaultCategoryPath": "shop/car_repair",
-      "brand": "Renault",
-      "brandKey": "renault",
-      "brandWikidata": "Q6686",
-      "resolved": {
-        "brand": "Renault",
-        "brandKey": "renault",
-        "brandWikidata": "Q6686"
-      },
-      "raw": {
-        "brand": "Renault",
-        "brandWikidata": "Q6686",
-        "name": "Renault",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "renault",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "car repair",
-          "car_repair"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q6686",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/car_repair",
-      "defaultCategoryPath": "shop/car_repair",
-      "brand": "Toyota",
-      "brandKey": "toyota",
-      "brandWikidata": "Q53268",
-      "resolved": {
-        "brand": "Toyota",
-        "brandKey": "toyota",
-        "brandWikidata": "Q53268"
-      },
-      "raw": {
-        "brand": "Toyota",
-        "brandWikidata": "Q53268",
-        "name": "Līga-Z",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "toyota",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "car repair",
-          "car_repair"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q53268",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/chemist",
-      "defaultCategoryPath": "shop/chemist",
-      "brand": "Apotheka",
-      "brandKey": "apotheka",
-      "brandWikidata": "Q104426595",
-      "resolved": {
-        "brand": "Apotheka",
-        "brandKey": "apotheka",
-        "brandWikidata": "Q104426595"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Apotheka",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "apotheka",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "chemist"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q104426595",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "shop/chemist",
       "defaultCategoryPath": "shop/chemist",
       "brand": "Drogas",
@@ -6174,8 +4774,8 @@
         "totalQidCount": 74,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -6192,8 +4792,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -6243,12 +4843,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q16525801",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 3,
+        "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -6265,8 +4865,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -7658,79 +6258,6 @@
     {
       "categoryPath": "shop/clothes",
       "defaultCategoryPath": "shop/clothes",
-      "brand": "LaTS",
-      "brandKey": "lats",
-      "brandWikidata": "Q126453824",
-      "resolved": {
-        "brand": "LaTS",
-        "brandKey": "lats",
-        "brandWikidata": "Q126453824"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Gauja",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "gauja",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "clothes"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q126453824",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/clothes",
-      "defaultCategoryPath": "shop/clothes",
       "brand": "Lee Cooper",
       "brandKey": "lee_cooper",
       "brandWikidata": "Q260230",
@@ -9021,8 +7548,8 @@
         "totalQidCount": 32,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -9039,8 +7566,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -9410,152 +7937,6 @@
     {
       "categoryPath": "shop/clothes",
       "defaultCategoryPath": "shop/clothes",
-      "brand": "Sportland",
-      "brandKey": "sportland",
-      "brandWikidata": "Q124811348",
-      "resolved": {
-        "brand": "Sportland",
-        "brandKey": "sportland",
-        "brandWikidata": "Q124811348"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Sportland",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "sportland",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 7,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "clothes"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q124811348",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/clothes",
-      "defaultCategoryPath": "shop/clothes",
-      "brand": "Sports Direct",
-      "brandKey": "sports_direct",
-      "brandWikidata": "Q7579661",
-      "resolved": {
-        "brand": "Sports Direct",
-        "brandKey": "sports_direct",
-        "brandWikidata": "Q7579661"
-      },
-      "raw": {
-        "brand": "Sports Direct",
-        "brandWikidata": "Q7579661",
-        "name": "Sports Direct",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "sports_direct",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "clothes"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q7579661",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/clothes",
-      "defaultCategoryPath": "shop/clothes",
       "brand": "Stradivarius",
       "brandKey": "stradivarius",
       "brandWikidata": "Q3322945",
@@ -9751,8 +8132,8 @@
         "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -9769,8 +8150,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -9897,8 +8278,8 @@
         "totalQidCount": 4,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -9915,8 +8296,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -10284,79 +8665,6 @@
       "reviewReason": "qid_verified"
     },
     {
-      "categoryPath": "shop/computer",
-      "defaultCategoryPath": "shop/computer",
-      "brand": "Latvijas Mobilais Telefons",
-      "brandKey": "latvijas_mobilais_telefons",
-      "brandWikidata": "Q4993620",
-      "resolved": {
-        "brand": "Latvijas Mobilais Telefons",
-        "brandKey": "latvijas_mobilais_telefons",
-        "brandWikidata": "Q4993620"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "LMT",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lmt",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "computer"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4993620",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "shop/convenience",
       "defaultCategoryPath": "shop/convenience",
       "brand": "Aibe",
@@ -10408,8 +8716,8 @@
         "totalQidCount": 31,
         "conflictCount": 4,
         "acceptedQidRatio": 0.871,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata_majority",
+        "acceptedQidReason": "brand_wikidata_majority",
         "conflictingQids": [
           {
             "qid": "Q1022952",
@@ -10437,301 +8745,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Circle K",
-      "brandKey": "circle_k",
-      "brandWikidata": "Q3268010",
-      "resolved": {
-        "brand": "Circle K",
-        "brandKey": "circle_k",
-        "brandWikidata": "Q3268010"
-      },
-      "raw": {
-        "brand": "Circle K",
-        "brandWikidata": "Q3268010",
-        "name": "Circle K",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "circle_k",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 77,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "convenience",
-          "fuel"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3268010",
-        "acceptedQidCount": 67,
-        "totalQidCount": 67,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Elvi",
-      "brandKey": "elvi",
-      "brandWikidata": "Q20560513",
-      "resolved": {
-        "brand": "Elvi",
-        "brandKey": "elvi",
-        "brandWikidata": "Q20560513"
-      },
-      "raw": {
-        "brand": "Elvi",
-        "brandWikidata": "Q20560513",
-        "name": "Elvi",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "elvi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 38,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q20560513",
-        "acceptedQidCount": 19,
-        "totalQidCount": 19,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Euroaptieka",
-      "brandKey": "euroaptieka",
-      "brandWikidata": "Q124713990",
-      "resolved": {
-        "brand": "Euroaptieka",
-        "brandKey": "euroaptieka",
-        "brandWikidata": "Q124713990"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Euro Aptieka",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "euro_aptieka",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q124713990",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Fix Price",
-      "brandKey": "fix_price",
-      "brandWikidata": "Q4038791",
-      "resolved": {
-        "brand": "Fix Price",
-        "brandKey": "fix_price",
-        "brandWikidata": "Q4038791"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Fix Price",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "fix_price",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 8,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4038791",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/convenience",
@@ -10785,8 +8800,8 @@
         "totalQidCount": 32,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -10803,307 +8818,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Maxima",
-      "brandKey": "maxima",
-      "brandWikidata": "Q1881222",
-      "resolved": {
-        "brand": "Maxima",
-        "brandKey": "maxima",
-        "brandWikidata": "Q1881222"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Maxima X",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "maxima_x",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "X",
-        "label": "X",
-        "sizeLevel": 1
-      },
-      "storeFormats": [
-        {
-          "format": "X",
-          "label": "X",
-          "sizeLevel": 1,
-          "count": 6
-        }
-      ],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 7,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q1881222",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "format_variant",
-      "reviewReason": "manual_verified_format_variant"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Mego",
-      "brandKey": "mego",
-      "brandWikidata": "Q16363314",
-      "resolved": {
-        "brand": "Mego",
-        "brandKey": "mego",
-        "brandWikidata": "Q16363314"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Mego",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "mego",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 9,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q16363314",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Narvesen",
-      "brandKey": "narvesen",
-      "brandWikidata": "Q6514414",
-      "resolved": {
-        "brand": "Narvesen",
-        "brandKey": "narvesen",
-        "brandWikidata": "Q6514414"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Narvesen",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "narvesen",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 18,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q6514414",
-        "acceptedQidCount": 4,
-        "totalQidCount": 4,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Rimi",
-      "brandKey": "rimi",
-      "brandWikidata": "Q3741108",
-      "resolved": {
-        "brand": "Rimi",
-        "brandKey": "rimi",
-        "brandWikidata": "Q3741108"
-      },
-      "raw": {
-        "brand": "Rimi",
-        "brandWikidata": "Q3741108",
-        "name": "Rimi Express",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "rimi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 6,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3741108",
-        "acceptedQidCount": 6,
-        "totalQidCount": 6,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/convenience",
@@ -11153,12 +8869,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q610492",
-        "acceptedQidCount": 21,
-        "totalQidCount": 21,
+        "acceptedQidCount": 26,
+        "totalQidCount": 26,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11175,8 +8891,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/convenience",
@@ -11227,12 +8943,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q20803907",
-        "acceptedQidCount": 76,
-        "totalQidCount": 76,
+        "acceptedQidCount": 100,
+        "totalQidCount": 100,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11249,301 +8965,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Viada",
-      "brandKey": "viada",
-      "brandWikidata": "Q12663942",
-      "resolved": {
-        "brand": "Viada",
-        "brandKey": "viada",
-        "brandWikidata": "Q12663942"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Viada",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "viada",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 27,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "convenience"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q12663942",
-        "acceptedQidCount": 3,
-        "totalQidCount": 3,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/convenience",
-      "defaultCategoryPath": "shop/convenience",
-      "brand": "Virši",
-      "brandKey": "virsi",
-      "brandWikidata": "Q50378789",
-      "resolved": {
-        "brand": "Virši",
-        "brandKey": "virsi",
-        "brandWikidata": "Q50378789"
-      },
-      "raw": {
-        "brand": "Virši",
-        "brandWikidata": "Q50378789",
-        "name": "Virši",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "virsi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 37,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "convenience",
-          "fuel"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q50378789",
-        "acceptedQidCount": 29,
-        "totalQidCount": 29,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/cosmetics",
-      "defaultCategoryPath": "shop/cosmetics",
-      "brand": "Douglas",
-      "brandKey": "douglas",
-      "brandWikidata": "Q2052213",
-      "resolved": {
-        "brand": "Douglas",
-        "brandKey": "douglas",
-        "brandWikidata": "Q2052213"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Douglas",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "douglas",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 5,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "cosmetics"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q2052213",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/cosmetics",
-      "defaultCategoryPath": "shop/cosmetics",
-      "brand": "Drogas",
-      "brandKey": "drogas",
-      "brandWikidata": "Q15806753",
-      "resolved": {
-        "brand": "Drogas",
-        "brandKey": "drogas",
-        "brandWikidata": "Q15806753"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Drogas",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "drogas",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "cosmetics"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q15806753",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/cosmetics",
@@ -11958,79 +9381,6 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q124726993",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/electronics",
-      "defaultCategoryPath": "shop/electronics",
-      "brand": "Bite",
-      "brandKey": "bite",
-      "brandWikidata": "Q89915656",
-      "resolved": {
-        "brand": "Bite",
-        "brandKey": "bite",
-        "brandWikidata": "Q89915656"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Bite",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "bite",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "electronics"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q89915656",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
@@ -12689,8 +10039,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q54078",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 3,
+        "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -12762,85 +10112,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q138913",
-        "acceptedQidCount": 10,
-        "totalQidCount": 10,
+        "acceptedQidCount": 11,
+        "totalQidCount": 11,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/furniture",
-      "defaultCategoryPath": "shop/furniture",
-      "brand": "Top Shop",
-      "brandKey": "top_shop",
-      "brandWikidata": "Q116919675",
-      "resolved": {
-        "brand": "Top Shop",
-        "brandKey": "top_shop",
-        "brandWikidata": "Q116919675"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Top Shop",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "top_shop",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "furniture"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12859,445 +10136,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/garden_centre",
-      "defaultCategoryPath": "shop/garden_centre",
-      "brand": "Mājai un dārzam",
-      "brandKey": "majai_un_darzam",
-      "brandWikidata": "Q124726993",
-      "resolved": {
-        "brand": "Mājai un dārzam",
-        "brandKey": "majai_un_darzam",
-        "brandWikidata": "Q124726993"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Mājai un dārzam",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "majai_un_darzam",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "garden centre",
-          "garden_centre"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q124726993",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/general",
-      "defaultCategoryPath": "shop/general",
-      "brand": "Fix Price",
-      "brandKey": "fix_price",
-      "brandWikidata": "Q4038791",
-      "resolved": {
-        "brand": "Fix Price",
-        "brandKey": "fix_price",
-        "brandWikidata": "Q4038791"
-      },
-      "raw": {
-        "brand": "Fix Price",
-        "brandWikidata": "",
-        "name": "Fix Price",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "fix_price",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "general"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4038791",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/general",
-      "defaultCategoryPath": "shop/general",
-      "brand": "LaTS",
-      "brandKey": "lats",
-      "brandWikidata": "Q126453824",
-      "resolved": {
-        "brand": "LaTS",
-        "brandKey": "lats",
-        "brandWikidata": "Q126453824"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Lats",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lats",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "general"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q126453824",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/general",
-      "defaultCategoryPath": "shop/general",
-      "brand": "top!",
-      "brandKey": "top",
-      "brandWikidata": "Q20803907",
-      "resolved": {
-        "brand": "top!",
-        "brandKey": "top",
-        "brandWikidata": "Q20803907"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "top!",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "top",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "general"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q20803907",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/gift",
-      "defaultCategoryPath": "shop/gift",
-      "brand": "Flying Tiger Copenhagen",
-      "brandKey": "flying_tiger_copenhagen",
-      "brandWikidata": "Q2786319",
-      "resolved": {
-        "brand": "Flying Tiger Copenhagen",
-        "brandKey": "flying_tiger_copenhagen",
-        "brandWikidata": "Q2786319"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Flying Tiger Copenhagen",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "flying_tiger_copenhagen",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "gift"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q2786319",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/hairdresser",
-      "defaultCategoryPath": "shop/hairdresser",
-      "brand": "Rezidence",
-      "brandKey": "rezidence",
-      "brandWikidata": "Q137169187",
-      "resolved": {
-        "brand": "Rezidence",
-        "brandKey": "rezidence",
-        "brandWikidata": "Q137169187"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Rezidence",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "rezidence",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "hairdresser"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q137169187",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "shop/hardware",
@@ -13420,152 +10258,6 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q10528953",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/hardware",
-      "defaultCategoryPath": "shop/hardware",
-      "brand": "JYSK",
-      "brandKey": "jysk",
-      "brandWikidata": "Q138913",
-      "resolved": {
-        "brand": "JYSK",
-        "brandKey": "jysk",
-        "brandWikidata": "Q138913"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "JYSK",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "jysk",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "hardware"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q138913",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/hardware",
-      "defaultCategoryPath": "shop/hardware",
-      "brand": "Mājai un dārzam",
-      "brandKey": "majai_un_darzam",
-      "brandWikidata": "Q124726993",
-      "resolved": {
-        "brand": "Mājai un dārzam",
-        "brandKey": "majai_un_darzam",
-        "brandWikidata": "Q124726993"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Mājai un Dārzam",
-        "nameWikidata": "",
-        "operator": "A/S Diāna",
-        "operatorWikidata": "",
-        "rawBrandKey": "majai_un_darzam",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "hardware"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q124726993",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
@@ -13813,152 +10505,6 @@
     {
       "categoryPath": "shop/houseware",
       "defaultCategoryPath": "shop/houseware",
-      "brand": "Fix Price",
-      "brandKey": "fix_price",
-      "brandWikidata": "Q4038791",
-      "resolved": {
-        "brand": "Fix Price",
-        "brandKey": "fix_price",
-        "brandWikidata": "Q4038791"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Fix Price",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "fix_price",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "houseware"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4038791",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/houseware",
-      "defaultCategoryPath": "shop/houseware",
-      "brand": "JYSK",
-      "brandKey": "jysk",
-      "brandWikidata": "Q138913",
-      "resolved": {
-        "brand": "JYSK",
-        "brandKey": "jysk",
-        "brandWikidata": "Q138913"
-      },
-      "raw": {
-        "brand": "JYSK",
-        "brandWikidata": "Q138913",
-        "name": "JYSK",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "jysk",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "houseware"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q138913",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/houseware",
-      "defaultCategoryPath": "shop/houseware",
       "brand": "Top Shop",
       "brandKey": "top_shop",
       "brandWikidata": "Q116919675",
@@ -14003,13 +10549,13 @@
         "samplePointCount": 4
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
+        "acceptedQid": "Q116919675",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -14028,80 +10574,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/interior_decoration",
-      "defaultCategoryPath": "shop/interior_decoration",
-      "brand": "JYSK",
-      "brandKey": "jysk",
-      "brandWikidata": "Q138913",
-      "resolved": {
-        "brand": "JYSK",
-        "brandKey": "jysk",
-        "brandWikidata": "Q138913"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Jysk",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "jysk",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "interior decoration",
-          "interior_decoration"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q138913",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "shop/jewelry",
@@ -14443,12 +10915,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q6514414",
-        "acceptedQidCount": 86,
-        "totalQidCount": 86,
+        "acceptedQidCount": 90,
+        "totalQidCount": 90,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -14465,156 +10937,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/kiosk",
-      "defaultCategoryPath": "shop/kiosk",
-      "brand": "Viada",
-      "brandKey": "viada",
-      "brandWikidata": "Q12663942",
-      "resolved": {
-        "brand": "Viada",
-        "brandKey": "viada",
-        "brandWikidata": "Q12663942"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Viada",
-        "nameWikidata": "",
-        "operator": "Viada Baltija",
-        "operatorWikidata": "",
-        "rawBrandKey": "viada",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "fuel",
-          "kiosk"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q12663942",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/kiosk",
-      "defaultCategoryPath": "shop/kiosk",
-      "brand": "Virši",
-      "brandKey": "virsi",
-      "brandWikidata": "Q50378789",
-      "resolved": {
-        "brand": "Virši",
-        "brandKey": "virsi",
-        "brandWikidata": "Q50378789"
-      },
-      "raw": {
-        "brand": "Virši",
-        "brandWikidata": "Q50378789",
-        "name": "Virši",
-        "nameWikidata": "",
-        "operator": "AS \"Virši-A\"",
-        "operatorWikidata": "",
-        "rawBrandKey": "virsi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "fuel",
-          "kiosk"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q50378789",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/laundry",
@@ -15057,79 +11381,6 @@
     {
       "categoryPath": "shop/mall",
       "defaultCategoryPath": "shop/mall",
-      "brand": "Rimi",
-      "brandKey": "rimi",
-      "brandWikidata": "Q3741108",
-      "resolved": {
-        "brand": "Rimi",
-        "brandKey": "rimi",
-        "brandWikidata": "Q3741108"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Rimi",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "rimi",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "mall"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3741108",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/mall",
-      "defaultCategoryPath": "shop/mall",
       "brand": "Spice",
       "brandKey": "spice",
       "brandWikidata": "Q61121404",
@@ -15253,8 +11504,8 @@
         "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -15271,8 +11522,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/mobile_phone",
@@ -15327,8 +11578,8 @@
         "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -15345,8 +11596,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/mobile_phone",
@@ -15397,155 +11648,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q309865",
-        "acceptedQidCount": 15,
-        "totalQidCount": 15,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/mobile_phone_accessories",
-      "defaultCategoryPath": "shop/mobile_phone_accessories",
-      "brand": "Tele2",
-      "brandKey": "tele2",
-      "brandWikidata": "Q309865",
-      "resolved": {
-        "brand": "Tele2",
-        "brandKey": "tele2",
-        "brandWikidata": "Q309865"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Aioo",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "aioo",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "mobile phone accessories",
-          "mobile_phone_accessories"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q309865",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/motorcycle",
-      "defaultCategoryPath": "shop/motorcycle",
-      "brand": "Honda",
-      "brandKey": "honda",
-      "brandWikidata": "Q9584",
-      "resolved": {
-        "brand": "Honda",
-        "brandKey": "honda",
-        "brandWikidata": "Q9584"
-      },
-      "raw": {
-        "brand": "Honda",
-        "brandWikidata": "Q9584",
-        "name": "Honda",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "honda",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "motorcycle"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q9584",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
+        "acceptedQidCount": 16,
+        "totalQidCount": 16,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -15645,79 +11749,6 @@
     {
       "categoryPath": "shop/motorcycle",
       "defaultCategoryPath": "shop/motorcycle",
-      "brand": "Triumph",
-      "brandKey": "triumph",
-      "brandWikidata": "Q671216",
-      "resolved": {
-        "brand": "Triumph",
-        "brandKey": "triumph",
-        "brandWikidata": "Q671216"
-      },
-      "raw": {
-        "brand": "Triumph",
-        "brandWikidata": "",
-        "name": "",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "triumph",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "motorcycle"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q671216",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/motorcycle",
-      "defaultCategoryPath": "shop/motorcycle",
       "brand": "Yamaha",
       "brandKey": "yamaha",
       "brandWikidata": "Q158888",
@@ -15787,79 +11818,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/newsagent",
-      "defaultCategoryPath": "shop/newsagent",
-      "brand": "Narvesen",
-      "brandKey": "narvesen",
-      "brandWikidata": "Q6514414",
-      "resolved": {
-        "brand": "Narvesen",
-        "brandKey": "narvesen",
-        "brandWikidata": "Q6514414"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Narvesen",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "narvesen",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": false,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "newsagent"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q6514414",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "shop/optician",
@@ -16055,12 +12013,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q2052213",
-        "acceptedQidCount": 6,
-        "totalQidCount": 6,
+        "acceptedQidCount": 8,
+        "totalQidCount": 8,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -16077,8 +12035,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/pet",
@@ -16225,80 +12183,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/second_hand",
-      "defaultCategoryPath": "shop/second_hand",
-      "brand": "Pepco",
-      "brandKey": "pepco",
-      "brandWikidata": "Q11815580",
-      "resolved": {
-        "brand": "Pepco",
-        "brandKey": "pepco",
-        "brandWikidata": "Q11815580"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Pepco",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "pepco",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "second hand",
-          "second_hand"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q11815580",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "shop/shoes",
@@ -17031,152 +12915,6 @@
       "reviewReason": "manual_verified"
     },
     {
-      "categoryPath": "shop/shoes",
-      "defaultCategoryPath": "shop/shoes",
-      "brand": "Timberland",
-      "brandKey": "timberland",
-      "brandWikidata": "Q1539185",
-      "resolved": {
-        "brand": "Timberland",
-        "brandKey": "timberland",
-        "brandWikidata": "Q1539185"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Timberland",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "timberland",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "shoes"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q1539185",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/sports",
-      "defaultCategoryPath": "shop/sports",
-      "brand": "4F",
-      "brandKey": "4f",
-      "brandWikidata": "Q16525801",
-      "resolved": {
-        "brand": "4F",
-        "brandKey": "4f",
-        "brandWikidata": "Q16525801"
-      },
-      "raw": {
-        "brand": "4F",
-        "brandWikidata": "Q16525801",
-        "name": "4F",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "4f",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "sports"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q16525801",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "shop/sports",
       "defaultCategoryPath": "shop/sports",
       "brand": "Adidas",
@@ -17443,12 +13181,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q7579661",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 3,
+        "totalQidCount": 3,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -17465,81 +13203,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
-      "brand": "Aibe",
-      "brandKey": "aibe",
-      "brandWikidata": "Q126120243",
-      "resolved": {
-        "brand": "Aibe",
-        "brandKey": "aibe",
-        "brandWikidata": "Q126120243"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Aibe",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "aibe",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 8,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q126120243",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -17589,12 +13254,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q20560513",
-        "acceptedQidCount": 24,
-        "totalQidCount": 24,
+        "acceptedQidCount": 43,
+        "totalQidCount": 43,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -17611,8 +13276,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -17662,12 +13327,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q4038791",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
+        "acceptedQidCount": 2,
+        "totalQidCount": 2,
         "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -17684,8 +13349,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -17763,79 +13428,6 @@
     {
       "categoryPath": "shop/supermarket",
       "defaultCategoryPath": "shop/supermarket",
-      "brand": "LaTS",
-      "brandKey": "lats",
-      "brandWikidata": "Q126453824",
-      "resolved": {
-        "brand": "LaTS",
-        "brandKey": "lats",
-        "brandWikidata": "Q126453824"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "LaTS",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lats",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 11,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q126453824",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
       "brand": "Lidl",
       "brandKey": "lidl",
       "brandWikidata": "Q151954",
@@ -17885,8 +13477,8 @@
         "totalQidCount": 39,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -17903,81 +13495,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
-      "brand": "Mājai un dārzam",
-      "brandKey": "majai_un_darzam",
-      "brandWikidata": "Q124726993",
-      "resolved": {
-        "brand": "Mājai un dārzam",
-        "brandKey": "majai_un_darzam",
-        "brandWikidata": "Q124726993"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Mājai un Dārzam",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "majai_un_darzam",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q124726993",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -18050,8 +13569,8 @@
         "totalQidCount": 156,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -18069,7 +13588,7 @@
         "notes": ""
       },
       "brandStatus": "format_variant",
-      "reviewReason": "manual_verified_format_variant"
+      "reviewReason": "qid_verified_format_variant"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -18119,12 +13638,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q16363314",
-        "acceptedQidCount": 76,
-        "totalQidCount": 76,
+        "acceptedQidCount": 77,
+        "totalQidCount": 77,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -18141,81 +13660,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
-      "brand": "Narvesen",
-      "brandKey": "narvesen",
-      "brandWikidata": "Q6514414",
-      "resolved": {
-        "brand": "Narvesen",
-        "brandKey": "narvesen",
-        "brandWikidata": "Q6514414"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Narvesen",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "narvesen",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q6514414",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -18338,12 +13784,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q3741108",
-        "acceptedQidCount": 123,
-        "totalQidCount": 125,
+        "acceptedQidCount": 129,
+        "totalQidCount": 131,
         "conflictCount": 2,
-        "acceptedQidRatio": 0.984,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidRatio": 0.985,
+        "acceptedQidSource": "pbf_brand_wikidata_majority",
+        "acceptedQidReason": "brand_wikidata_majority",
         "conflictingQids": [
           {
             "qid": "Q7334456",
@@ -18371,8 +13817,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -18521,152 +13967,6 @@
       "reviewReason": "manual_verified"
     },
     {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
-      "brand": "Spar",
-      "brandKey": "spar",
-      "brandWikidata": "Q610492",
-      "resolved": {
-        "brand": "Spar",
-        "brandKey": "spar",
-        "brandWikidata": "Q610492"
-      },
-      "raw": {
-        "brand": "Spar",
-        "brandWikidata": "Q610492",
-        "name": "Spar",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "spar",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 5,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q610492",
-        "acceptedQidCount": 5,
-        "totalQidCount": 5,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/supermarket",
-      "defaultCategoryPath": "shop/supermarket",
-      "brand": "top!",
-      "brandKey": "top",
-      "brandWikidata": "Q20803907",
-      "resolved": {
-        "brand": "top!",
-        "brandKey": "top",
-        "brandWikidata": "Q20803907"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Top!",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "top",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 65,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "supermarket"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q20803907",
-        "acceptedQidCount": 22,
-        "totalQidCount": 22,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
       "categoryPath": "shop/tattoo",
       "defaultCategoryPath": "shop/tattoo",
       "brand": "VeAn Tattoo",
@@ -18738,225 +14038,6 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/telecommunication",
-      "defaultCategoryPath": "shop/telecommunication",
-      "brand": "Bite",
-      "brandKey": "bite",
-      "brandWikidata": "Q89915656",
-      "resolved": {
-        "brand": "Bite",
-        "brandKey": "bite",
-        "brandWikidata": "Q89915656"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Bite",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "bite",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "telecommunication"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q89915656",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/telecommunication",
-      "defaultCategoryPath": "shop/telecommunication",
-      "brand": "Latvijas Mobilais Telefons",
-      "brandKey": "latvijas_mobilais_telefons",
-      "brandWikidata": "Q4993620",
-      "resolved": {
-        "brand": "Latvijas Mobilais Telefons",
-        "brandKey": "latvijas_mobilais_telefons",
-        "brandWikidata": "Q4993620"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "LMT",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "lmt",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "telecommunication"
-        ],
-        "samplePointCount": 2
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4993620",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/telecommunication",
-      "defaultCategoryPath": "shop/telecommunication",
-      "brand": "Tele2",
-      "brandKey": "tele2",
-      "brandWikidata": "Q309865",
-      "resolved": {
-        "brand": "Tele2",
-        "brandKey": "tele2",
-        "brandWikidata": "Q309865"
-      },
-      "raw": {
-        "brand": "Tele2",
-        "brandWikidata": "Q309865",
-        "name": "Tele2",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "tele2",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "telecommunication"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q309865",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "shop/travel_agency",
@@ -19255,80 +14336,6 @@
     {
       "categoryPath": "shop/variety_store",
       "defaultCategoryPath": "shop/variety_store",
-      "brand": "Fix Price",
-      "brandKey": "fix_price",
-      "brandWikidata": "Q4038791",
-      "resolved": {
-        "brand": "Fix Price",
-        "brandKey": "fix_price",
-        "brandWikidata": "Q4038791"
-      },
-      "raw": {
-        "brand": "Fix Price",
-        "brandWikidata": "Q4038791",
-        "name": "Fix Price",
-        "nameWikidata": "",
-        "operator": "SIA \"FP LV\"",
-        "operatorWikidata": "",
-        "rawBrandKey": "fix_price",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 5,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "variety store",
-          "variety_store"
-        ],
-        "samplePointCount": 5
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q4038791",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/variety_store",
-      "defaultCategoryPath": "shop/variety_store",
       "brand": "Flying Tiger Copenhagen",
       "brandKey": "flying_tiger_copenhagen",
       "brandWikidata": "Q2786319",
@@ -19379,8 +14386,8 @@
         "totalQidCount": 5,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -19397,8 +14404,8 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/variety_store",
@@ -19473,235 +14480,14 @@
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/variety_store",
-      "defaultCategoryPath": "shop/variety_store",
-      "brand": "top!",
-      "brandKey": "top",
-      "brandWikidata": "Q20803907",
-      "resolved": {
-        "brand": "top!",
-        "brandKey": "top",
-        "brandWikidata": "Q20803907"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Veikals TOP",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "veikals_top",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "alias",
-        "status": "resolved"
-      },
-      "confidence": 84,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "variety store",
-          "variety_store"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q20803907",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
-    },
-    {
-      "categoryPath": "shop/variety_store",
-      "defaultCategoryPath": "shop/variety_store",
-      "brand": "Top Shop",
-      "brandKey": "top_shop",
-      "brandWikidata": "Q116919675",
-      "resolved": {
-        "brand": "Top Shop",
-        "brandKey": "top_shop",
-        "brandWikidata": "Q116919675"
-      },
-      "raw": {
-        "brand": "Top Shop",
-        "brandWikidata": "Q116919675",
-        "name": "Top Shop",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "top_shop",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "variety store",
-          "variety_store"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q116919675",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/wine",
-      "defaultCategoryPath": "shop/wine",
-      "brand": "Latvijas balzams",
-      "brandKey": "latvijas_balzams",
-      "brandWikidata": "Q3133469",
-      "resolved": {
-        "brand": "Latvijas balzams",
-        "brandKey": "latvijas_balzams",
-        "brandWikidata": "Q3133469"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Latvijas balzams",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "latvijas_balzams",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "wine"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q3133469",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "glossary_qid_lock",
-        "acceptedQidReason": "qid_lock",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "manual_verified",
-      "reviewReason": "manual_verified"
     }
   ],
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 268,
-    "candidateCount": 505,
-    "rejectCount": 39,
-    "humanReviewCount": 5747,
+    "productionCount": 197,
+    "candidateCount": 461,
+    "rejectCount": 30,
+    "humanReviewCount": 5291,
     "aiReviewCount": 0
   }
 }
