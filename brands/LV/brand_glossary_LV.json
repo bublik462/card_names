@@ -1,0 +1,2915 @@
+{
+  "country": "LV",
+  "map": {
+    "1un2": {
+      "brand": "1un2",
+      "brandKey": "1un2",
+      "brandWikidata": ""
+    },
+    "4f": {
+      "brand": "4F",
+      "brandKey": "4f",
+      "brandWikidata": "Q16525801"
+    },
+    "585": {
+      "brand": "585°",
+      "brandKey": "585",
+      "brandWikidata": ""
+    },
+    "a apotheka lana": {
+      "brand": "Apotheka",
+      "brandKey": "apotheka",
+      "brandWikidata": "Q104426595"
+    },
+    "a aptieka": {
+      "brand": "A Aptieka",
+      "brandKey": "a_aptieka",
+      "brandWikidata": ""
+    },
+    "aibe": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "aibe dagi": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "aibe depo markets": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "aibe ziles": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "aioo": {
+      "brand": "Tele2",
+      "brandKey": "tele2",
+      "brandWikidata": "Q309865"
+    },
+    "airas": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "aizkari": {
+      "brand": "Aizkari",
+      "brandKey": "aizkari",
+      "brandWikidata": ""
+    },
+    "akcents": {
+      "brand": "Akcents",
+      "brandKey": "akcents",
+      "brandWikidata": ""
+    },
+    "akmenu avots": {
+      "brand": "Akmeņu avots",
+      "brandKey": "akmenu_avots",
+      "brandWikidata": ""
+    },
+    "alandeko": {
+      "brand": "Alandeko",
+      "brandKey": "alandeko",
+      "brandWikidata": ""
+    },
+    "aleksandrs": {
+      "brand": "Aleksandrs",
+      "brandKey": "aleksandrs",
+      "brandWikidata": ""
+    },
+    "alk outlet": {
+      "brand": "AlkOutlet",
+      "brandKey": "alkoutlet",
+      "brandWikidata": ""
+    },
+    "alko outlet": {
+      "brand": "AlkOutlet",
+      "brandKey": "alkoutlet",
+      "brandWikidata": ""
+    },
+    "alkoutlet": {
+      "brand": "AlkOutlet",
+      "brandKey": "alkoutlet",
+      "brandWikidata": ""
+    },
+    "animu": {
+      "brand": "Animu",
+      "brandKey": "animu",
+      "brandWikidata": ""
+    },
+    "apavi": {
+      "brand": "Apavi",
+      "brandKey": "apavi",
+      "brandWikidata": ""
+    },
+    "apavi un apgerbi": {
+      "brand": "Apavi un apģērbi",
+      "brandKey": "apavi_un_apgerbi",
+      "brandWikidata": ""
+    },
+    "apavi visai gimenei": {
+      "brand": "Apavi visai ģimenei",
+      "brandKey": "apavi_visai_gimenei",
+      "brandWikidata": ""
+    },
+    "apgerbi": {
+      "brand": "Apģērbi",
+      "brandKey": "apgerbi",
+      "brandWikidata": ""
+    },
+    "apotheka": {
+      "brand": "Apotheka",
+      "brandKey": "apotheka",
+      "brandWikidata": "Q104426595"
+    },
+    "apranga": {
+      "brand": "Apranga",
+      "brandKey": "apranga",
+      "brandWikidata": ""
+    },
+    "aptieka": {
+      "brand": "Aptieka",
+      "brandKey": "aptieka",
+      "brandWikidata": ""
+    },
+    "aptieka 1": {
+      "brand": "Apotheka",
+      "brandKey": "apotheka",
+      "brandWikidata": "Q104426595"
+    },
+    "astarte": {
+      "brand": "Astarte",
+      "brandKey": "astarte",
+      "brandWikidata": ""
+    },
+    "astarte nafta": {
+      "brand": "Astarte Nafta",
+      "brandKey": "astarte_nafta",
+      "brandWikidata": ""
+    },
+    "ausmena kebabs": {
+      "brand": "Ausmeņa kebabs",
+      "brandKey": "ausmena_kebabs",
+      "brandWikidata": ""
+    },
+    "austris": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "autodalas": {
+      "brand": "Autodaļas",
+      "brandKey": "autodalas",
+      "brandWikidata": ""
+    },
+    "autoduals": {
+      "brand": "autoDuals",
+      "brandKey": "autoduals",
+      "brandWikidata": ""
+    },
+    "autofavorits": {
+      "brand": "Autofavorīts",
+      "brandKey": "autofavorits",
+      "brandWikidata": ""
+    },
+    "automazgatava": {
+      "brand": "Automazgātava",
+      "brandKey": "automazgatava",
+      "brandWikidata": ""
+    },
+    "autoserviss": {
+      "brand": "Autoserviss",
+      "brandKey": "autoserviss",
+      "brandWikidata": ""
+    },
+    "baltic data": {
+      "brand": "Baltic Data",
+      "brandKey": "baltic_data",
+      "brandWikidata": ""
+    },
+    "baltzelts": {
+      "brand": "Baltzelts",
+      "brandKey": "baltzelts",
+      "brandWikidata": ""
+    },
+    "bauskas alus": {
+      "brand": "Bauskas alus",
+      "brandKey": "bauskas_alus",
+      "brandWikidata": ""
+    },
+    "beautyfor": {
+      "brand": "Beautyfor",
+      "brandKey": "beautyfor",
+      "brandWikidata": ""
+    },
+    "bento": {
+      "brand": "Bento",
+      "brandKey": "bento",
+      "brandWikidata": ""
+    },
+    "benu": {
+      "brand": "Benu",
+      "brandKey": "benu",
+      "brandWikidata": "Q62562792"
+    },
+    "beta": {
+      "brand": "Beta",
+      "brandKey": "beta",
+      "brandWikidata": ""
+    },
+    "bite": {
+      "brand": "Bite",
+      "brandKey": "bite",
+      "brandWikidata": "Q89915656"
+    },
+    "bite latvija": {
+      "brand": "Bite",
+      "brandKey": "bite",
+      "brandWikidata": "Q89915656"
+    },
+    "black stork": {
+      "brand": "Black Stork",
+      "brandKey": "black_stork",
+      "brandWikidata": ""
+    },
+    "blue box": {
+      "brand": "Blue Box",
+      "brandKey": "blue_box",
+      "brandWikidata": ""
+    },
+    "bode": {
+      "brand": "Bode",
+      "brandKey": "bode",
+      "brandWikidata": ""
+    },
+    "boozie": {
+      "brand": "Boozie",
+      "brandKey": "boozie",
+      "brandWikidata": ""
+    },
+    "branchess": {
+      "brand": "Branchess",
+      "brandKey": "branchess",
+      "brandWikidata": ""
+    },
+    "burger king": {
+      "brand": "Burger King",
+      "brandKey": "burger_king",
+      "brandWikidata": "Q177054"
+    },
+    "buvniecibas abc": {
+      "brand": "Būvniecības ABC",
+      "brandKey": "buvniecibas_abc",
+      "brandWikidata": ""
+    },
+    "cadets de gascogne": {
+      "brand": "Cadets de Gascogne",
+      "brandKey": "cadets_de_gascogne",
+      "brandWikidata": ""
+    },
+    "caffeine": {
+      "brand": "Caffeine",
+      "brandKey": "caffeine",
+      "brandWikidata": ""
+    },
+    "calvin klein": {
+      "brand": "Calvin Klein",
+      "brandKey": "calvin_klein",
+      "brandWikidata": "Q1068628"
+    },
+    "calzedonia": {
+      "brand": "Calzedonia",
+      "brandKey": "calzedonia",
+      "brandWikidata": "Q1027874"
+    },
+    "camel active": {
+      "brand": "Camel Active",
+      "brandKey": "camel_active",
+      "brandWikidata": ""
+    },
+    "candy pop": {
+      "brand": "Candy pop",
+      "brandKey": "candy_pop",
+      "brandWikidata": ""
+    },
+    "car wash": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "car wash 24 7": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "carwash service": {
+      "brand": "CarWash Service",
+      "brandKey": "carwash_service",
+      "brandWikidata": ""
+    },
+    "case4you": {
+      "brand": "Case4You",
+      "brandKey": "case4you",
+      "brandWikidata": ""
+    },
+    "ccc": {
+      "brand": "CCC",
+      "brandKey": "ccc",
+      "brandWikidata": "Q11788344"
+    },
+    "celavejs": {
+      "brand": "Ceļavējš",
+      "brandKey": "celavejs",
+      "brandWikidata": ""
+    },
+    "cili pica": {
+      "brand": "Čili Pica",
+      "brandKey": "cili_pica",
+      "brandWikidata": ""
+    },
+    "cili pizza": {
+      "brand": "Čili Pizza",
+      "brandKey": "cili_pizza",
+      "brandWikidata": ""
+    },
+    "circle k": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k apvedcels": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k automats": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k bauska": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k jelgava 1": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k jelgava 2": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k jelgava 4": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k kuldiga": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "circle k liepaja 2": {
+      "brand": "Circle K",
+      "brandKey": "circle_k",
+      "brandWikidata": "Q3268010"
+    },
+    "cita santehnika": {
+      "brand": "Santehnika",
+      "brandKey": "santehnika",
+      "brandWikidata": "Q125726485"
+    },
+    "citro": {
+      "brand": "Citro",
+      "brandKey": "citro",
+      "brandWikidata": ""
+    },
+    "citroen": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "clean control": {
+      "brand": "Clean Control",
+      "brandKey": "clean_control",
+      "brandWikidata": ""
+    },
+    "clothes for you": {
+      "brand": "Clothes for You",
+      "brandKey": "clothes_for_you",
+      "brandWikidata": ""
+    },
+    "coffee stop": {
+      "brand": "Coffee STOP",
+      "brandKey": "coffee_stop",
+      "brandWikidata": ""
+    },
+    "coffee tower": {
+      "brand": "Coffee Tower",
+      "brandKey": "coffee_tower",
+      "brandWikidata": ""
+    },
+    "cofyz": {
+      "brand": "Cofyz",
+      "brandKey": "cofyz",
+      "brandWikidata": ""
+    },
+    "coop eesti": {
+      "brand": "Coop Eesti",
+      "brandKey": "coop_eesti",
+      "brandWikidata": ""
+    },
+    "coop selvehall kauplus": {
+      "brand": "Coop Eesti",
+      "brandKey": "coop_eesti",
+      "brandWikidata": ""
+    },
+    "coop soprus kauplus": {
+      "brand": "Coop Eesti",
+      "brandKey": "coop_eesti",
+      "brandWikidata": ""
+    },
+    "coop voru kauplus": {
+      "brand": "Coop Eesti",
+      "brandKey": "coop_eesti",
+      "brandWikidata": ""
+    },
+    "costa": {
+      "brand": "Costa",
+      "brandKey": "costa",
+      "brandWikidata": "Q608845"
+    },
+    "costa coffee": {
+      "brand": "Costa",
+      "brandKey": "costa",
+      "brandWikidata": "Q608845"
+    },
+    "cover me": {
+      "brand": "CoverMe",
+      "brandKey": "coverme",
+      "brandWikidata": ""
+    },
+    "coverme": {
+      "brand": "CoverMe",
+      "brandKey": "coverme",
+      "brandWikidata": ""
+    },
+    "cramo": {
+      "brand": "Cramo",
+      "brandKey": "cramo",
+      "brandWikidata": ""
+    },
+    "crocs": {
+      "brand": "Crocs",
+      "brandKey": "crocs",
+      "brandWikidata": "Q926699"
+    },
+    "cropp": {
+      "brand": "Cropp",
+      "brandKey": "cropp",
+      "brandWikidata": "Q9196793"
+    },
+    "cup cino": {
+      "brand": "Cup&Cino",
+      "brandKey": "cup_cino",
+      "brandWikidata": ""
+    },
+    "cēsu centra aptieka": {
+      "brand": "Centra Aptieka",
+      "brandKey": "centra_aptieka",
+      "brandWikidata": "Q124804422"
+    },
+    "daily": {
+      "brand": "Daily",
+      "brandKey": "daily",
+      "brandWikidata": ""
+    },
+    "daniele donati": {
+      "brand": "Daniele Donati",
+      "brandKey": "daniele_donati",
+      "brandWikidata": ""
+    },
+    "danija": {
+      "brand": "Danija",
+      "brandKey": "danija",
+      "brandWikidata": ""
+    },
+    "daugavpils ezitis migla": {
+      "brand": "Ezītis miglā",
+      "brandKey": "ezitis_migla",
+      "brandWikidata": ""
+    },
+    "deichmann": {
+      "brand": "Deichmann",
+      "brandKey": "deichmann",
+      "brandWikidata": "Q664543"
+    },
+    "delicio": {
+      "brand": "Delicio",
+      "brandKey": "delicio",
+      "brandWikidata": ""
+    },
+    "denim dream": {
+      "brand": "Denim Dream",
+      "brandKey": "denim_dream",
+      "brandWikidata": ""
+    },
+    "depo": {
+      "brand": "Depo",
+      "brandKey": "depo",
+      "brandWikidata": "Q65588459"
+    },
+    "devona": {
+      "brand": "Devona",
+      "brandKey": "devona",
+      "brandWikidata": ""
+    },
+    "dino zoo": {
+      "brand": "DinoZoo",
+      "brandKey": "dinozoo",
+      "brandWikidata": ""
+    },
+    "dino zoo centrs": {
+      "brand": "DinoZoo",
+      "brandKey": "dinozoo",
+      "brandWikidata": ""
+    },
+    "dinozoo": {
+      "brand": "DinoZoo",
+      "brandKey": "dinozoo",
+      "brandWikidata": ""
+    },
+    "dipstage": {
+      "brand": "dipstage",
+      "brandKey": "dipstage",
+      "brandWikidata": ""
+    },
+    "diva": {
+      "brand": "Dīva",
+      "brandKey": "diva",
+      "brandWikidata": ""
+    },
+    "divi viena": {
+      "brand": "Divi Vienā",
+      "brandKey": "divi_viena",
+      "brandWikidata": ""
+    },
+    "domino s": {
+      "brand": "Domino's",
+      "brandKey": "domino_s",
+      "brandWikidata": "Q839466"
+    },
+    "don barber crew": {
+      "brand": "Don Barber Crew",
+      "brandKey": "don_barber_crew",
+      "brandWikidata": ""
+    },
+    "doner king": {
+      "brand": "Doner King",
+      "brandKey": "doner_king",
+      "brandWikidata": ""
+    },
+    "douglas": {
+      "brand": "Douglas",
+      "brandKey": "douglas",
+      "brandWikidata": "Q2052213"
+    },
+    "drogas": {
+      "brand": "Drogas",
+      "brandKey": "drogas",
+      "brandWikidata": "Q15806753"
+    },
+    "dus latvijas nafta": {
+      "brand": "Latvijas nafta",
+      "brandKey": "latvijas_nafta",
+      "brandWikidata": "Q104429461"
+    },
+    "duty free": {
+      "brand": "Duty Free",
+      "brandKey": "duty_free",
+      "brandWikidata": ""
+    },
+    "dzerieni bez uzcenojuma": {
+      "brand": "Dzērieni bez uzcenojuma",
+      "brandKey": "dzerieni_bez_uzcenojuma",
+      "brandWikidata": ""
+    },
+    "dzinsi": {
+      "brand": "Džinsi",
+      "brandKey": "dzinsi",
+      "brandWikidata": ""
+    },
+    "ecco": {
+      "brand": "Ecco",
+      "brandKey": "ecco",
+      "brandWikidata": "Q1280255"
+    },
+    "ecco outlet": {
+      "brand": "Ecco",
+      "brandKey": "ecco",
+      "brandWikidata": "Q1280255"
+    },
+    "econom city": {
+      "brand": "Econom City",
+      "brandKey": "econom_city",
+      "brandWikidata": ""
+    },
+    "ednica": {
+      "brand": "Ēdnīca",
+      "brandKey": "ednica",
+      "brandWikidata": ""
+    },
+    "ehrle": {
+      "brand": "Ehrle",
+      "brandKey": "ehrle",
+      "brandWikidata": "Q131412400"
+    },
+    "ehrle car wash": {
+      "brand": "Ehrle",
+      "brandKey": "ehrle",
+      "brandWikidata": "Q131412400"
+    },
+    "ehrle carwash": {
+      "brand": "Ehrle",
+      "brandKey": "ehrle",
+      "brandWikidata": "Q131412400"
+    },
+    "eiropas apavi": {
+      "brand": "Eiropas apavi",
+      "brandKey": "eiropas_apavi",
+      "brandWikidata": ""
+    },
+    "eirovins": {
+      "brand": "Eirovīns",
+      "brandKey": "eirovins",
+      "brandWikidata": ""
+    },
+    "elche": {
+      "brand": "Elche",
+      "brandKey": "elche",
+      "brandWikidata": ""
+    },
+    "eldo": {
+      "brand": "Eldo",
+      "brandKey": "eldo",
+      "brandWikidata": ""
+    },
+    "elsa": {
+      "brand": "Elsa",
+      "brandKey": "elsa",
+      "brandWikidata": ""
+    },
+    "elvi": {
+      "brand": "Elvi",
+      "brandKey": "elvi",
+      "brandWikidata": "Q20560513"
+    },
+    "emeralda": {
+      "brand": "Emeralda",
+      "brandKey": "emeralda",
+      "brandWikidata": ""
+    },
+    "enhars": {
+      "brand": "Enhars",
+      "brandKey": "enhars",
+      "brandWikidata": ""
+    },
+    "euro aptieka": {
+      "brand": "Euroaptieka",
+      "brandKey": "euroaptieka",
+      "brandWikidata": "Q124713990"
+    },
+    "euroaptieka": {
+      "brand": "Euroaptieka",
+      "brandKey": "euroaptieka",
+      "brandWikidata": "Q124713990"
+    },
+    "euronics": {
+      "brand": "Euronics",
+      "brandKey": "euronics",
+      "brandWikidata": "Q184860"
+    },
+    "euroskor": {
+      "brand": "Euroskor",
+      "brandKey": "euroskor",
+      "brandWikidata": ""
+    },
+    "eurowash": {
+      "brand": "Eurowash",
+      "brandKey": "eurowash",
+      "brandWikidata": ""
+    },
+    "evelatus": {
+      "brand": "Evelatus",
+      "brandKey": "evelatus",
+      "brandWikidata": ""
+    },
+    "express pizza": {
+      "brand": "Express pizza",
+      "brandKey": "express_pizza",
+      "brandWikidata": ""
+    },
+    "ezitis migla": {
+      "brand": "Ezītis miglā",
+      "brandKey": "ezitis_migla",
+      "brandWikidata": ""
+    },
+    "farma balt": {
+      "brand": "Farma Balt",
+      "brandKey": "farma_balt",
+      "brandWikidata": ""
+    },
+    "fashion house": {
+      "brand": "House",
+      "brandKey": "house",
+      "brandWikidata": "Q9294202"
+    },
+    "fenikss": {
+      "brand": "Fenikss",
+      "brandKey": "fenikss",
+      "brandWikidata": ""
+    },
+    "fielmann": {
+      "brand": "Fielmann",
+      "brandKey": "fielmann",
+      "brandWikidata": "Q457822"
+    },
+    "fissman": {
+      "brand": "Fissman",
+      "brandKey": "fissman",
+      "brandWikidata": ""
+    },
+    "fix price": {
+      "brand": "Fix Price",
+      "brandKey": "fix_price",
+      "brandWikidata": "Q4038791"
+    },
+    "flying tiger copenhagen": {
+      "brand": "Flying Tiger Copenhagen",
+      "brandKey": "flying_tiger_copenhagen",
+      "brandWikidata": "Q2786319"
+    },
+    "forevers": {
+      "brand": "Forevers",
+      "brandKey": "forevers",
+      "brandWikidata": "Q65297361"
+    },
+    "frizetava": {
+      "brand": "Frizētava",
+      "brandKey": "frizetava",
+      "brandWikidata": ""
+    },
+    "gabi": {
+      "brand": "Gabi",
+      "brandKey": "gabi",
+      "brandWikidata": ""
+    },
+    "galas nams": {
+      "brand": "Gaļas nams",
+      "brandKey": "galas_nams",
+      "brandWikidata": ""
+    },
+    "galas veikals": {
+      "brand": "Gaļas veikals",
+      "brandKey": "galas_veikals",
+      "brandWikidata": ""
+    },
+    "gamma": {
+      "brand": "Gamma",
+      "brandKey": "gamma",
+      "brandWikidata": ""
+    },
+    "gan bei": {
+      "brand": "Gan Bei",
+      "brandKey": "gan_bei",
+      "brandWikidata": ""
+    },
+    "gardas odzinas": {
+      "brand": "Gardas odziņas",
+      "brandKey": "gardas_odzinas",
+      "brandWikidata": ""
+    },
+    "gauja": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "gaujaslici": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "gausa": {
+      "brand": "Gausa",
+      "brandKey": "gausa",
+      "brandWikidata": ""
+    },
+    "genarts": {
+      "brand": "Genarts",
+      "brandKey": "genarts",
+      "brandWikidata": ""
+    },
+    "gerry weber": {
+      "brand": "Gerry Weber",
+      "brandKey": "gerry_weber",
+      "brandWikidata": "Q873447"
+    },
+    "gigant": {
+      "brand": "Gigant",
+      "brandKey": "gigant",
+      "brandWikidata": ""
+    },
+    "given": {
+      "brand": "Given",
+      "brandKey": "given",
+      "brandWikidata": ""
+    },
+    "given by grenardi": {
+      "brand": "Given by Grenardi",
+      "brandKey": "given_by_grenardi",
+      "brandWikidata": ""
+    },
+    "globuss": {
+      "brand": "Globuss",
+      "brandKey": "globuss",
+      "brandWikidata": ""
+    },
+    "goldlight": {
+      "brand": "Goldlight",
+      "brandKey": "goldlight",
+      "brandWikidata": ""
+    },
+    "gotika auto": {
+      "brand": "Gotika auto",
+      "brandKey": "gotika_auto",
+      "brandWikidata": ""
+    },
+    "grenardi": {
+      "brand": "Grenardi",
+      "brandKey": "grenardi",
+      "brandWikidata": ""
+    },
+    "guess": {
+      "brand": "Guess",
+      "brandKey": "guess",
+      "brandWikidata": "Q2470307"
+    },
+    "guess outlet": {
+      "brand": "Guess",
+      "brandKey": "guess",
+      "brandWikidata": "Q2470307"
+    },
+    "gustavbekereja": {
+      "brand": "Gustavbeķereja",
+      "brandKey": "gustavbekereja",
+      "brandWikidata": ""
+    },
+    "h m": {
+      "brand": "H&M",
+      "brandKey": "h_m",
+      "brandWikidata": "Q188326"
+    },
+    "h m spice": {
+      "brand": "H&M",
+      "brandKey": "h_m",
+      "brandWikidata": "Q188326"
+    },
+    "hair riga": {
+      "brand": "Hair Riga",
+      "brandKey": "hair_riga",
+      "brandWikidata": ""
+    },
+    "has kebabs": {
+      "brand": "Has kebabs",
+      "brandKey": "has_kebabs",
+      "brandWikidata": ""
+    },
+    "hesburger": {
+      "brand": "Hesburger",
+      "brandKey": "hesburger",
+      "brandWikidata": "Q1276832"
+    },
+    "hesburger salaspils": {
+      "brand": "Hesburger",
+      "brandKey": "hesburger",
+      "brandWikidata": "Q1276832"
+    },
+    "himalaya": {
+      "brand": "Himalaya",
+      "brandKey": "himalaya",
+      "brandWikidata": ""
+    },
+    "hooligaan": {
+      "brand": "Hooligaan",
+      "brandKey": "hooligaan",
+      "brandWikidata": ""
+    },
+    "hottt": {
+      "brand": "Hottt",
+      "brandKey": "hottt",
+      "brandWikidata": ""
+    },
+    "house": {
+      "brand": "House",
+      "brandKey": "house",
+      "brandWikidata": "Q9294202"
+    },
+    "humana": {
+      "brand": "Humana",
+      "brandKey": "humana",
+      "brandWikidata": "Q1636581"
+    },
+    "humana vintage": {
+      "brand": "Humana",
+      "brandKey": "humana",
+      "brandWikidata": "Q1636581"
+    },
+    "husqvarna stihl": {
+      "brand": "Husqvarna",
+      "brandKey": "husqvarna",
+      "brandWikidata": "Q899356"
+    },
+    "hydroscan": {
+      "brand": "Hydroscand",
+      "brandKey": "hydroscand",
+      "brandWikidata": "Q10528953"
+    },
+    "hydroscand": {
+      "brand": "Hydroscand",
+      "brandKey": "hydroscand",
+      "brandWikidata": "Q10528953"
+    },
+    "ilguciema": {
+      "brand": "Iļģuciema",
+      "brandKey": "ilguciema",
+      "brandWikidata": ""
+    },
+    "ilguciema maiznica": {
+      "brand": "Iļģuciema maiznīca",
+      "brandKey": "ilguciema_maiznica",
+      "brandWikidata": ""
+    },
+    "image": {
+      "brand": "Image",
+      "brandKey": "image",
+      "brandWikidata": ""
+    },
+    "ingrida": {
+      "brand": "Ingrida",
+      "brandKey": "ingrida",
+      "brandWikidata": ""
+    },
+    "intimissimi": {
+      "brand": "Intimissimi",
+      "brandKey": "intimissimi",
+      "brandWikidata": "Q305404"
+    },
+    "irve": {
+      "brand": "Irve",
+      "brandKey": "irve",
+      "brandWikidata": ""
+    },
+    "ivo nikkolo": {
+      "brand": "Ivo Nikkolo",
+      "brandKey": "ivo_nikkolo",
+      "brandWikidata": ""
+    },
+    "jahonts": {
+      "brand": "Jahonts",
+      "brandKey": "jahonts",
+      "brandWikidata": ""
+    },
+    "jahonts soul": {
+      "brand": "Jahonts Soul",
+      "brandKey": "jahonts_soul",
+      "brandWikidata": ""
+    },
+    "jakubini": {
+      "brand": "Jakubini",
+      "brandKey": "jakubini",
+      "brandWikidata": ""
+    },
+    "janis roze": {
+      "brand": "Jānis Roze",
+      "brandKey": "janis_roze",
+      "brandWikidata": ""
+    },
+    "janis sauka": {
+      "brand": "Jānis Sauka",
+      "brandKey": "janis_sauka",
+      "brandWikidata": ""
+    },
+    "joker": {
+      "brand": "Joker",
+      "brandKey": "joker",
+      "brandWikidata": ""
+    },
+    "jysk": {
+      "brand": "JYSK",
+      "brandKey": "jysk",
+      "brandWikidata": "Q138913"
+    },
+    "k g": {
+      "brand": "K&G",
+      "brandKey": "k_g",
+      "brandWikidata": ""
+    },
+    "k senukai": {
+      "brand": "K Senukai",
+      "brandKey": "k_senukai",
+      "brandWikidata": ""
+    },
+    "k senukai jelgava": {
+      "brand": "K Senukai",
+      "brandKey": "k_senukai",
+      "brandWikidata": "Q1382957"
+    },
+    "k senukai ozols": {
+      "brand": "K Senukai",
+      "brandKey": "k_senukai",
+      "brandWikidata": "Q1382957"
+    },
+    "k senukai ulmaņa gatve": {
+      "brand": "K Senukai",
+      "brandKey": "k_senukai",
+      "brandWikidata": "Q1382957"
+    },
+    "kafejnica": {
+      "brand": "Kafejnīca",
+      "brandKey": "kafejnica",
+      "brandWikidata": ""
+    },
+    "kafijas banka": {
+      "brand": "Kafijas banka",
+      "brandKey": "kafijas_banka",
+      "brandWikidata": ""
+    },
+    "kafijas draugs": {
+      "brand": "Kafijas draugs",
+      "brandKey": "kafijas_draugs",
+      "brandWikidata": ""
+    },
+    "kalve": {
+      "brand": "KALVE",
+      "brandKey": "kalve",
+      "brandWikidata": ""
+    },
+    "kalve espresso room": {
+      "brand": "KALVE",
+      "brandKey": "kalve",
+      "brandWikidata": ""
+    },
+    "kalve living room": {
+      "brand": "KALVE",
+      "brandKey": "kalve",
+      "brandWikidata": ""
+    },
+    "kalve mini market": {
+      "brand": "KALVE",
+      "brandKey": "kalve",
+      "brandWikidata": ""
+    },
+    "karlo motors": {
+      "brand": "Škoda",
+      "brandKey": "skoda",
+      "brandWikidata": "Q29637"
+    },
+    "kebab corner": {
+      "brand": "Kebab Corner",
+      "brandKey": "kebab_corner",
+      "brandWikidata": ""
+    },
+    "kebab factory": {
+      "brand": "Kebab Factory",
+      "brandKey": "kebab_factory",
+      "brandWikidata": ""
+    },
+    "kebab house": {
+      "brand": "Kebab house",
+      "brandKey": "kebab_house",
+      "brandWikidata": ""
+    },
+    "kekava": {
+      "brand": "Ķekava",
+      "brandKey": "kekava",
+      "brandWikidata": ""
+    },
+    "kfc": {
+      "brand": "KFC",
+      "brandKey": "kfc",
+      "brandWikidata": "Q524757"
+    },
+    "kia motors": {
+      "brand": "Kia",
+      "brandKey": "kia",
+      "brandWikidata": "Q35349"
+    },
+    "kilomax": {
+      "brand": "Kilomax",
+      "brandKey": "kilomax",
+      "brandWikidata": ""
+    },
+    "kims": {
+      "brand": "Kims",
+      "brandKey": "kims",
+      "brandWikidata": ""
+    },
+    "kings": {
+      "brand": "Kings",
+      "brandKey": "kings",
+      "brandWikidata": ""
+    },
+    "kingu": {
+      "brand": "Kingu",
+      "brandKey": "kingu",
+      "brandWikidata": ""
+    },
+    "klondaika": {
+      "brand": "Klondaika",
+      "brandKey": "klondaika",
+      "brandWikidata": ""
+    },
+    "knockout": {
+      "brand": "Knockout",
+      "brandKey": "knockout",
+      "brandWikidata": ""
+    },
+    "kolonna": {
+      "brand": "Kolonna",
+      "brandKey": "kolonna",
+      "brandWikidata": ""
+    },
+    "kool": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool balvi": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool cesis": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool jurmalas soseja": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool koceni": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool lubana": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool olerex": {
+      "brand": "Olerex",
+      "brandKey": "olerex",
+      "brandWikidata": "Q16931205"
+    },
+    "kool pinki": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool platene": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool sauleskalns": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool usma": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kool valka": {
+      "brand": "KOOL",
+      "brandKey": "kool",
+      "brandWikidata": ""
+    },
+    "kosmo": {
+      "brand": "Kosmo",
+      "brandKey": "kosmo",
+      "brandWikidata": ""
+    },
+    "kotlesu lietus": {
+      "brand": "Kotlešu Lietus",
+      "brandKey": "kotlesu_lietus",
+      "brandWikidata": ""
+    },
+    "kruza": {
+      "brand": "Krūza",
+      "brandKey": "kruza",
+      "brandWikidata": ""
+    },
+    "kursi": {
+      "brand": "Kurši",
+      "brandKey": "kursi",
+      "brandWikidata": ""
+    },
+    "kurts": {
+      "brand": "Kurts",
+      "brandKey": "kurts",
+      "brandWikidata": ""
+    },
+    "kurzemes galsaimnieks": {
+      "brand": "Kurzemes gaļsaimnieks",
+      "brandKey": "kurzemes_galsaimnieks",
+      "brandWikidata": ""
+    },
+    "l occitane": {
+      "brand": "L'Occitane",
+      "brandKey": "l_occitane",
+      "brandWikidata": "Q1880676"
+    },
+    "labais": {
+      "brand": "Labais",
+      "brandKey": "labais",
+      "brandWikidata": ""
+    },
+    "laci": {
+      "brand": "Lāči",
+      "brandKey": "laci",
+      "brandWikidata": ""
+    },
+    "lacuks": {
+      "brand": "Lāčuks",
+      "brandKey": "lacuks",
+      "brandWikidata": ""
+    },
+    "lage": {
+      "brand": "Lage",
+      "brandKey": "lage",
+      "brandWikidata": ""
+    },
+    "laiks": {
+      "brand": "Laiks",
+      "brandKey": "laiks",
+      "brandWikidata": ""
+    },
+    "laima": {
+      "brand": "Laima",
+      "brandKey": "laima",
+      "brandWikidata": ""
+    },
+    "laserwash": {
+      "brand": "LaserWash",
+      "brandKey": "laserwash",
+      "brandWikidata": ""
+    },
+    "latgales piens": {
+      "brand": "Latgales piens",
+      "brandKey": "latgales_piens",
+      "brandWikidata": ""
+    },
+    "lats": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats bīriņi": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats kumelītes": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats max city": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats muižas klēts": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats prizma": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats stūrītis": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats valma": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats vecā smēde": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats veikals": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "lats vīganti": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "latvijas aptieka": {
+      "brand": "Latvijas aptieka",
+      "brandKey": "latvijas_aptieka",
+      "brandWikidata": ""
+    },
+    "latvijas balzams": {
+      "brand": "Latvijas balzams",
+      "brandKey": "latvijas_balzams",
+      "brandWikidata": ""
+    },
+    "latvijas balzams outlet": {
+      "brand": "Latvijas balzams",
+      "brandKey": "latvijas_balzams",
+      "brandWikidata": "Q3133469"
+    },
+    "latvijas mobilais telefons": {
+      "brand": "Latvijas Mobilais Telefons",
+      "brandKey": "latvijas_mobilais_telefons",
+      "brandWikidata": "Q4993620"
+    },
+    "latvijas nafta": {
+      "brand": "Latvijas nafta",
+      "brandKey": "latvijas_nafta",
+      "brandWikidata": "Q104429461"
+    },
+    "latvijas perles": {
+      "brand": "Latvijas pērles",
+      "brandKey": "latvijas_perles",
+      "brandWikidata": ""
+    },
+    "latvijas propana gaze": {
+      "brand": "Latvijas Propāna Gāze",
+      "brandKey": "latvijas_propana_gaze",
+      "brandWikidata": "Q104427357"
+    },
+    "lauku bauda": {
+      "brand": "Lauku bauda",
+      "brandKey": "lauku_bauda",
+      "brandWikidata": ""
+    },
+    "laundromat": {
+      "brand": "Laundromat",
+      "brandKey": "laundromat",
+      "brandWikidata": ""
+    },
+    "lee cooper": {
+      "brand": "Lee Cooper",
+      "brandKey": "lee_cooper",
+      "brandWikidata": "Q260230"
+    },
+    "levi s": {
+      "brand": "Levi's",
+      "brandKey": "levi_s",
+      "brandWikidata": "Q127962"
+    },
+    "levi s outlet": {
+      "brand": "Levi's",
+      "brandKey": "levi_s",
+      "brandWikidata": "Q127962"
+    },
+    "lidl": {
+      "brand": "Lidl",
+      "brandKey": "lidl",
+      "brandWikidata": "Q151954"
+    },
+    "lido": {
+      "brand": "Lido",
+      "brandKey": "lido",
+      "brandWikidata": "Q1618438"
+    },
+    "lido alus seta": {
+      "brand": "Lido",
+      "brandKey": "lido",
+      "brandWikidata": "Q1618438"
+    },
+    "lido domina": {
+      "brand": "Lido",
+      "brandKey": "lido",
+      "brandWikidata": "Q1618438"
+    },
+    "lido origo": {
+      "brand": "Lido",
+      "brandKey": "lido",
+      "brandWikidata": "Q1618438"
+    },
+    "lieliska davana": {
+      "brand": "Lieliska dāvana",
+      "brandKey": "lieliska_davana",
+      "brandWikidata": ""
+    },
+    "liepas": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "liepkalni": {
+      "brand": "Liepkalni",
+      "brandKey": "liepkalni",
+      "brandWikidata": ""
+    },
+    "lietoti apgerbi": {
+      "brand": "Lietoti apģērbi",
+      "brandKey": "lietoti_apgerbi",
+      "brandWikidata": ""
+    },
+    "lindex": {
+      "brand": "Lindex",
+      "brandKey": "lindex",
+      "brandWikidata": ""
+    },
+    "lindo grupa": {
+      "brand": "Lindo grupa",
+      "brandKey": "lindo_grupa",
+      "brandWikidata": ""
+    },
+    "lmt": {
+      "brand": "Latvijas Mobilais Telefons",
+      "brandKey": "latvijas_mobilais_telefons",
+      "brandWikidata": "Q4993620"
+    },
+    "lpg": {
+      "brand": "Latvijas Propāna Gāze",
+      "brandKey": "latvijas_propana_gaze",
+      "brandWikidata": "Q104427357"
+    },
+    "lpg autogaze": {
+      "brand": "LPG Autogāze",
+      "brandKey": "lpg_autogaze",
+      "brandWikidata": ""
+    },
+    "lulu": {
+      "brand": "Pica Lulū",
+      "brandKey": "pica_lulu",
+      "brandWikidata": ""
+    },
+    "lulu pizza": {
+      "brand": "Pica Lulū",
+      "brandKey": "pica_lulu",
+      "brandWikidata": ""
+    },
+    "lvx": {
+      "brand": "LVX",
+      "brandKey": "lvx",
+      "brandWikidata": ""
+    },
+    "madara": {
+      "brand": "Madara",
+      "brandKey": "madara",
+      "brandWikidata": ""
+    },
+    "magistr": {
+      "brand": "Škoda",
+      "brandKey": "skoda",
+      "brandWikidata": "Q29637"
+    },
+    "maija": {
+      "brand": "Maija",
+      "brandKey": "maija",
+      "brandWikidata": ""
+    },
+    "majai un darzam": {
+      "brand": "Mājai un dārzam",
+      "brandKey": "majai_un_darzam",
+      "brandWikidata": ""
+    },
+    "makita tehnikas centrs": {
+      "brand": "Makita",
+      "brandKey": "makita",
+      "brandWikidata": "Q691508"
+    },
+    "maks": {
+      "brand": "Maks",
+      "brandKey": "maks",
+      "brandWikidata": ""
+    },
+    "malko": {
+      "brand": "Malko",
+      "brandKey": "malko",
+      "brandWikidata": ""
+    },
+    "mana aptieka": {
+      "brand": "Mana aptieka",
+      "brandKey": "mana_aptieka",
+      "brandWikidata": ""
+    },
+    "mango man": {
+      "brand": "Mango",
+      "brandKey": "mango",
+      "brandWikidata": "Q136503"
+    },
+    "mans foto": {
+      "brand": "Mans foto",
+      "brandKey": "mans_foto",
+      "brandWikidata": ""
+    },
+    "marno": {
+      "brand": "Marno",
+      "brandKey": "marno",
+      "brandWikidata": ""
+    },
+    "martina bekereja": {
+      "brand": "Mārtiņa beķereja",
+      "brandKey": "martina_bekereja",
+      "brandWikidata": ""
+    },
+    "massimo dutti": {
+      "brand": "Massimo Dutti",
+      "brandKey": "massimo_dutti",
+      "brandWikidata": "Q788231"
+    },
+    "max mara weekend": {
+      "brand": "Max Mara",
+      "brandKey": "max_mara",
+      "brandWikidata": "Q1151774"
+    },
+    "maxima": {
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222"
+    },
+    "maxima express": {
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222"
+    },
+    "maxima x": {
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222"
+    },
+    "maxima xx": {
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222"
+    },
+    "maxima xxx": {
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222"
+    },
+    "mazais elvi": {
+      "brand": "Elvi",
+      "brandKey": "elvi",
+      "brandWikidata": "Q20560513"
+    },
+    "mc": {
+      "brand": "MC",
+      "brandKey": "mc",
+      "brandWikidata": ""
+    },
+    "mcdonald s": {
+      "brand": "McDonald's",
+      "brandKey": "mcdonald_s",
+      "brandWikidata": "Q38076"
+    },
+    "mego": {
+      "brand": "Mego",
+      "brandKey": "mego",
+      "brandWikidata": "Q16363314"
+    },
+    "mego cafejnica": {
+      "brand": "Mego",
+      "brandKey": "mego",
+      "brandWikidata": "Q16363314"
+    },
+    "meimelin": {
+      "brand": "Meimelin",
+      "brandKey": "meimelin",
+      "brandWikidata": ""
+    },
+    "meness aptieka": {
+      "brand": "Mēness aptieka",
+      "brandKey": "meness_aptieka",
+      "brandWikidata": "Q57583051"
+    },
+    "mere": {
+      "brand": "Mere",
+      "brandKey": "mere",
+      "brandWikidata": ""
+    },
+    "metropole": {
+      "brand": "Metropole",
+      "brandKey": "metropole",
+      "brandWikidata": ""
+    },
+    "metropole outlet": {
+      "brand": "Metropole Outlet",
+      "brandKey": "metropole_outlet",
+      "brandWikidata": ""
+    },
+    "miestins": {
+      "brand": "Miestiņš",
+      "brandKey": "miestins",
+      "brandWikidata": ""
+    },
+    "mimiko": {
+      "brand": "Mimiko",
+      "brandKey": "mimiko",
+      "brandWikidata": ""
+    },
+    "mini citro": {
+      "brand": "Citro",
+      "brandKey": "citro",
+      "brandWikidata": ""
+    },
+    "mini rimi": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "mini top": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "mini vesko": {
+      "brand": "Mini Vesko",
+      "brandKey": "mini_vesko",
+      "brandWikidata": ""
+    },
+    "mnogoknig": {
+      "brand": "Mnogoknig",
+      "brandKey": "mnogoknig",
+      "brandWikidata": ""
+    },
+    "mohito": {
+      "brand": "Mohito",
+      "brandKey": "mohito",
+      "brandWikidata": "Q107410616"
+    },
+    "molberts": {
+      "brand": "Molberts",
+      "brandKey": "molberts",
+      "brandWikidata": ""
+    },
+    "moller auto": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "money express": {
+      "brand": "Money express",
+      "brandKey": "money_express",
+      "brandWikidata": ""
+    },
+    "multi cook": {
+      "brand": "Multi cook",
+      "brandKey": "multi_cook",
+      "brandWikidata": ""
+    },
+    "multilukss": {
+      "brand": "Multilukss",
+      "brandKey": "multilukss",
+      "brandWikidata": ""
+    },
+    "my wash": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "mūsa motors lietoto mašīnu placis": {
+      "brand": "Mūsa Motors",
+      "brandKey": "musa_motors",
+      "brandWikidata": "Q124734898"
+    },
+    "narvesen": {
+      "brand": "Narvesen",
+      "brandKey": "narvesen",
+      "brandWikidata": "Q6514414"
+    },
+    "nereta": {
+      "brand": "Nereta",
+      "brandKey": "nereta",
+      "brandWikidata": ""
+    },
+    "neste": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste a24": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste annenieki": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste cesis i": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste daugavpils ii": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste kuldīga": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste liepaja": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste liepaja ii": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste saldus i": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste saldus ii": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "neste truck": {
+      "brand": "Neste",
+      "brandKey": "neste",
+      "brandWikidata": "Q616376"
+    },
+    "new yorker": {
+      "brand": "New Yorker",
+      "brandKey": "new_yorker",
+      "brandWikidata": "Q706421"
+    },
+    "nike": {
+      "brand": "Nike",
+      "brandKey": "nike",
+      "brandWikidata": "Q483915"
+    },
+    "nike outlet": {
+      "brand": "Nike",
+      "brandKey": "nike",
+      "brandWikidata": "Q483915"
+    },
+    "nordmen": {
+      "brand": "Nordmen",
+      "brandKey": "nordmen",
+      "brandWikidata": ""
+    },
+    "ns king": {
+      "brand": "NS King",
+      "brandKey": "ns_king",
+      "brandWikidata": ""
+    },
+    "olybet": {
+      "brand": "OlyBet",
+      "brandKey": "olybet",
+      "brandWikidata": ""
+    },
+    "onninen express": {
+      "brand": "Onninen Express",
+      "brandKey": "onninen_express",
+      "brandWikidata": ""
+    },
+    "opel chevrolet peugeot": {
+      "brand": "Chevrolet",
+      "brandKey": "chevrolet",
+      "brandWikidata": "Q29570"
+    },
+    "optika": {
+      "brand": "Optika",
+      "brandKey": "optika",
+      "brandWikidata": ""
+    },
+    "optikas centrs": {
+      "brand": "Optikas centrs",
+      "brandKey": "optikas_centrs",
+      "brandWikidata": ""
+    },
+    "optimus": {
+      "brand": "Optimus",
+      "brandKey": "optimus",
+      "brandWikidata": ""
+    },
+    "optimus mebeles": {
+      "brand": "Optimus mēbeles",
+      "brandKey": "optimus_mebeles",
+      "brandWikidata": ""
+    },
+    "optio": {
+      "brand": "Optio",
+      "brandKey": "optio",
+      "brandWikidata": ""
+    },
+    "orange": {
+      "brand": "Orange",
+      "brandKey": "orange",
+      "brandWikidata": ""
+    },
+    "otra elpa": {
+      "brand": "Otrā elpa",
+      "brandKey": "otra_elpa",
+      "brandWikidata": ""
+    },
+    "outlet bazaar": {
+      "brand": "Outlet Bazaar",
+      "brandKey": "outlet_bazaar",
+      "brandWikidata": ""
+    },
+    "pakistanas kebabs": {
+      "brand": "Pakistānas kebabs",
+      "brandKey": "pakistanas_kebabs",
+      "brandWikidata": ""
+    },
+    "pandora": {
+      "brand": "Pandora",
+      "brandKey": "pandora",
+      "brandWikidata": "Q2241604"
+    },
+    "parduotuve": {
+      "brand": "Parduotuvė",
+      "brandKey": "parduotuve",
+      "brandWikidata": ""
+    },
+    "partika": {
+      "brand": "Pārtika",
+      "brandKey": "partika",
+      "brandWikidata": ""
+    },
+    "partikas veikals": {
+      "brand": "Pārtikas veikals",
+      "brandKey": "partikas_veikals",
+      "brandWikidata": ""
+    },
+    "pasednica": {
+      "brand": "Pasēdnīca",
+      "brandKey": "pasednica",
+      "brandWikidata": ""
+    },
+    "pepco": {
+      "brand": "Pepco",
+      "brandKey": "pepco",
+      "brandWikidata": "Q11815580"
+    },
+    "pet city": {
+      "brand": "PetCity",
+      "brandKey": "petcity",
+      "brandWikidata": ""
+    },
+    "petcity": {
+      "brand": "PetCity",
+      "brandKey": "petcity",
+      "brandWikidata": ""
+    },
+    "pica lulu": {
+      "brand": "Pica Lulū",
+      "brandKey": "pica_lulu",
+      "brandWikidata": ""
+    },
+    "picas meistars": {
+      "brand": "Picas meistars",
+      "brandKey": "picas_meistars",
+      "brandWikidata": ""
+    },
+    "picu darbnica": {
+      "brand": "Picu darbnīca",
+      "brandKey": "picu_darbnica",
+      "brandWikidata": ""
+    },
+    "plavnieku ezitis migla": {
+      "brand": "Ezītis miglā",
+      "brandKey": "ezitis_migla",
+      "brandWikidata": ""
+    },
+    "pludmale": {
+      "brand": "Pludmale",
+      "brandKey": "pludmale",
+      "brandWikidata": ""
+    },
+    "pluspunkts": {
+      "brand": "pluspunkts",
+      "brandKey": "pluspunkts",
+      "brandWikidata": ""
+    },
+    "polaris": {
+      "brand": "Polaris",
+      "brandKey": "polaris",
+      "brandWikidata": ""
+    },
+    "preces mājai un dārzam": {
+      "brand": "Mājai un dārzam",
+      "brandKey": "majai_un_darzam",
+      "brandWikidata": "Q124726993"
+    },
+    "premium wash": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "pro bro": {
+      "brand": "Pro bro",
+      "brandKey": "pro_bro",
+      "brandWikidata": ""
+    },
+    "pro gaze auto": {
+      "brand": "Pro gāze auto",
+      "brandKey": "pro_gaze_auto",
+      "brandWikidata": ""
+    },
+    "promo cash carry": {
+      "brand": "Promo Cash & Carry",
+      "brandKey": "promo_cash_carry",
+      "brandWikidata": ""
+    },
+    "puma outlet": {
+      "brand": "Puma",
+      "brandKey": "puma",
+      "brandWikidata": "Q157064"
+    },
+    "pus12": {
+      "brand": "pus12",
+      "brandKey": "pus12",
+      "brandWikidata": ""
+    },
+    "puto": {
+      "brand": "Puto",
+      "brandKey": "puto",
+      "brandWikidata": ""
+    },
+    "puto automazgatava": {
+      "brand": "PUTO automazgātava",
+      "brandKey": "puto_automazgatava",
+      "brandWikidata": ""
+    },
+    "queen lingerie": {
+      "brand": "Queen lingerie",
+      "brandKey": "queen_lingerie",
+      "brandWikidata": ""
+    },
+    "r d a": {
+      "brand": "RDA",
+      "brandKey": "rda",
+      "brandWikidata": ""
+    },
+    "rb santehnika": {
+      "brand": "Santehnika",
+      "brandKey": "santehnika",
+      "brandWikidata": "Q125726485"
+    },
+    "rd electronics": {
+      "brand": "RD Electronics",
+      "brandKey": "rd_electronics",
+      "brandWikidata": "Q124607006"
+    },
+    "rda": {
+      "brand": "RDA",
+      "brandKey": "rda",
+      "brandWikidata": ""
+    },
+    "renault center": {
+      "brand": "Renault",
+      "brandKey": "renault",
+      "brandWikidata": "Q6686"
+    },
+    "reserved": {
+      "brand": "Reserved",
+      "brandKey": "reserved",
+      "brandWikidata": "Q21809354"
+    },
+    "rezidence kafe": {
+      "brand": "Rezidence",
+      "brandKey": "rezidence",
+      "brandWikidata": "Q137169187"
+    },
+    "rieker": {
+      "brand": "Rieker",
+      "brandKey": "rieker",
+      "brandWikidata": "Q2152193"
+    },
+    "riepu garaza": {
+      "brand": "Riepu Garāža",
+      "brandKey": "riepu_garaza",
+      "brandWikidata": ""
+    },
+    "rimi": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi express": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi hyper": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi hypermarket": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi mini": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi super": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rimi valdlauci": {
+      "brand": "Rimi",
+      "brandKey": "rimi",
+      "brandWikidata": "Q3741108"
+    },
+    "rito": {
+      "brand": "Rito",
+      "brandKey": "rito",
+      "brandWikidata": ""
+    },
+    "riva": {
+      "brand": "Riva",
+      "brandKey": "riva",
+      "brandWikidata": ""
+    },
+    "robot wash": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "rocket bean": {
+      "brand": "Rocket Bean",
+      "brandKey": "rocket_bean",
+      "brandWikidata": ""
+    },
+    "rosme": {
+      "brand": "Rosme",
+      "brandKey": "rosme",
+      "brandWikidata": ""
+    },
+    "saimniecibas preces": {
+      "brand": "Saimniecības preces",
+      "brandKey": "saimniecibas_preces",
+      "brandWikidata": ""
+    },
+    "saimnieka bazars": {
+      "brand": "Saimnieka bazārs",
+      "brandKey": "saimnieka_bazars",
+      "brandWikidata": ""
+    },
+    "sala": {
+      "brand": "Sala",
+      "brandKey": "sala",
+      "brandWikidata": ""
+    },
+    "salamander": {
+      "brand": "Salamander",
+      "brandKey": "salamander",
+      "brandWikidata": "Q878354"
+    },
+    "saldo": {
+      "brand": "Saldo",
+      "brandKey": "saldo",
+      "brandWikidata": ""
+    },
+    "samsonite": {
+      "brand": "Samsonite",
+      "brandKey": "samsonite",
+      "brandWikidata": "Q1203426"
+    },
+    "sanistal": {
+      "brand": "Sanistal",
+      "brandKey": "sanistal",
+      "brandWikidata": ""
+    },
+    "saules veikals": {
+      "brand": "Saules veikals",
+      "brandKey": "saules_veikals",
+      "brandWikidata": ""
+    },
+    "sena bode": {
+      "brand": "Sena bode",
+      "brandKey": "sena_bode",
+      "brandWikidata": ""
+    },
+    "senci": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "siberika": {
+      "brand": "Siberika",
+      "brandKey": "siberika",
+      "brandWikidata": ""
+    },
+    "sidonas": {
+      "brand": "Sidonas",
+      "brandKey": "sidonas",
+      "brandWikidata": ""
+    },
+    "singh s": {
+      "brand": "Singh's",
+      "brandKey": "singh_s",
+      "brandWikidata": ""
+    },
+    "sinsay": {
+      "brand": "Sinsay",
+      "brandKey": "sinsay",
+      "brandWikidata": "Q107410579"
+    },
+    "skechers": {
+      "brand": "Skechers",
+      "brandKey": "skechers",
+      "brandWikidata": "Q2945643"
+    },
+    "skoda": {
+      "brand": "Škoda",
+      "brandKey": "skoda",
+      "brandWikidata": "Q29637"
+    },
+    "skoda green motors": {
+      "brand": "Škoda",
+      "brandKey": "skoda",
+      "brandWikidata": "Q29637"
+    },
+    "skoda ripo autocentrs": {
+      "brand": "Škoda",
+      "brandKey": "skoda",
+      "brandWikidata": "Q29637"
+    },
+    "skriveru saldumi": {
+      "brand": "Skrīveru saldumi",
+      "brandKey": "skriveru_saldumi",
+      "brandWikidata": ""
+    },
+    "sky": {
+      "brand": "Sky",
+      "brandKey": "sky",
+      "brandWikidata": "Q1129779"
+    },
+    "smarzo": {
+      "brand": "Smaržo",
+      "brandKey": "smarzo",
+      "brandWikidata": ""
+    },
+    "snack o land": {
+      "brand": "SNACK'O LAND",
+      "brandKey": "snack_o_land",
+      "brandWikidata": ""
+    },
+    "spar": {
+      "brand": "Spar",
+      "brandKey": "spar",
+      "brandWikidata": "Q610492"
+    },
+    "spar express": {
+      "brand": "Spar",
+      "brandKey": "spar",
+      "brandWikidata": "Q610492"
+    },
+    "spirits wine": {
+      "brand": "Spirits & Wine",
+      "brandKey": "spirits_wine",
+      "brandWikidata": ""
+    },
+    "sportland": {
+      "brand": "Sportland",
+      "brandKey": "sportland",
+      "brandWikidata": ""
+    },
+    "sportland outlet": {
+      "brand": "Sportland",
+      "brandKey": "sportland",
+      "brandWikidata": "Q124811348"
+    },
+    "sports direct": {
+      "brand": "Sports Direct",
+      "brandKey": "sports_direct",
+      "brandWikidata": "Q7579661"
+    },
+    "stenders": {
+      "brand": "Stenders",
+      "brandKey": "stenders",
+      "brandWikidata": ""
+    },
+    "stokker": {
+      "brand": "Stokker",
+      "brandKey": "stokker",
+      "brandWikidata": ""
+    },
+    "straujupite": {
+      "brand": "Straujupīte",
+      "brandKey": "straujupite",
+      "brandWikidata": "Q124746723"
+    },
+    "straujupite bauska": {
+      "brand": "Straujupīte",
+      "brandKey": "straujupite",
+      "brandWikidata": "Q124746723"
+    },
+    "straupe": {
+      "brand": "Straupe",
+      "brandKey": "straupe",
+      "brandWikidata": ""
+    },
+    "sunlight": {
+      "brand": "Sunlight",
+      "brandKey": "sunlight",
+      "brandWikidata": ""
+    },
+    "superalko": {
+      "brand": "SuperAlko",
+      "brandKey": "superalko",
+      "brandWikidata": ""
+    },
+    "susanas darbnica": {
+      "brand": "Šūšanas darbnīca",
+      "brandKey": "susanas_darbnica",
+      "brandWikidata": ""
+    },
+    "sushibars lv": {
+      "brand": "sushibars.lv",
+      "brandKey": "sushibars_lv",
+      "brandWikidata": ""
+    },
+    "suveniri": {
+      "brand": "Suvenīri",
+      "brandKey": "suveniri",
+      "brandWikidata": ""
+    },
+    "suvide": {
+      "brand": "SuVide",
+      "brandKey": "suvide",
+      "brandWikidata": ""
+    },
+    "svaiga gala": {
+      "brand": "Svaiga gaļa",
+      "brandKey": "svaiga_gala",
+      "brandWikidata": ""
+    },
+    "swarovski": {
+      "brand": "Swarovski",
+      "brandKey": "swarovski",
+      "brandWikidata": "Q611115"
+    },
+    "t bode": {
+      "brand": "T-bode",
+      "brandKey": "t_bode",
+      "brandWikidata": ""
+    },
+    "tamrex": {
+      "brand": "Tamrex",
+      "brandKey": "tamrex",
+      "brandWikidata": ""
+    },
+    "tavex": {
+      "brand": "Tavex",
+      "brandKey": "tavex",
+      "brandWikidata": ""
+    },
+    "tc baltinava": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "tele2": {
+      "brand": "Tele2",
+      "brandKey": "tele2",
+      "brandWikidata": "Q309865"
+    },
+    "tet": {
+      "brand": "Tet",
+      "brandKey": "tet",
+      "brandWikidata": ""
+    },
+    "the body shop": {
+      "brand": "The Body Shop",
+      "brandKey": "the_body_shop",
+      "brandWikidata": "Q837851"
+    },
+    "timberland": {
+      "brand": "Timberland",
+      "brandKey": "timberland",
+      "brandWikidata": "Q1539185"
+    },
+    "tina primum": {
+      "brand": "Tina primum",
+      "brandKey": "tina_primum",
+      "brandWikidata": ""
+    },
+    "tip top": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "tommy hilfiger": {
+      "brand": "Tommy Hilfiger",
+      "brandKey": "tommy_hilfiger",
+      "brandWikidata": "Q634881"
+    },
+    "top": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "top ceplis": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "top mini": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "top shop": {
+      "brand": "Top Shop",
+      "brandKey": "top_shop",
+      "brandWikidata": ""
+    },
+    "top veikals": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "toy s planet": {
+      "brand": "Toy's planet",
+      "brandKey": "toy_s_planet",
+      "brandWikidata": ""
+    },
+    "toyota": {
+      "brand": "Toyota",
+      "brandKey": "toyota",
+      "brandWikidata": "Q53268"
+    },
+    "toyota favorit west": {
+      "brand": "Toyota",
+      "brandKey": "toyota",
+      "brandWikidata": "Q53268"
+    },
+    "toyota laluna": {
+      "brand": "Toyota",
+      "brandKey": "toyota",
+      "brandWikidata": "Q53268"
+    },
+    "triumph": {
+      "brand": "Triumph",
+      "brandKey": "triumph",
+      "brandWikidata": "Q671216"
+    },
+    "tvaikonis": {
+      "brand": "Tvaikonis",
+      "brandKey": "tvaikonis",
+      "brandWikidata": ""
+    },
+    "udens akademija": {
+      "brand": "Ūdens akadēmija",
+      "brandKey": "udens_akademija",
+      "brandWikidata": ""
+    },
+    "ulbrokas aptieka": {
+      "brand": "Aptieka 1",
+      "brandKey": "aptieka_1",
+      "brandWikidata": ""
+    },
+    "usins": {
+      "brand": "LaTS",
+      "brandKey": "lats",
+      "brandWikidata": "Q126453824"
+    },
+    "vairak saules": {
+      "brand": "Vairāk saules",
+      "brandKey": "vairak_saules",
+      "brandWikidata": ""
+    },
+    "valga euronics express": {
+      "brand": "Euronics",
+      "brandKey": "euronics",
+      "brandWikidata": "Q184860"
+    },
+    "valga haigla apteek": {
+      "brand": "Apotheka",
+      "brandKey": "apotheka",
+      "brandWikidata": "Q104426595"
+    },
+    "valga selveri apteek": {
+      "brand": "Apotheka",
+      "brandKey": "apotheka",
+      "brandWikidata": "Q104426595"
+    },
+    "veho mercedes benz vieglo automobīļu servisa centrs": {
+      "brand": "Mercedes Benz",
+      "brandKey": "mercedes_benz",
+      "brandWikidata": "Q36008"
+    },
+    "veikals": {
+      "brand": "Veikals",
+      "brandKey": "veikals",
+      "brandWikidata": ""
+    },
+    "veikals top": {
+      "brand": "top!",
+      "brandKey": "top",
+      "brandWikidata": "Q20803907"
+    },
+    "verita": {
+      "brand": "Verita",
+      "brandKey": "verita",
+      "brandWikidata": ""
+    },
+    "verners de": {
+      "brand": "Verners DE",
+      "brandKey": "verners_de",
+      "brandWikidata": ""
+    },
+    "vesko": {
+      "brand": "Vesko",
+      "brandKey": "vesko",
+      "brandWikidata": ""
+    },
+    "vesko mini": {
+      "brand": "Vesko",
+      "brandKey": "vesko",
+      "brandWikidata": ""
+    },
+    "viada": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada 1": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada 2": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada 3": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada broceni": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada grobina": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada lidosta": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada liepaja 1": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada liepaja 4": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada limbazi": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "viada nica": {
+      "brand": "Viada",
+      "brandKey": "viada",
+      "brandWikidata": "Q12663942"
+    },
+    "vinkalni": {
+      "brand": "Vīnkalni",
+      "brandKey": "vinkalni",
+      "brandWikidata": ""
+    },
+    "vinoga": {
+      "brand": "Vīnoga",
+      "brandKey": "vinoga",
+      "brandWikidata": ""
+    },
+    "vipuli": {
+      "brand": "Aibe",
+      "brandKey": "aibe",
+      "brandWikidata": "Q126120243"
+    },
+    "virsi": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi a": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi auce": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi jelgava": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi kraslava": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi olaine 2": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi tirza dus": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi ugale": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi valmiera 2": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "virsi veikals": {
+      "brand": "Virši",
+      "brandKey": "virsi",
+      "brandWikidata": "Q50378789"
+    },
+    "vision express": {
+      "brand": "Vision Express",
+      "brandKey": "vision_express",
+      "brandWikidata": "Q7936150"
+    },
+    "vitoli": {
+      "brand": "Vītoli",
+      "brandKey": "vitoli",
+      "brandWikidata": ""
+    },
+    "vizionette": {
+      "brand": "Vizionette",
+      "brandKey": "vizionette",
+      "brandWikidata": ""
+    },
+    "volkswagen": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "volkswagen audi škoda seat": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "volkswagen ripo autocentrs": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "volvo renault dacia": {
+      "brand": "Renault",
+      "brandKey": "renault",
+      "brandWikidata": "Q6686"
+    },
+    "vw dasweltauto": {
+      "brand": "Volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
+    "vynoteka": {
+      "brand": "Vynoteka",
+      "brandKey": "vynoteka",
+      "brandWikidata": ""
+    },
+    "wash drive": {
+      "brand": "Wash & Drive",
+      "brandKey": "wash_drive",
+      "brandWikidata": ""
+    },
+    "wash drive automazgatava": {
+      "brand": "Wash & Drive",
+      "brandKey": "wash_drive",
+      "brandWikidata": "Q696798"
+    },
+    "wash go": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "wash point": {
+      "brand": "Wash",
+      "brandKey": "wash",
+      "brandWikidata": "Q124568566"
+    },
+    "waterski": {
+      "brand": "Waterski",
+      "brandKey": "waterski",
+      "brandWikidata": ""
+    },
+    "wess toyota marupe": {
+      "brand": "Toyota",
+      "brandKey": "toyota",
+      "brandWikidata": "Q53268"
+    },
+    "winestock": {
+      "brand": "Winestock",
+      "brandKey": "winestock",
+      "brandWikidata": ""
+    },
+    "wood religion": {
+      "brand": "Wood Religion",
+      "brandKey": "wood_religion",
+      "brandWikidata": ""
+    },
+    "wurth": {
+      "brand": "Würth",
+      "brandKey": "wurth",
+      "brandWikidata": "Q679750"
+    },
+    "x jeans": {
+      "brand": "X Jeans",
+      "brandKey": "x_jeans",
+      "brandWikidata": ""
+    },
+    "xs rotallietas": {
+      "brand": "XS Rotaļlietas",
+      "brandKey": "xs_rotallietas",
+      "brandWikidata": ""
+    },
+    "zala aptieka": {
+      "brand": "Zaļā aptieka",
+      "brandKey": "zala_aptieka",
+      "brandWikidata": ""
+    },
+    "zara": {
+      "brand": "Zara",
+      "brandKey": "zara",
+      "brandWikidata": "Q147662"
+    },
+    "zeneva": {
+      "brand": "Ženēva",
+      "brandKey": "zeneva",
+      "brandWikidata": ""
+    },
+    "zoo": {
+      "brand": "ZOO",
+      "brandKey": "zoo",
+      "brandWikidata": ""
+    },
+    "zoo bums": {
+      "brand": "Zoo bums",
+      "brandKey": "zoo_bums",
+      "brandWikidata": ""
+    },
+    "zoo centrs": {
+      "brand": "Zoocentrs",
+      "brandKey": "zoocentrs",
+      "brandWikidata": ""
+    },
+    "zoo seta": {
+      "brand": "Zoo sēta",
+      "brandKey": "zoo_seta",
+      "brandWikidata": ""
+    },
+    "zoo veikals": {
+      "brand": "Zooveikals",
+      "brandKey": "zooveikals",
+      "brandWikidata": ""
+    },
+    "zoocentrs": {
+      "brand": "Zoocentrs",
+      "brandKey": "zoocentrs",
+      "brandWikidata": ""
+    },
+    "zooveikals": {
+      "brand": "Zooveikals",
+      "brandKey": "zooveikals",
+      "brandWikidata": ""
+    },
+    "zvaigzne abc": {
+      "brand": "Zvaigzne ABC",
+      "brandKey": "zvaigzne_abc",
+      "brandWikidata": ""
+    },
+    "zvaigzne abc gramatnica": {
+      "brand": "Zvaigzne ABC",
+      "brandKey": "zvaigzne_abc",
+      "brandWikidata": ""
+    },
+    "zvaigznes gramatnica": {
+      "brand": "Zvaigznes grāmatnīca",
+      "brandKey": "zvaigznes_gramatnica",
+      "brandWikidata": ""
+    },
+    "zvaigznes gramatu nams": {
+      "brand": "Zvaigznes grāmatu nams",
+      "brandKey": "zvaigznes_gramatu_nams",
+      "brandWikidata": ""
+    },
+    "zzk": {
+      "brand": "ZZK",
+      "brandKey": "zzk",
+      "brandWikidata": ""
+    }
+  },
+  "mergeBrandKeys": {
+    "hydroscan": "hydroscand"
+  },
+  "qidLocks": {
+    "4f": "Q16525801",
+    "aibe": "Q126120243",
+    "apotheka": "Q104426595",
+    "benu": "Q62562792",
+    "bite": "Q89915656",
+    "burger_king": "Q177054",
+    "calvin_klein": "Q1068628",
+    "calzedonia": "Q1027874",
+    "ccc": "Q11788344",
+    "centra_aptieka": "Q124804422",
+    "chevrolet": "Q29570",
+    "circle_k": "Q3268010",
+    "costa": "Q608845",
+    "crocs": "Q926699",
+    "cropp": "Q9196793",
+    "deichmann": "Q664543",
+    "depo": "Q65588459",
+    "domino_s": "Q839466",
+    "douglas": "Q2052213",
+    "drogas": "Q15806753",
+    "ecco": "Q1280255",
+    "ehrle": "Q131412400",
+    "elvi": "Q20560513",
+    "euroaptieka": "Q124713990",
+    "euronics": "Q184860",
+    "fielmann": "Q457822",
+    "fix_price": "Q4038791",
+    "flying_tiger_copenhagen": "Q2786319",
+    "forevers": "Q65297361",
+    "gerry_weber": "Q873447",
+    "guess": "Q2470307",
+    "h_m": "Q188326",
+    "hesburger": "Q1276832",
+    "house": "Q9294202",
+    "humana": "Q1636581",
+    "husqvarna": "Q899356",
+    "hydroscand": "Q10528953",
+    "intimissimi": "Q305404",
+    "jysk": "Q138913",
+    "k_senukai": "Q1382957",
+    "kfc": "Q524757",
+    "kia": "Q35349",
+    "l_occitane": "Q1880676",
+    "lats": "Q126453824",
+    "latvijas_balzams": "Q3133469",
+    "latvijas_mobilais_telefons": "Q4993620",
+    "latvijas_nafta": "Q104429461",
+    "latvijas_propana_gaze": "Q104427357",
+    "lee_cooper": "Q260230",
+    "levi_s": "Q127962",
+    "lidl": "Q151954",
+    "lido": "Q1618438",
+    "majai_un_darzam": "Q124726993",
+    "makita": "Q691508",
+    "mango": "Q136503",
+    "massimo_dutti": "Q788231",
+    "max_mara": "Q1151774",
+    "maxima": "Q1881222",
+    "mcdonald_s": "Q38076",
+    "mego": "Q16363314",
+    "meness_aptieka": "Q57583051",
+    "mercedes_benz": "Q36008",
+    "mohito": "Q107410616",
+    "musa_motors": "Q124734898",
+    "narvesen": "Q6514414",
+    "neste": "Q616376",
+    "new_yorker": "Q706421",
+    "nike": "Q483915",
+    "olerex": "Q16931205",
+    "pandora": "Q2241604",
+    "pepco": "Q11815580",
+    "puma": "Q157064",
+    "rd_electronics": "Q124607006",
+    "renault": "Q6686",
+    "reserved": "Q21809354",
+    "rezidence": "Q137169187",
+    "rieker": "Q2152193",
+    "rimi": "Q3741108",
+    "salamander": "Q878354",
+    "samsonite": "Q1203426",
+    "santehnika": "Q125726485",
+    "sinsay": "Q107410579",
+    "skechers": "Q2945643",
+    "skoda": "Q29637",
+    "sky": "Q1129779",
+    "spar": "Q610492",
+    "sportland": "Q124811348",
+    "sports_direct": "Q7579661",
+    "straujupite": "Q124746723",
+    "swarovski": "Q611115",
+    "tele2": "Q309865",
+    "the_body_shop": "Q837851",
+    "timberland": "Q1539185",
+    "tommy_hilfiger": "Q634881",
+    "top": "Q20803907",
+    "toyota": "Q53268",
+    "triumph": "Q671216",
+    "viada": "Q12663942",
+    "virsi": "Q50378789",
+    "vision_express": "Q7936150",
+    "volkswagen": "Q246",
+    "wash": "Q124568566",
+    "wash_drive": "Q696798",
+    "wurth": "Q679750",
+    "zara": "Q147662"
+  },
+  "reject": {
+    "labels": [
+      "apavi",
+      "apģērbi",
+      "aptieka",
+      "auto serviss",
+      "autodaļas",
+      "automazgātava",
+      "autoserviss",
+      "bārs",
+      "būvmateriāli",
+      "drēbes",
+      "ēdnīca",
+      "frizētava",
+      "gaļa",
+      "grāmatnīca",
+      "kafejnīca",
+      "konditoreja",
+      "liels veikals",
+      "maiznīca",
+      "mazais veikals",
+      "mēbeles",
+      "optika",
+      "pārtikas veikals",
+      "puķes",
+      "restorāns",
+      "rezerves daļas",
+      "rotaļlietas",
+      "santehnika",
+      "skaistumkopšana",
+      "veikals",
+      "ziedi",
+      "zivis"
+    ],
+    "regex": []
+  },
+  "schema": 2,
+  "updatedAt": "2026-06-24T21:53:15Z",
+  "revision": "lv-20260624-01",
+  "knownFormats": []
+}
