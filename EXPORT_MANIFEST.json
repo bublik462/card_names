@@ -1,7 +1,22 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-29T15:46:11Z",
+  "generatedAt": "2026-06-29T16:15:14Z",
   "files": [
+    {
+      "path": "brands/BY/brands_BY.json",
+      "sha256": "6c59b4255cf1f63a1c6ae22f2ebd93e9e232425c8e6c0bacf8981b69efbbfcef",
+      "bytes": 983908,
+      "country": "BY",
+      "kind": "brands",
+      "items": 463
+    },
+    {
+      "path": "brands/BY/brand_glossary_BY.json",
+      "sha256": "a41b713741d6f15753dd44d4b77d9c4fb7eb78f6bf826be2f357b0846a972261",
+      "bytes": 301,
+      "country": "BY",
+      "kind": "glossary"
+    },
     {
       "path": "brands/EE/brands_EE.json",
       "sha256": "c9e9d3bffa6a0cb338f4e82a8fa7981da3a57bec47819342939870a5df34da0b",

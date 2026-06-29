@@ -3,6 +3,16 @@
   "updatedAt": "2026-06-29",
   "countries": [
     {
+      "code": "BY",
+      "file": "brands/BY/brands_BY.json",
+      "schema": 2,
+      "updatedAt": "2026-06-29",
+      "sha256": "6c59b4255cf1f63a1c6ae22f2ebd93e9e232425c8e6c0bacf8981b69efbbfcef",
+      "items": 463,
+      "glossaryFile": "brands/BY/brand_glossary_BY.json",
+      "glossarySha256": "a41b713741d6f15753dd44d4b77d9c4fb7eb78f6bf826be2f357b0846a972261"
+    },
+    {
       "code": "EE",
       "file": "brands/EE/brands_EE.json",
       "schema": 2,
