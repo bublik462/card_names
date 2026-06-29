@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-06-28",
+  "updatedAt": "2026-06-29",
   "country": "LV",
   "items": [
     {
@@ -2593,6 +2593,79 @@
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "amenity/pub",
+      "defaultCategoryPath": "amenity/pub",
+      "brand": "Ezītis miglā",
+      "brandKey": "ezitis_migla",
+      "brandWikidata": "Q138819298",
+      "resolved": {
+        "brand": "Ezītis miglā",
+        "brandKey": "ezitis_migla",
+        "brandWikidata": "Q138819298"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "Q138819298",
+        "name": "Ezītis miglā",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "ezitis_migla",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 11,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "pub"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q138819298",
+        "acceptedQidCount": 18,
+        "totalQidCount": 18,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/restaurant",
@@ -14484,10 +14557,10 @@
   ],
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 197,
-    "candidateCount": 461,
+    "productionCount": 198,
+    "candidateCount": 460,
     "rejectCount": 30,
-    "humanReviewCount": 5291,
+    "humanReviewCount": 5292,
     "aiReviewCount": 0
   }
 }
