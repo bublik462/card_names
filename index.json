@@ -3,6 +3,16 @@
   "updatedAt": "2026-06-29",
   "countries": [
     {
+      "code": "EE",
+      "file": "brands/EE/brands_EE.json",
+      "schema": 2,
+      "updatedAt": "2026-06-29",
+      "sha256": "c9e9d3bffa6a0cb338f4e82a8fa7981da3a57bec47819342939870a5df34da0b",
+      "items": 165,
+      "glossaryFile": "brands/EE/brand_glossary_EE.json",
+      "glossarySha256": "48f3346fcabd0728504bc8a5c12cec6fd7c4b6821ca581849391a7e145ff4fa2"
+    },
+    {
       "code": "KOSOVO",
       "file": "brands/KOSOVO/brands_KOSOVO.json",
       "schema": 2,
