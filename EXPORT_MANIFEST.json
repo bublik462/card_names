@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-29T15:38:10Z",
+  "generatedAt": "2026-06-29T15:46:11Z",
   "files": [
     {
       "path": "brands/EE/brands_EE.json",
@@ -19,7 +19,7 @@
     },
     {
       "path": "brands/KOSOVO/brands_KOSOVO.json",
-      "sha256": "246418fe47a1d6c10dbe2b10ab47a4c631bb6800975cfcf425a0eb4a634364db",
+      "sha256": "6902124f77395bc4c7c6d0d1376cc930836d3eb5f82ce110f186c53d0d25c792",
       "bytes": 145539,
       "country": "KOSOVO",
       "kind": "brands",

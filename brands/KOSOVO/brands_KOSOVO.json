@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-06-28",
+  "updatedAt": "2026-06-29",
   "country": "KOSOVO",
   "items": [
     {
@@ -5365,9 +5365,9 @@
   "brandExport": {
     "strictBrandsOnly": true,
     "productionCount": 73,
-    "candidateCount": 2815,
+    "candidateCount": 2814,
     "rejectCount": 15,
-    "humanReviewCount": 3204,
+    "humanReviewCount": 3205,
     "aiReviewCount": 0
   }
 }
