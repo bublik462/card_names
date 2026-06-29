@@ -23,6 +23,16 @@
       "glossarySha256": "93f7394a8a33bb1fedd3502e0aa1cc8a92441be77b82985529f7eed222e99a13"
     },
     {
+      "code": "LT",
+      "file": "brands/LT/brands_LT.json",
+      "schema": 2,
+      "updatedAt": "2026-06-29",
+      "sha256": "02bad0e77cc3fa1c33f38f3b76e0214251b85e141ba477244554270768696187",
+      "items": 127,
+      "glossaryFile": "brands/LT/brand_glossary_LT.json",
+      "glossarySha256": "84179d13d5fbc5c9cd1f514746cfd28a194cf0b072308725dd39862dc91e9ce4"
+    },
+    {
       "code": "LV",
       "file": "brands/LV/brands_LV.json",
       "schema": 2,

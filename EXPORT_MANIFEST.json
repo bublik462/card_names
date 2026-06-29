@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-29T15:23:37Z",
+  "generatedAt": "2026-06-29T15:38:10Z",
   "files": [
     {
       "path": "brands/EE/brands_EE.json",
@@ -30,6 +30,21 @@
       "sha256": "93f7394a8a33bb1fedd3502e0aa1cc8a92441be77b82985529f7eed222e99a13",
       "bytes": 309,
       "country": "KOSOVO",
+      "kind": "glossary"
+    },
+    {
+      "path": "brands/LT/brands_LT.json",
+      "sha256": "02bad0e77cc3fa1c33f38f3b76e0214251b85e141ba477244554270768696187",
+      "bytes": 252984,
+      "country": "LT",
+      "kind": "brands",
+      "items": 127
+    },
+    {
+      "path": "brands/LT/brand_glossary_LT.json",
+      "sha256": "84179d13d5fbc5c9cd1f514746cfd28a194cf0b072308725dd39862dc91e9ce4",
+      "bytes": 8234,
+      "country": "LT",
       "kind": "glossary"
     },
     {
