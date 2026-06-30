@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-06-29",
+  "updatedAt": "2026-07-01",
   "countries": [
     {
       "code": "BY",
@@ -46,9 +46,9 @@
       "code": "LV",
       "file": "brands/LV/brands_LV.json",
       "schema": 2,
-      "updatedAt": "2026-06-30",
-      "sha256": "b54118f94f22a1358179ccd5527b97c55e51ad3034d4dbf3098b51dec3915fa2",
-      "items": 220,
+      "updatedAt": "2026-07-01",
+      "sha256": "5247df642b2c1aaf7585f5b7332f84ccc4da025c574533a213894e8b269673b0",
+      "items": 219,
       "glossaryFile": "brands/LV/brand_glossary_LV.json",
       "glossarySha256": "a5c662037470f646efa53feddf2fc8bd8b584ab2502743f5b0cde7065ab2df08"
     },

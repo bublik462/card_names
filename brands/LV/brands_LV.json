@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-06-30",
+  "updatedAt": "2026-07-01",
   "country": "LV",
   "items": [
     {
@@ -3582,10 +3582,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -3601,13 +3601,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q7054956",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3630,14 +3630,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "BREEZE",
         "brandWikidata": "Q7054956",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3842,10 +3842,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -3861,13 +3861,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q27074",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3890,14 +3890,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Aston Martin",
         "brandWikidata": "Q27074",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4277,10 +4277,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -4296,13 +4296,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q1117001",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4325,14 +4325,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "GWM",
         "brandWikidata": "Q1117001",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4538,10 +4538,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -4557,13 +4557,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q35886",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4586,14 +4586,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Lamborghini",
         "brandWikidata": "Q35886",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4872,10 +4872,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -4891,13 +4891,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q6742",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4920,14 +4920,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Peugeot",
         "brandWikidata": "Q6742",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5652,10 +5652,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -5672,13 +5672,13 @@
         "samplePointCount": 2
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q115922509",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5701,14 +5701,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Inter Cars",
         "brandWikidata": "Q115922509",
         "categoryPath": "shop/car_parts"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5740,10 +5740,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -5760,13 +5760,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q894368",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5789,14 +5789,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Bosch Car Service",
         "brandWikidata": "Q894368",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5828,10 +5828,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -5848,13 +5848,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q1035997",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5877,14 +5877,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Carglass",
         "brandWikidata": "Q1035997",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5916,10 +5916,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -5936,13 +5936,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q3072965",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5965,14 +5965,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "First Stop",
         "brandWikidata": "Q3072965",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7599,10 +7599,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -7618,13 +7618,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q116974914",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -7647,14 +7647,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "HalfPrice",
         "brandWikidata": "Q116974914",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7945,10 +7945,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -7964,13 +7964,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q136158956",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -7993,14 +7993,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "iBlues",
         "brandWikidata": "Q136158956",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8118,10 +8118,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -8137,13 +8137,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q6077665",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -8166,14 +8166,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Jack & Jones",
         "brandWikidata": "Q6077665",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8901,10 +8901,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -8920,13 +8920,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q1423792",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -8949,14 +8949,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "MARTA",
         "brandWikidata": "Q1423792",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9855,10 +9855,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -9874,13 +9874,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q28729986",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -9903,14 +9903,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Penti",
         "brandWikidata": "Q28729986",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10721,10 +10721,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -10740,13 +10740,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q571206",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -10769,14 +10769,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Tom Tailor",
         "brandWikidata": "Q571206",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11068,10 +11068,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -11087,13 +11087,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q640418",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11116,14 +11116,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Vero Moda",
         "brandWikidata": "Q640418",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11771,10 +11771,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -11790,13 +11790,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q89560313",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11819,14 +11819,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Fluo Grand Est",
         "brandWikidata": "Q89560313",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11945,10 +11945,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -11964,13 +11964,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q9257470",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11993,14 +11993,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Faberlic",
         "brandWikidata": "Q9257470",
         "categoryPath": "shop/cosmetics"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12032,10 +12032,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -12051,13 +12051,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q3196447",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12080,14 +12080,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Kiehl's",
         "brandWikidata": "Q3196447",
         "categoryPath": "shop/cosmetics"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -15083,10 +15083,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -15102,13 +15102,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q271812",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -15131,14 +15131,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Ducati",
         "brandWikidata": "Q271812",
         "categoryPath": "shop/motorcycle"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -16612,10 +16612,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": false,
@@ -16631,13 +16631,13 @@
         "samplePointCount": 2
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
+        "acceptedQid": "Q61994827",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -16660,14 +16660,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Tamaris",
         "brandWikidata": "Q61994827",
         "categoryPath": "shop/shoes"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -17871,14 +17871,14 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 96,
       "evidenceSummary": {
-        "count": 1,
+        "count": 3,
         "hasWebsite": true,
-        "hasEmail": false,
+        "hasEmail": true,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
@@ -17887,94 +17887,7 @@
         "categoryTokens": [
           "tattoo"
         ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "sources": {
-        "osm": true,
-        "nsi": true
-      },
-      "nsi": {
-        "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
-        "canonicalName": "VeAn Tattoo",
-        "brandWikidata": "Q116871240",
-        "categoryPath": "shop/tattoo"
-      },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/tattoo",
-      "defaultCategoryPath": "shop/tattoo",
-      "brand": "VeAn Tattoo",
-      "brandKey": "vean_tattoo",
-      "brandWikidata": "Q116871240",
-      "resolved": {
-        "brand": "VeAn Tattoo",
-        "brandKey": "vean_tattoo",
-        "brandWikidata": "Q116871240"
-      },
-      "raw": {
-        "brand": "VeAn Tattoo",
-        "brandWikidata": "Q116871240",
-        "name": "VeAn Tattoo",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "vean_tattoo",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 2,
-        "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "tattoo"
-        ],
-        "samplePointCount": 2
+        "samplePointCount": 3
       },
       "qidDiagnostics": {
         "acceptedQid": "Q116871240",
@@ -18521,10 +18434,10 @@
   },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 220,
+    "productionCount": 219,
     "candidateCount": 433,
     "rejectCount": 27,
-    "humanReviewCount": 5300,
+    "humanReviewCount": 5298,
     "aiReviewCount": 0
   }
 }
