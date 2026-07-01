@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-30T21:14:20Z",
+  "generatedAt": "2026-07-01T16:42:34Z",
   "files": [
     {
       "path": "brands/BY/brands_BY.json",
@@ -49,11 +49,11 @@
     },
     {
       "path": "brands/LT/brands_LT.json",
-      "sha256": "02bad0e77cc3fa1c33f38f3b76e0214251b85e141ba477244554270768696187",
-      "bytes": 252984,
+      "sha256": "9fdf9ddd8b7a9b84c19b12dbca36562082e96e6a83322aa116e7b3e9b909cdd9",
+      "bytes": 348533,
       "country": "LT",
       "kind": "brands",
-      "items": 127
+      "items": 149
     },
     {
       "path": "brands/LT/brand_glossary_LT.json",

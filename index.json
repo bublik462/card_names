@@ -36,9 +36,9 @@
       "code": "LT",
       "file": "brands/LT/brands_LT.json",
       "schema": 2,
-      "updatedAt": "2026-06-29",
-      "sha256": "02bad0e77cc3fa1c33f38f3b76e0214251b85e141ba477244554270768696187",
-      "items": 127,
+      "updatedAt": "2026-07-01",
+      "sha256": "9fdf9ddd8b7a9b84c19b12dbca36562082e96e6a83322aa116e7b3e9b909cdd9",
+      "items": 149,
       "glossaryFile": "brands/LT/brand_glossary_LT.json",
       "glossarySha256": "84179d13d5fbc5c9cd1f514746cfd28a194cf0b072308725dd39862dc91e9ce4"
     },
