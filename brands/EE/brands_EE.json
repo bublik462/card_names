@@ -1,8 +1,95 @@
 {
   "schema": 2,
-  "updatedAt": "2026-06-29",
+  "updatedAt": "2026-07-01",
   "country": "EE",
   "items": [
+    {
+      "categoryPath": "amenity/bar",
+      "defaultCategoryPath": "amenity/bar",
+      "brand": "Piana Vyshnia",
+      "brandKey": "piana_vyshnia",
+      "brandWikidata": "Q120651326",
+      "resolved": {
+        "brand": "Piana Vyshnia",
+        "brandKey": "piana_vyshnia",
+        "brandWikidata": "Q120651326"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Piana Vyshnia",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "piana_vyshnia",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "bar"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Piana Vyshnia",
+        "brandWikidata": "Q120651326",
+        "categoryPath": "amenity/bar"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
     {
       "categoryPath": "amenity/bar",
       "defaultCategoryPath": "amenity/bar",
@@ -104,10 +191,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 10,
         "hasWebsite": true,
@@ -154,6 +241,93 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/cafe",
+      "defaultCategoryPath": "amenity/cafe",
+      "brand": "Le Bus",
+      "brandKey": "le_bus",
+      "brandWikidata": "Q21027383",
+      "resolved": {
+        "brand": "Le Bus",
+        "brandKey": "le_bus",
+        "brandWikidata": "Q21027383"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Le Bus",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "le_bus",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": false,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "cafe"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Le Bus",
+        "brandWikidata": "Q21027383",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -231,6 +405,93 @@
       "reviewReason": "qid_verified"
     },
     {
+      "categoryPath": "amenity/cafe",
+      "defaultCategoryPath": "amenity/cafe",
+      "brand": "Tempo",
+      "brandKey": "tempo",
+      "brandWikidata": "Q3537931",
+      "resolved": {
+        "brand": "Tempo",
+        "brandKey": "tempo",
+        "brandWikidata": "Q3537931"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Tempo",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "tempo",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "cafe"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Tempo",
+        "brandWikidata": "Q3537931",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "amenity/car_wash",
       "defaultCategoryPath": "amenity/car_wash",
       "brand": "Kärcher",
@@ -270,7 +531,7 @@
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "operator_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "car wash",
           "car_wash"
@@ -301,6 +562,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Nutipesu OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Kärcher",
+        "brandWikidata": "Q696798",
+        "categoryPath": "amenity/car_wash"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -522,6 +802,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Burger King",
+        "brandWikidata": "Q177054",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -597,6 +891,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "China Wok",
+        "brandWikidata": "Q5766542",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -672,6 +980,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Domino's",
+        "brandWikidata": "Q839466",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -747,6 +1069,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Hesemajad OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Hesburger",
+        "brandWikidata": "Q1276832",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -822,6 +1163,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "KFC",
+        "brandWikidata": "Q524757",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -897,6 +1252,108 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "McDonald's",
+        "brandWikidata": "Q38076",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/fast_food",
+      "defaultCategoryPath": "amenity/fast_food",
+      "brand": "Metro",
+      "brandKey": "metro",
+      "brandWikidata": "Q6824449",
+      "resolved": {
+        "brand": "Metro",
+        "brandKey": "metro",
+        "brandWikidata": "Q6824449"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Metro",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "metro",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "fast food",
+          "fast_food"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Metro (Belfast)",
+        "brandWikidata": "Q6824449",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -972,6 +1429,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Subway",
+        "brandWikidata": "Q244457",
+        "categoryPath": "amenity/fast_food"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1061,6 +1532,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Alexela",
+        "brandWikidata": "Q20529782",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1138,6 +1623,112 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Circle K",
+        "brandWikidata": "Q3268010",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/fuel",
+      "defaultCategoryPath": "amenity/fuel",
+      "brand": "Jõelähtme tankla",
+      "brandKey": "joelahtme_tankla",
+      "brandWikidata": "Q16931205",
+      "resolved": {
+        "brand": "Jõelähtme tankla",
+        "brandKey": "joelahtme_tankla",
+        "brandWikidata": "Q16931205"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Jõelähtme tankla",
+        "nameWikidata": "",
+        "operator": "Olerex",
+        "operatorWikidata": "",
+        "rawBrandKey": "joelahtme_tankla",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "fuel"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Olerex",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Olerex",
+        "brandWikidata": "Q16931205",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1212,6 +1803,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Neste Eesti AS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Neste",
+        "brandWikidata": "Q616376",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1248,7 +1858,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 107,
+        "count": 105,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -1288,6 +1898,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Olerex",
+        "brandWikidata": "Q16931205",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1362,6 +1986,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Baskin-Robbins",
+        "brandWikidata": "Q584601",
+        "categoryPath": "amenity/ice_cream"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1393,10 +2031,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 121,
         "hasWebsite": true,
@@ -1437,6 +2075,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "osaühing PÕLVA APTEEK",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Apotheka",
+        "brandWikidata": "",
+        "categoryPath": "amenity/pharmacy"
+      },
+      "nsiStatus": "exact_name_no_qid",
+      "enrichStatus": "nsi_matched_no_qid",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1510,6 +2167,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Benu",
+        "brandWikidata": "Q62562792",
+        "categoryPath": "amenity/pharmacy"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -1541,10 +2212,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 96,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -1688,10 +2359,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": false,
@@ -1879,6 +2550,94 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/restaurant",
+      "defaultCategoryPath": "amenity/restaurant",
+      "brand": "O'Learys",
+      "brandKey": "o_learys",
+      "brandWikidata": "Q10605590",
+      "resolved": {
+        "brand": "O'Learys",
+        "brandKey": "o_learys",
+        "brandWikidata": "Q10605590"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "O'Learys",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "o_learys",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "american",
+          "restaurant"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "O'Learys",
+        "brandWikidata": "Q10605590",
+        "categoryPath": "amenity/restaurant"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2176,6 +2935,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Vapiano",
+        "brandWikidata": "Q506252",
+        "categoryPath": "amenity/restaurant"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2281,10 +3054,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": false,
@@ -2323,6 +3096,112 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Osterode OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Samsonite",
+        "brandWikidata": "Q1203426",
+        "categoryPath": "shop/bag"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/beauty",
+      "defaultCategoryPath": "shop/beauty",
+      "brand": "Viva",
+      "brandKey": "viva",
+      "brandWikidata": "Q17972",
+      "resolved": {
+        "brand": "Viva",
+        "brandKey": "viva",
+        "brandWikidata": "Q17972"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Viva",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "viva",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "beauty"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "VIVA",
+        "brandWikidata": "Q17972",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2396,6 +3275,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Reval Auto Esindused OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Audi",
+        "brandWikidata": "Q23317",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2427,10 +3325,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -2469,6 +3367,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "BMW",
+        "brandWikidata": "Q26678",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2542,6 +3454,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Citroën",
+        "brandWikidata": "Q6746",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2573,10 +3499,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -2615,6 +3541,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Auto-Bon",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Cupra",
+        "brandWikidata": "Q8352675",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2688,6 +3633,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Dodge",
+        "brandWikidata": "Q27564",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2761,6 +3720,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Ferrari",
+        "brandWikidata": "Q27586",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2834,6 +3807,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Infoauto",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Ford",
+        "brandWikidata": "Q44294",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
     },
@@ -2907,6 +3899,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Honda",
+        "brandWikidata": "Q9584",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2980,6 +3986,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Siller Auto OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Hyundai",
+        "brandWikidata": "Q55931",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3053,6 +4078,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Isuzu",
+        "brandWikidata": "Q29803",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3125,6 +4164,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Topauto",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -3199,6 +4243,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Kia",
+        "brandWikidata": "Q35349",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3272,6 +4330,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Lexus",
+        "brandWikidata": "Q35919",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/car",
+      "defaultCategoryPath": "shop/car",
+      "brand": "Maserati",
+      "brandKey": "maserati",
+      "brandWikidata": "Q35962",
+      "resolved": {
+        "brand": "Maserati",
+        "brandKey": "maserati",
+        "brandWikidata": "Q35962"
+      },
+      "raw": {
+        "brand": "Maserati",
+        "brandWikidata": "",
+        "name": "Maserati",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "maserati",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "car"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maserati",
+        "brandWikidata": "Q35962",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3345,6 +4504,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Mercedes-Benz",
+        "brandWikidata": "Q36008",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3418,6 +4591,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Topauto",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Mitsubishi",
+        "brandWikidata": "Q36033",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3491,6 +4683,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Nissan",
+        "brandWikidata": "Q20165",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3564,6 +4770,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "AS Rael",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Peugeot",
+        "brandWikidata": "Q6742",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3637,6 +4862,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Auto 100",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Porsche",
+        "brandWikidata": "Q40993",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3710,6 +4954,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Renault",
+        "brandWikidata": "Q6686",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3783,6 +5041,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Seat",
+        "brandWikidata": "Q188217",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3856,6 +5128,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Škoda",
+        "brandWikidata": "Q29637",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3929,6 +5215,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Subaru",
+        "brandWikidata": "Q172741",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4002,6 +5302,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Suzuki",
+        "brandWikidata": "Q181642",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4038,7 +5352,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 11,
+        "count": 12,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -4053,8 +5367,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q53268",
-        "acceptedQidCount": 10,
-        "totalQidCount": 10,
+        "acceptedQidCount": 11,
+        "totalQidCount": 11,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -4075,79 +5389,25 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/car",
-      "defaultCategoryPath": "shop/car",
-      "brand": "Toyota;Lexus",
-      "brandKey": "toyota_lexus",
-      "brandWikidata": "Q53268",
-      "resolved": {
-        "brand": "Toyota;Lexus",
-        "brandKey": "toyota_lexus",
-        "brandWikidata": "Q53268"
-      },
-      "raw": {
-        "brand": "Toyota;Lexus",
-        "brandWikidata": "Q53268",
-        "name": "Amserv Viljandi",
-        "nameWikidata": "",
-        "operator": "Amserv Group AS",
+      "operatorEvidence": {
+        "operator": "Amserv Auto OÜ",
         "operatorWikidata": "",
-        "rawBrandKey": "toyota_lexus",
-        "wikidata": ""
+        "source": "operator"
       },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
+      "sources": {
+        "osm": true,
+        "nsi": true
       },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Toyota",
+        "brandWikidata": "Q53268",
+        "categoryPath": "shop/car"
       },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": true,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "car"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q53268",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4221,6 +5481,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Volkswagen",
+        "brandWikidata": "Q246",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/car",
+      "defaultCategoryPath": "shop/car",
+      "brand": "Xpeng",
+      "brandKey": "xpeng",
+      "brandWikidata": "Q63035278",
+      "resolved": {
+        "brand": "Xpeng",
+        "brandKey": "xpeng",
+        "brandWikidata": "Q63035278"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Xpeng",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "xpeng",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "car"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Xpeng",
+        "brandWikidata": "Q63035278",
+        "categoryPath": "shop/car"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4295,6 +5656,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Inter Cars",
+        "brandWikidata": "Q115922509",
+        "categoryPath": "shop/car_parts"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4369,6 +5744,222 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Motonet",
+        "brandWikidata": "Q11883287",
+        "categoryPath": "shop/car_parts"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/car_repair",
+      "defaultCategoryPath": "shop/car_repair",
+      "brand": "Bosch Car Service",
+      "brandKey": "bosch_car_service",
+      "brandWikidata": "Q894368",
+      "resolved": {
+        "brand": "Bosch Car Service",
+        "brandKey": "bosch_car_service",
+        "brandWikidata": "Q894368"
+      },
+      "raw": {
+        "brand": "Bosch Car Service",
+        "brandWikidata": "Q234021",
+        "name": "Bosch Service",
+        "nameWikidata": "",
+        "operator": "Lehola Autokeskus",
+        "operatorWikidata": "",
+        "rawBrandKey": "bosch_car_service",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "car repair",
+          "car_repair"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 2,
+        "conflictCount": 2,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "brand_wikidata_conflict",
+        "conflictingQids": [
+          {
+            "qid": "Q234021",
+            "count": 1,
+            "sources": [
+              {
+                "source": "brand:wikidata",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "qid": "Q894368",
+            "count": 1,
+            "sources": [
+              {
+                "source": "brand:wikidata",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Lehola Autokeskus",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Bosch Car Service",
+        "brandWikidata": "Q894368",
+        "categoryPath": "shop/car_repair"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/car_repair",
+      "defaultCategoryPath": "shop/car_repair",
+      "brand": "Bosch Service",
+      "brandKey": "bosch_service",
+      "brandWikidata": "Q894368",
+      "resolved": {
+        "brand": "Bosch Service",
+        "brandKey": "bosch_service",
+        "brandWikidata": "Q894368"
+      },
+      "raw": {
+        "brand": "Bosch Service",
+        "brandWikidata": "",
+        "name": "Särg AA",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "bosch_service",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "car repair",
+          "car_repair"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Bosch Car Service",
+        "brandWikidata": "Q894368",
+        "categoryPath": "shop/car_repair"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4443,6 +6034,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Carglass",
+        "brandWikidata": "Q1035997",
+        "categoryPath": "shop/car_repair"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4517,6 +6122,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "First Stop",
+        "brandWikidata": "Q3072965",
+        "categoryPath": "shop/car_repair"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4591,6 +6210,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Vilvo Auto AS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4664,6 +6288,194 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "American Vintage",
+        "brandWikidata": "Q2422884",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Anna-Bella",
+      "brandKey": "anna_bella",
+      "brandWikidata": "Q133255703",
+      "resolved": {
+        "brand": "Anna-Bella",
+        "brandKey": "anna_bella",
+        "brandWikidata": "Q133255703"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Anna-Bella",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "anna_bella",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Anna Bella",
+        "brandWikidata": "Q133255703",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Arket",
+      "brandKey": "arket",
+      "brandWikidata": "Q86668300",
+      "resolved": {
+        "brand": "Arket",
+        "brandKey": "arket",
+        "brandWikidata": "Q86668300"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Arket",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "arket",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Arket",
+        "brandWikidata": "Q86668300",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4737,6 +6549,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Armani Exchange",
+        "brandWikidata": "Q56045740",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4810,6 +6636,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Bershka",
+        "brandWikidata": "Q827258",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Betty Barclay",
+      "brandKey": "betty_barclay",
+      "brandWikidata": "Q850250",
+      "resolved": {
+        "brand": "Betty Barclay",
+        "brandKey": "betty_barclay",
+        "brandWikidata": "Q850250"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Betty Barclay",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "betty_barclay",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Betty Barclay",
+        "brandWikidata": "Q850250",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4883,6 +6810,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Calvin Klein",
+        "brandWikidata": "Q1068628",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4934,6 +6875,93 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1027874",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Calzedonia",
+        "brandWikidata": "Q1027874",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Camel Active",
+      "brandKey": "camel_active",
+      "brandWikidata": "Q20057140",
+      "resolved": {
+        "brand": "Camel Active",
+        "brandKey": "camel_active",
+        "brandWikidata": "Q20057140"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Camel Active",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "camel_active",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q20057140",
         "acceptedQidCount": 1,
         "totalQidCount": 1,
         "conflictCount": 0,
@@ -5029,6 +7057,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "COS",
+        "brandWikidata": "Q60772401",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5102,6 +7144,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Cropp",
+        "brandWikidata": "Q9196793",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5175,6 +7231,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Desigual",
+        "brandWikidata": "Q83750",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5248,6 +7318,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Esprit",
+        "brandWikidata": "Q532746",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5321,6 +7405,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "GANT",
+        "brandWikidata": "Q1493667",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5394,6 +7492,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Gerry Weber",
+        "brandWikidata": "Q873447",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5467,6 +7579,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Guess",
+        "brandWikidata": "Q2470307",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5540,6 +7666,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "H&M",
+        "brandWikidata": "Q188326",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5591,8 +7731,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q9294202",
-        "acceptedQidCount": 3,
-        "totalQidCount": 3,
+        "acceptedQidCount": 4,
+        "totalQidCount": 4,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "glossary_qid_lock",
@@ -5613,6 +7753,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "House",
+        "brandWikidata": "Q9294202",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
     },
@@ -5686,6 +7840,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Hugo Boss",
+        "brandWikidata": "Q491627",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5717,10 +7885,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 6,
         "hasWebsite": true,
@@ -5759,6 +7927,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Humana",
+        "brandWikidata": "Q1636581",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5832,6 +8014,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Intimissimi",
+        "brandWikidata": "Q305404",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5863,10 +8059,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 4,
         "hasWebsite": false,
@@ -5905,6 +8101,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Jack & Jones",
+        "brandWikidata": "Q6077665",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Lacoste",
+      "brandKey": "lacoste",
+      "brandWikidata": "Q309031",
+      "resolved": {
+        "brand": "Lacoste",
+        "brandKey": "lacoste",
+        "brandWikidata": "Q309031"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Lacoste",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "lacoste",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Lacoste",
+        "brandWikidata": "Q309031",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5956,8 +8253,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q127962",
-        "acceptedQidCount": 4,
-        "totalQidCount": 4,
+        "acceptedQidCount": 5,
+        "totalQidCount": 5,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -5978,6 +8275,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Levi's",
+        "brandWikidata": "Q127962",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6051,6 +8362,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Lindex",
+        "brandWikidata": "Q1786717",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6124,6 +8449,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Luisa Spagnoli",
+        "brandWikidata": "Q108103526",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6270,6 +8609,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Mango",
+        "brandWikidata": "Q136503",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6301,10 +8654,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": false,
@@ -6343,6 +8696,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Marc O'Polo",
+        "brandWikidata": "Q1892752",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Marella",
+      "brandKey": "marella",
+      "brandWikidata": "Q118111682",
+      "resolved": {
+        "brand": "Marella",
+        "brandKey": "marella",
+        "brandWikidata": "Q118111682"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Marella",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "marella",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Marella",
+        "brandWikidata": "Q118111682",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6416,6 +8870,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Marina Rinaldi",
+        "brandWikidata": "Q2349550",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Marta",
+      "brandKey": "marta",
+      "brandWikidata": "Q1423792",
+      "resolved": {
+        "brand": "Marta",
+        "brandKey": "marta",
+        "brandWikidata": "Q1423792"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Marta",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "marta",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "MARTA",
+        "brandWikidata": "Q1423792",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6489,6 +9044,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Massimo Dutti",
+        "brandWikidata": "Q788231",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "MAX&Co.",
+      "brandKey": "max_co",
+      "brandWikidata": "Q120570926",
+      "resolved": {
+        "brand": "MAX&Co.",
+        "brandKey": "max_co",
+        "brandWikidata": "Q120570926"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "MAX&Co.",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "max_co",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "MAX&Co.",
+        "brandWikidata": "Q120570926",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6562,6 +9218,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Max Mara",
+        "brandWikidata": "Q1151774",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6635,6 +9305,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Mustang",
+        "brandWikidata": "Q221562",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6671,7 +9355,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 4,
+        "count": 5,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": false,
@@ -6682,12 +9366,12 @@
         "categoryTokens": [
           "clothes"
         ],
-        "samplePointCount": 4
+        "samplePointCount": 5
       },
       "qidDiagnostics": {
         "acceptedQid": "Q706421",
-        "acceptedQidCount": 4,
-        "totalQidCount": 4,
+        "acceptedQidCount": 5,
+        "totalQidCount": 5,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -6708,6 +9392,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "New Yorker",
+        "brandWikidata": "Q706421",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6781,6 +9479,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Next",
+        "brandWikidata": "Q246655",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6854,6 +9566,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Nike",
+        "brandWikidata": "Q483915",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6905,8 +9631,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q11815580",
-        "acceptedQidCount": 16,
-        "totalQidCount": 16,
+        "acceptedQidCount": 17,
+        "totalQidCount": 17,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -6927,6 +9653,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Pepco",
+        "brandWikidata": "Q11815580",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7000,6 +9740,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Pinko",
+        "brandWikidata": "Q3905226",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7073,6 +9827,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Pull & Bear",
+        "brandWikidata": "Q691029",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "REPLAY",
+      "brandKey": "replay",
+      "brandWikidata": "Q1654538",
+      "resolved": {
+        "brand": "REPLAY",
+        "brandKey": "replay",
+        "brandWikidata": "Q1654538"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "REPLAY",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "replay",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Replay",
+        "brandWikidata": "Q1654538",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7146,6 +10001,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Reserved",
+        "brandWikidata": "Q21809354",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7270,8 +10139,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q107410579",
-        "acceptedQidCount": 7,
-        "totalQidCount": 7,
+        "acceptedQidCount": 8,
+        "totalQidCount": 8,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -7292,6 +10161,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Sinsay",
+        "brandWikidata": "Q107410579",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7365,6 +10248,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Springfield",
+        "brandWikidata": "Q958209",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7438,6 +10335,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Stradivarius",
+        "brandWikidata": "Q3322945",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7511,6 +10422,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Suitsupply",
+        "brandWikidata": "Q17149142",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7584,6 +10509,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Superdry",
+        "brandWikidata": "Q1684445",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7596,79 +10535,6 @@
       "resolved": {
         "brand": "Takko",
         "brandKey": "takko",
-        "brandWikidata": "Q1371302"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Takko",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "takko",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
-      },
-      "confidence": 64,
-      "evidenceSummary": {
-        "count": 3,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "clothes"
-        ],
-        "samplePointCount": 3
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q1371302",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/clothes",
-      "defaultCategoryPath": "shop/clothes",
-      "brand": "Takko Fashion",
-      "brandKey": "takko_fashion",
-      "brandWikidata": "Q1371302",
-      "resolved": {
-        "brand": "Takko Fashion",
-        "brandKey": "takko_fashion",
         "brandWikidata": "Q1371302"
       },
       "raw": {
@@ -7693,11 +10559,11 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 6,
-        "hasWebsite": false,
+        "count": 8,
+        "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
-        "hasAddress": false,
+        "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
         "brandSource": "brand_tag",
@@ -7708,8 +10574,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1371302",
-        "acceptedQidCount": 5,
-        "totalQidCount": 5,
+        "acceptedQidCount": 6,
+        "totalQidCount": 6,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -7730,6 +10596,194 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Takko Fashion",
+        "brandWikidata": "Q1371302",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Takko Fashion",
+      "brandKey": "takko_fashion",
+      "brandWikidata": "Q1371302",
+      "resolved": {
+        "brand": "Takko Fashion",
+        "brandKey": "takko_fashion",
+        "brandWikidata": "Q1371302"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Takko Fashion",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "takko_fashion",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q1371302",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Takko Fashion",
+        "brandWikidata": "Q1371302",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Tally Weijl",
+      "brandKey": "tally_weijl",
+      "brandWikidata": "Q689695",
+      "resolved": {
+        "brand": "Tally Weijl",
+        "brandKey": "tally_weijl",
+        "brandWikidata": "Q689695"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Tally Weijl",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "tally_weijl",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": false,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Tally Weijl",
+        "brandWikidata": "Q689695",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7803,6 +10857,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Terranova",
+        "brandWikidata": "Q93585264",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7876,6 +10944,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Timberland",
+        "brandWikidata": "Q1539185",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7927,8 +11009,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q571206",
-        "acceptedQidCount": 3,
-        "totalQidCount": 3,
+        "acceptedQidCount": 4,
+        "totalQidCount": 4,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -7949,6 +11031,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Tom Tailor",
+        "brandWikidata": "Q571206",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8022,6 +11118,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Tommy Hilfiger",
+        "brandWikidata": "Q634881",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8095,6 +11205,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Triumph",
+        "brandWikidata": "Q671216",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8168,6 +11292,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Vero Moda",
+        "brandWikidata": "Q640418",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8241,6 +11379,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Versace",
+        "brandWikidata": "Q696376",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8314,6 +11466,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Women'secret",
+        "brandWikidata": "Q16648226",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8387,6 +11553,112 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Zara",
+        "brandWikidata": "Q147662",
+        "categoryPath": "shop/clothes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
+      "brand": "Uueveski Konsum",
+      "brandKey": "uueveski_konsum",
+      "brandWikidata": "Q12361460",
+      "resolved": {
+        "brand": "Uueveski Konsum",
+        "brandKey": "uueveski_konsum",
+        "brandWikidata": "Q12361460"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Uueveski Konsum",
+        "nameWikidata": "",
+        "operator": "Coop Eesti",
+        "operatorWikidata": "Q12361460",
+        "rawBrandKey": "uueveski_konsum",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Coop Eesti",
+        "operatorWikidata": "Q12361460",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Coop Eesti",
+        "brandWikidata": "Q12361460",
+        "categoryPath": "shop/convenience"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8460,6 +11732,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "L'Occitane",
+        "brandWikidata": "Q1880676",
+        "categoryPath": "shop/cosmetics"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8533,6 +11819,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Lush",
+        "brandWikidata": "Q1585448",
+        "categoryPath": "shop/cosmetics"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8606,6 +11906,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "The Body Shop",
+        "brandWikidata": "Q837851",
+        "categoryPath": "shop/cosmetics"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/cosmetics",
+      "defaultCategoryPath": "shop/cosmetics",
+      "brand": "Yves Rocher",
+      "brandKey": "yves_rocher",
+      "brandWikidata": "Q1477321",
+      "resolved": {
+        "brand": "Yves Rocher",
+        "brandKey": "yves_rocher",
+        "brandWikidata": "Q1477321"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Yves Rocher",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "yves_rocher",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "cosmetics"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Yves Rocher",
+        "brandWikidata": "Q1477321",
+        "categoryPath": "shop/cosmetics"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8679,6 +12080,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "BAUHAUS Eesti OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Bauhaus",
+        "brandWikidata": "Q672043",
+        "categoryPath": "shop/doityourself"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8752,6 +12172,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Euronics",
+        "brandWikidata": "Q184860",
+        "categoryPath": "shop/electronics"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8825,6 +12259,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Expert",
+        "brandWikidata": "Q680990",
+        "categoryPath": "shop/electronics"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/electronics",
+      "defaultCategoryPath": "shop/electronics",
+      "brand": "Samsung",
+      "brandKey": "samsung",
+      "brandWikidata": "Q20718",
+      "resolved": {
+        "brand": "Samsung",
+        "brandKey": "samsung",
+        "brandWikidata": "Q20718"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Samsung",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "samsung",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "electronics"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Samsung",
+        "brandWikidata": "Q20718",
+        "categoryPath": "shop/electronics"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9044,6 +12579,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "JYSK",
+        "brandWikidata": "Q138913",
+        "categoryPath": "shop/furniture"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9264,6 +12813,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Würth",
+        "brandWikidata": "Q679750",
+        "categoryPath": "shop/hardware"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9295,10 +12858,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -9411,6 +12974,19 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "qid_conflict",
+        "confidence": 0.0,
+        "nsiQid": "Q611115",
+        "ourQid": "Q926699",
+        "action": "report_only"
+      },
+      "nsiStatus": "qid_conflict",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9484,6 +13060,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Pandora",
+        "brandWikidata": "Q2241604",
+        "categoryPath": "shop/jewelry"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9557,6 +13147,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Swarovski",
+        "brandWikidata": "Q611115",
+        "categoryPath": "shop/jewelry"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9965,7 +13569,7 @@
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "operator_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "mall"
         ],
@@ -9994,6 +13598,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Citycon",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -10172,10 +13781,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 5,
         "hasWebsite": true,
@@ -10251,10 +13860,10 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 9,
+        "count": 10,
         "hasWebsite": true,
         "hasEmail": true,
-        "hasPhone": false,
+        "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
@@ -10267,8 +13876,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q309865",
-        "acceptedQidCount": 6,
-        "totalQidCount": 6,
+        "acceptedQidCount": 7,
+        "totalQidCount": 7,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -10289,80 +13898,20 @@
         "registrationUrl": "",
         "notes": ""
       },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/mobile_phone",
-      "defaultCategoryPath": "shop/mobile_phone",
-      "brand": "Tele2 müügiesindus",
-      "brandKey": "tele2_muugiesindus",
-      "brandWikidata": "Q309865",
-      "resolved": {
-        "brand": "Tele2 müügiesindus",
-        "brandKey": "tele2_muugiesindus",
-        "brandWikidata": "Q309865"
+      "sources": {
+        "osm": true,
+        "nsi": true
       },
-      "raw": {
-        "brand": "Tele2 müügiesindus",
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Tele2",
         "brandWikidata": "Q309865",
-        "name": "Tele2",
-        "nameWikidata": "",
-        "operator": "Tele2",
-        "operatorWikidata": "",
-        "rawBrandKey": "tele2_muugiesindus",
-        "wikidata": ""
+        "categoryPath": "shop/mobile_phone"
       },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
-      },
-      "confidence": 96,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": true,
-        "hasEmail": false,
-        "hasPhone": true,
-        "hasAddress": true,
-        "hasOpeningHours": true,
-        "nameSource": "raw.name",
-        "brandSource": "brand_tag",
-        "categoryTokens": [
-          "mobile phone",
-          "mobile_phone"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q309865",
-        "acceptedQidCount": 1,
-        "totalQidCount": 1,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10583,6 +14132,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Douglas",
+        "brandWikidata": "Q2052213",
+        "categoryPath": "shop/perfumery"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10614,10 +14177,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "cleaned_name",
-        "status": "inferred"
+        "matchReason": "brand_key",
+        "status": "resolved"
       },
-      "confidence": 64,
+      "confidence": 88,
       "evidenceSummary": {
         "count": 25,
         "hasWebsite": true,
@@ -10729,6 +14292,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Aldo",
+        "brandWikidata": "Q2832297",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10802,6 +14379,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "CCC",
+        "brandWikidata": "Q11788344",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10875,6 +14466,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Deichmann",
+        "brandWikidata": "Q664543",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10948,6 +14553,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Ecco",
+        "brandWikidata": "Q1280255",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/shoes",
+      "defaultCategoryPath": "shop/shoes",
+      "brand": "REM",
+      "brandKey": "rem",
+      "brandWikidata": "Q19582331",
+      "resolved": {
+        "brand": "REM",
+        "brandKey": "rem",
+        "brandWikidata": "Q19582331"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "REM",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "rem",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "shoes"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "REM",
+        "brandWikidata": "Q19582331",
+        "categoryPath": "unknown"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11021,6 +14727,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Rieker",
+        "brandWikidata": "Q2152193",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11094,6 +14814,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Salamander",
+        "brandWikidata": "Q878354",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11130,7 +14864,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 6,
+        "count": 7,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -11145,8 +14879,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q2945643",
-        "acceptedQidCount": 6,
-        "totalQidCount": 6,
+        "acceptedQidCount": 7,
+        "totalQidCount": 7,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -11167,6 +14901,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Skechers",
+        "brandWikidata": "Q2945643",
+        "categoryPath": "shop/shoes"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11240,6 +14988,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Adidas",
+        "brandWikidata": "Q3895",
+        "categoryPath": "shop/sports"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11313,6 +15075,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Decathlon",
+        "brandWikidata": "Q509349",
+        "categoryPath": "shop/sports"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11349,7 +15125,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 3,
+        "count": 4,
         "hasWebsite": false,
         "hasEmail": false,
         "hasPhone": false,
@@ -11360,12 +15136,12 @@
         "categoryTokens": [
           "sports"
         ],
-        "samplePointCount": 3
+        "samplePointCount": 4
       },
       "qidDiagnostics": {
         "acceptedQid": "Q7579661",
-        "acceptedQidCount": 3,
-        "totalQidCount": 3,
+        "acceptedQidCount": 4,
+        "totalQidCount": 4,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -11386,6 +15162,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Sports Direct",
+        "brandWikidata": "Q7579661",
+        "categoryPath": "shop/sports"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11437,8 +15227,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q12361460",
-        "acceptedQidCount": 152,
-        "totalQidCount": 152,
+        "acceptedQidCount": 151,
+        "totalQidCount": 151,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -11459,6 +15249,117 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Järva Tarbijate Ühistu",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Coop Eesti",
+        "brandWikidata": "Q12361460",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Elva Coop",
+      "brandKey": "elva_coop",
+      "brandWikidata": "Q12361460",
+      "resolved": {
+        "brand": "Elva Coop",
+        "brandKey": "elva_coop",
+        "brandWikidata": "Q12361460"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Elva Coop",
+        "nameWikidata": "",
+        "operator": "Coop Eesti",
+        "operatorWikidata": "",
+        "rawBrandKey": "elva_coop",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Coop Eesti",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Coop Eesti",
+        "brandWikidata": "Q12361460",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11495,7 +15396,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 29,
+        "count": 28,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -11532,6 +15433,190 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Järva-Jaani Konsum",
+      "brandKey": "jarva_jaani_konsum",
+      "brandWikidata": "Q12361460",
+      "resolved": {
+        "brand": "Järva-Jaani Konsum",
+        "brandKey": "jarva_jaani_konsum",
+        "brandWikidata": "Q12361460"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Järva-Jaani Konsum",
+        "nameWikidata": "",
+        "operator": "COOP",
+        "operatorWikidata": "",
+        "rawBrandKey": "jarva_jaani_konsum",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "COOP",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Coop Eesti",
+        "brandWikidata": "Q12361460",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Konsum",
+      "brandKey": "konsum",
+      "brandWikidata": "Q1618877",
+      "resolved": {
+        "brand": "Konsum",
+        "brandKey": "konsum",
+        "brandWikidata": "Q1618877"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Konsum",
+        "nameWikidata": "",
+        "operator": "Coop",
+        "operatorWikidata": "",
+        "rawBrandKey": "konsum",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Coop",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Konsum (Dresden)",
+        "brandWikidata": "Q1618877",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11605,6 +15690,107 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Lidl",
+        "brandWikidata": "Q151954",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Maxima",
+      "brandKey": "maxima",
+      "brandWikidata": "Q1881222",
+      "resolved": {
+        "brand": "Maxima",
+        "brandKey": "maxima",
+        "brandWikidata": "Q1881222"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Maxima",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "maxima",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "specific_name_with_business_evidence",
+        "status": "resolved"
+      },
+      "confidence": 45,
+      "evidenceSummary": {
+        "count": 6,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maxima X",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11697,8 +15883,114 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Maxima X",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "format_variant",
       "reviewReason": "qid_verified_format_variant"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Maxima XXX",
+      "brandKey": "maxima_xxx",
+      "brandWikidata": "Q1881222",
+      "resolved": {
+        "brand": "Maxima XXX",
+        "brandKey": "maxima_xxx",
+        "brandWikidata": "Q1881222"
+      },
+      "raw": {
+        "brand": "Maxima XXX",
+        "brandWikidata": "",
+        "name": "Maxima X",
+        "nameWikidata": "",
+        "operator": "Maxima Eesti OÜ",
+        "operatorWikidata": "",
+        "rawBrandKey": "maxima_xxx",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "specific_name_with_business_evidence",
+        "status": "resolved"
+      },
+      "confidence": 45,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Maxima Eesti OÜ",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maxima XXX",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/supermarket",
@@ -11770,6 +16062,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Prisma",
+        "brandWikidata": "Q12047031",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11854,6 +16160,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Rimi Hyper",
+        "brandWikidata": "Q3741108",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11927,6 +16247,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Selver AS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Selver",
+        "brandWikidata": "Q3771177",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12000,6 +16339,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Vianor",
+        "brandWikidata": "Q10714920",
+        "categoryPath": "shop/tyres"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12074,6 +16427,20 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Flying Tiger Copenhagen",
+        "brandWikidata": "Q2786319",
+        "categoryPath": "shop/variety_store"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12148,16 +16515,33 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Miniso",
+        "brandWikidata": "Q20732498",
+        "categoryPath": "shop/variety_store"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     }
   ],
+  "sources": {
+    "nsi": true
+  },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 165,
-    "candidateCount": 1620,
-    "rejectCount": 16,
-    "humanReviewCount": 3925,
+    "productionCount": 193,
+    "candidateCount": 839,
+    "rejectCount": 15,
+    "humanReviewCount": 4676,
     "aiReviewCount": 0
   }
 }
