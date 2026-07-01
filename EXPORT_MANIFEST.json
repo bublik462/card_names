@@ -1,95 +1,20 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-01T19:08:42Z",
+  "generatedAt": "2026-07-01T22:41:10Z",
   "files": [
     {
-      "path": "brands/BY/brands_BY.json",
-      "sha256": "6c59b4255cf1f63a1c6ae22f2ebd93e9e232425c8e6c0bacf8981b69efbbfcef",
-      "bytes": 983908,
-      "country": "BY",
-      "kind": "brands",
-      "items": 463
-    },
-    {
-      "path": "brands/BY/brand_glossary_BY.json",
-      "sha256": "a41b713741d6f15753dd44d4b77d9c4fb7eb78f6bf826be2f357b0846a972261",
-      "bytes": 301,
-      "country": "BY",
-      "kind": "glossary"
-    },
-    {
-      "path": "brands/EE/brands_EE.json",
-      "sha256": "8b26e246bc2004b46d84e2caa896bb39912a0d8ca5fbc67391492a2e2a4566ed",
-      "bytes": 444770,
-      "country": "EE",
-      "kind": "brands",
-      "items": 193
-    },
-    {
-      "path": "brands/EE/brand_glossary_EE.json",
-      "sha256": "48f3346fcabd0728504bc8a5c12cec6fd7c4b6821ca581849391a7e145ff4fa2",
-      "bytes": 28405,
-      "country": "EE",
-      "kind": "glossary"
-    },
-    {
-      "path": "brands/KOSOVO/brands_KOSOVO.json",
-      "sha256": "6902124f77395bc4c7c6d0d1376cc930836d3eb5f82ce110f186c53d0d25c792",
-      "bytes": 145539,
-      "country": "KOSOVO",
-      "kind": "brands",
-      "items": 73
-    },
-    {
-      "path": "brands/KOSOVO/brand_glossary_KOSOVO.json",
-      "sha256": "93f7394a8a33bb1fedd3502e0aa1cc8a92441be77b82985529f7eed222e99a13",
-      "bytes": 309,
-      "country": "KOSOVO",
-      "kind": "glossary"
-    },
-    {
-      "path": "brands/LT/brands_LT.json",
-      "sha256": "9fdf9ddd8b7a9b84c19b12dbca36562082e96e6a83322aa116e7b3e9b909cdd9",
-      "bytes": 348533,
-      "country": "LT",
-      "kind": "brands",
-      "items": 149
-    },
-    {
-      "path": "brands/LT/brand_glossary_LT.json",
-      "sha256": "84179d13d5fbc5c9cd1f514746cfd28a194cf0b072308725dd39862dc91e9ce4",
-      "bytes": 8234,
-      "country": "LT",
-      "kind": "glossary"
-    },
-    {
       "path": "brands/LV/brands_LV.json",
-      "sha256": "d58ce54ebd3b25d9644dd3ce79b5354ebf8b8dc17247124b3756eb4efbb527cd",
-      "bytes": 508129,
+      "sha256": "c98f2a6612e8474086fe4f24af9db7de76a0ecc50b399e61d8347530879da6fe",
+      "bytes": 573278,
       "country": "LV",
       "kind": "brands",
-      "items": 223
+      "items": 256
     },
     {
       "path": "brands/LV/brand_glossary_LV.json",
-      "sha256": "67b9756a32a4ea496aeb555321bf81447aa22aed99bc8690419af7c63dd87970",
-      "bytes": 67212,
+      "sha256": "4d9d998b63e282a3b16b2d3701c67b8a8a1231674ac903a4a5a1dc81855b4648",
+      "bytes": 67222,
       "country": "LV",
-      "kind": "glossary"
-    },
-    {
-      "path": "brands/US/brands_US.json",
-      "sha256": "3c33a1977b7313a47d123f58fbf6d0bd6bfd5da9ac8b0e6fc39eceff5d6be157",
-      "bytes": 625946,
-      "country": "US",
-      "kind": "brands",
-      "items": 308
-    },
-    {
-      "path": "brands/US/brand_glossary_US.json",
-      "sha256": "c20cb60927131470155a3ff51f03e9cc8917c6fba1f80678f4133cf979d1d332",
-      "bytes": 301,
-      "country": "US",
       "kind": "glossary"
     }
   ]

@@ -1,8 +1,81 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-07-02",
   "country": "LV",
   "items": [
+    {
+      "categoryPath": "amenity/bar",
+      "defaultCategoryPath": "amenity/bar",
+      "brand": "Klondaika",
+      "brandKey": "klondaika",
+      "brandWikidata": "Q125258854",
+      "resolved": {
+        "brand": "Klondaika",
+        "brandKey": "klondaika",
+        "brandWikidata": "Q125258854"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Klondaika",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "klondaika",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 8,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "bar"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q125258854",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
     {
       "categoryPath": "amenity/bar",
       "defaultCategoryPath": "amenity/bar",
@@ -87,6 +160,155 @@
       },
       "nsiStatus": "clean_qid_match",
       "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/bureau_de_change",
+      "defaultCategoryPath": "amenity/bureau_de_change",
+      "brand": "Tavex",
+      "brandKey": "tavex",
+      "brandWikidata": "Q104428285",
+      "resolved": {
+        "brand": "Tavex",
+        "brandKey": "tavex",
+        "brandWikidata": "Q104428285"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Tavex",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "tavex",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "bureau de change",
+          "bureau_de_change"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q104428285",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/cafe",
+      "defaultCategoryPath": "amenity/cafe",
+      "brand": "Caffeine",
+      "brandKey": "caffeine",
+      "brandWikidata": "Q68279529",
+      "resolved": {
+        "brand": "Caffeine",
+        "brandKey": "caffeine",
+        "brandWikidata": "Q68279529"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Caffeine",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "caffeine",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 32,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "cafe",
+          "coffee shop",
+          "coffee_shop"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q68279529",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -490,6 +712,80 @@
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "amenity/car_wash",
+      "defaultCategoryPath": "amenity/car_wash",
+      "brand": "LaserWash",
+      "brandKey": "laserwash",
+      "brandWikidata": "Q17124746",
+      "resolved": {
+        "brand": "LaserWash",
+        "brandKey": "laserwash",
+        "brandWikidata": "Q17124746"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "LaserWash",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "laserwash",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 6,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "car wash",
+          "car_wash"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q17124746",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/car_wash",
@@ -1226,6 +1522,82 @@
       "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "amenity/fast_food",
+      "defaultCategoryPath": "amenity/fast_food",
+      "brand": "Pakistānas kebabs",
+      "brandKey": "pakistanas_kebabs",
+      "brandWikidata": "Q66743714",
+      "resolved": {
+        "brand": "Pakistānas kebabs",
+        "brandKey": "pakistanas_kebabs",
+        "brandWikidata": "Q66743714"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Pakistānas kebabs",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "pakistanas_kebabs",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "burger",
+          "fast food",
+          "fast_food",
+          "kebab"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q66743714",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/fast_food",
@@ -2183,10 +2555,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 96,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -2262,10 +2634,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 96,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -3049,12 +3421,23 @@
       "qidDiagnostics": {
         "acceptedQid": "Q138819298",
         "acceptedQidCount": 18,
-        "totalQidCount": 18,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
+        "totalQidCount": 19,
+        "conflictCount": 1,
+        "acceptedQidRatio": 0.947,
+        "acceptedQidSource": "pbf_brand_wikidata_majority",
+        "acceptedQidReason": "brand_wikidata_majority",
+        "conflictingQids": [
+          {
+            "qid": "Q244457",
+            "count": 1,
+            "sources": [
+              {
+                "source": "brand:wikidata",
+                "count": 1
+              }
+            ]
+          }
+        ]
       },
       "loyalty": {
         "hasProgram": false,
@@ -3084,6 +3467,79 @@
       },
       "nsiStatus": "exact_name_no_qid",
       "enrichStatus": "nsi_matched_no_qid",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/restaurant",
+      "defaultCategoryPath": "amenity/restaurant",
+      "brand": "Daily",
+      "brandKey": "daily",
+      "brandWikidata": "Q131469976",
+      "resolved": {
+        "brand": "Daily",
+        "brandKey": "daily",
+        "brandWikidata": "Q131469976"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Daily",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "daily",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": false,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "restaurant"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q131469976",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3423,6 +3879,79 @@
     {
       "categoryPath": "shop/alcohol",
       "defaultCategoryPath": "shop/alcohol",
+      "brand": "Bauskas alus",
+      "brandKey": "bauskas_alus",
+      "brandWikidata": "Q4034923",
+      "resolved": {
+        "brand": "Bauskas alus",
+        "brandKey": "bauskas_alus",
+        "brandWikidata": "Q4034923"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Bauskas alus",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "bauskas_alus",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "alcohol"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q4034923",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/alcohol",
+      "defaultCategoryPath": "shop/alcohol",
       "brand": "Latvijas balzams",
       "brandKey": "latvijas_balzams",
       "brandWikidata": "Q3133469",
@@ -3492,6 +4021,79 @@
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "shop/alcohol",
+      "defaultCategoryPath": "shop/alcohol",
+      "brand": "SuperAlko",
+      "brandKey": "superalko",
+      "brandWikidata": "Q136824108",
+      "resolved": {
+        "brand": "SuperAlko",
+        "brandKey": "superalko",
+        "brandWikidata": "Q136824108"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "SuperAlko",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "superalko",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "alcohol"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q136824108",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/alcohol",
@@ -3567,6 +4169,7 @@
         "osm": true,
         "nsi": true
       },
+      "nsiStatus": "clean_qid_match",
       "nsi": {
         "matched": true,
         "matchType": "clean_qid_match",
@@ -3575,8 +4178,6 @@
         "brandWikidata": "Q50378897",
         "categoryPath": "shop/alcohol"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3667,6 +4268,152 @@
       "reviewReason": "manual_verified"
     },
     {
+      "categoryPath": "shop/bakery",
+      "defaultCategoryPath": "shop/bakery",
+      "brand": "Liepkalni",
+      "brandKey": "liepkalni",
+      "brandWikidata": "Q124850021",
+      "resolved": {
+        "brand": "Liepkalni",
+        "brandKey": "liepkalni",
+        "brandWikidata": "Q124850021"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Liepkalni",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "liepkalni",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "bakery"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q124850021",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/beauty",
+      "defaultCategoryPath": "shop/beauty",
+      "brand": "Blue Box",
+      "brandKey": "blue_box",
+      "brandWikidata": "Q130348486",
+      "resolved": {
+        "brand": "Blue Box",
+        "brandKey": "blue_box",
+        "brandWikidata": "Q130348486"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Blue Box",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "blue_box",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "beauty"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q130348486",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "shop/beauty",
       "defaultCategoryPath": "shop/beauty",
       "brand": "Breeze",
@@ -3694,10 +4441,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -3713,13 +4460,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q7054956",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -3747,14 +4494,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "BREEZE",
         "brandWikidata": "Q7054956",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -3846,6 +4593,152 @@
       "reviewReason": "qid_verified"
     },
     {
+      "categoryPath": "shop/books",
+      "defaultCategoryPath": "shop/books",
+      "brand": "Jānis Roze",
+      "brandKey": "janis_roze",
+      "brandWikidata": "Q126974460",
+      "resolved": {
+        "brand": "Jānis Roze",
+        "brandKey": "janis_roze",
+        "brandWikidata": "Q126974460"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Jānis Roze",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "janis_roze",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 32,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "books"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126974460",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/books",
+      "defaultCategoryPath": "shop/books",
+      "brand": "Zvaigzne ABC",
+      "brandKey": "zvaigzne_abc",
+      "brandWikidata": "Q20572952",
+      "resolved": {
+        "brand": "Zvaigzne ABC",
+        "brandKey": "zvaigzne_abc",
+        "brandWikidata": "Q20572952"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Zvaigzne ABC",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "zvaigzne_abc",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 9,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "books"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q20572952",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "shop/butcher",
       "defaultCategoryPath": "shop/butcher",
       "brand": "Forevers",
@@ -3932,6 +4825,79 @@
       "reviewReason": "manual_verified"
     },
     {
+      "categoryPath": "shop/butcher",
+      "defaultCategoryPath": "shop/butcher",
+      "brand": "Kurzemes gaļsaimnieks",
+      "brandKey": "kurzemes_galsaimnieks",
+      "brandWikidata": "Q124790312",
+      "resolved": {
+        "brand": "Kurzemes gaļsaimnieks",
+        "brandKey": "kurzemes_galsaimnieks",
+        "brandWikidata": "Q124790312"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Kurzemes gaļsaimnieks",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "kurzemes_galsaimnieks",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 30,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "butcher"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q124790312",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "shop/car",
       "defaultCategoryPath": "shop/car",
       "brand": "Aston Martin",
@@ -3959,10 +4925,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -3978,13 +4944,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q27074",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4007,14 +4973,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Aston Martin",
         "brandWikidata": "Q27074",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4399,10 +5365,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -4418,13 +5384,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q1117001",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4447,14 +5413,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "GWM",
         "brandWikidata": "Q1117001",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4665,10 +5631,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -4684,13 +5650,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q35886",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -4713,14 +5679,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Lamborghini",
         "brandWikidata": "Q35886",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -4999,10 +5965,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -5018,13 +5984,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q6742",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5047,14 +6013,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Peugeot",
         "brandWikidata": "Q6742",
         "categoryPath": "shop/car"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5351,10 +6317,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -5794,10 +6760,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -5814,13 +6780,13 @@
         "samplePointCount": 2
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q115922509",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5843,14 +6809,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Inter Cars",
         "brandWikidata": "Q115922509",
         "categoryPath": "shop/car_parts"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5882,10 +6848,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -5902,13 +6868,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q894368",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -5931,14 +6897,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Bosch Car Service",
         "brandWikidata": "Q894368",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -5970,10 +6936,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -5990,13 +6956,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q1035997",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -6019,14 +6985,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Carglass",
         "brandWikidata": "Q1035997",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6058,10 +7024,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -6078,13 +7044,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q3072965",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -6112,14 +7078,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "First Stop",
         "brandWikidata": "Q3072965",
         "categoryPath": "shop/car_repair"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -6518,6 +7484,79 @@
         "canonicalName": "4F",
         "brandWikidata": "Q16525801",
         "categoryPath": "shop/clothes"
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Apranga",
+      "brandKey": "apranga",
+      "brandWikidata": "Q126951663",
+      "resolved": {
+        "brand": "Apranga",
+        "brandKey": "apranga",
+        "brandWikidata": "Q126951663"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Apranga",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "apranga",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126951663",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -7466,6 +8505,79 @@
     {
       "categoryPath": "shop/clothes",
       "defaultCategoryPath": "shop/clothes",
+      "brand": "Gamma",
+      "brandKey": "gamma",
+      "brandWikidata": "Q2294120",
+      "resolved": {
+        "brand": "Gamma",
+        "brandKey": "gamma",
+        "brandWikidata": "Q2294120"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Gamma",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "gamma",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q2294120",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
       "brand": "Gerry Weber",
       "brandKey": "gerry_weber",
       "brandWikidata": "Q873447",
@@ -7751,10 +8863,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -7770,13 +8882,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q116974914",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -7799,14 +8911,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "HalfPrice",
         "brandWikidata": "Q116974914",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8097,10 +9209,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -8116,13 +9228,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q136158956",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -8145,14 +9257,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "iBlues",
         "brandWikidata": "Q136158956",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8270,10 +9382,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -8289,13 +9401,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q6077665",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -8318,14 +9430,87 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Jack & Jones",
         "brandWikidata": "Q6077665",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "K&G",
+      "brandKey": "k_g",
+      "brandWikidata": "Q3067782",
+      "resolved": {
+        "brand": "K&G",
+        "brandKey": "k_g",
+        "brandWikidata": "Q3067782"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "K&G",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "k_g",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q3067782",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -8589,6 +9774,79 @@
       "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Lindex",
+      "brandKey": "lindex",
+      "brandWikidata": "Q1786717",
+      "resolved": {
+        "brand": "Lindex",
+        "brandKey": "lindex",
+        "brandWikidata": "Q1786717"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Lindex",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "lindex",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 8,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q1786717",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/clothes",
@@ -9053,10 +10311,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -9072,13 +10330,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q1423792",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -9101,14 +10359,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "MARTA",
         "brandWikidata": "Q1423792",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9895,6 +11153,79 @@
     {
       "categoryPath": "shop/clothes",
       "defaultCategoryPath": "shop/clothes",
+      "brand": "Orange",
+      "brandKey": "orange",
+      "brandWikidata": "Q187796",
+      "resolved": {
+        "brand": "Orange",
+        "brandKey": "orange",
+        "brandWikidata": "Q187796"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Orange",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "orange",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q187796",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
       "brand": "Oysho",
       "brandKey": "oysho",
       "brandWikidata": "Q3327046",
@@ -10007,10 +11338,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -10026,13 +11357,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q28729986",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -10055,14 +11386,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Penti",
         "brandWikidata": "Q28729986",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -10873,10 +12204,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -10892,13 +12223,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q571206",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -10921,14 +12252,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Tom Tailor",
         "brandWikidata": "Q571206",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11220,10 +12551,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -11239,13 +12570,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q640418",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -11268,14 +12599,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Vero Moda",
         "brandWikidata": "Q640418",
         "categoryPath": "shop/clothes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11627,6 +12958,152 @@
       "reviewReason": "qid_verified"
     },
     {
+      "categoryPath": "shop/computer",
+      "defaultCategoryPath": "shop/computer",
+      "brand": "Baltic Data",
+      "brandKey": "baltic_data",
+      "brandWikidata": "Q126921335",
+      "resolved": {
+        "brand": "Baltic Data",
+        "brandKey": "baltic_data",
+        "brandWikidata": "Q126921335"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Baltic Data",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "baltic_data",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 9,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "computer"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126921335",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/confectionery",
+      "defaultCategoryPath": "shop/confectionery",
+      "brand": "Laima",
+      "brandKey": "laima",
+      "brandWikidata": "Q10966503",
+      "resolved": {
+        "brand": "Laima",
+        "brandKey": "laima",
+        "brandWikidata": "Q10966503"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Laima",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "laima",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 4,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "confectionery"
+        ],
+        "samplePointCount": 4
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q10966503",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "shop/convenience",
       "defaultCategoryPath": "shop/convenience",
       "brand": "Aibe",
@@ -11818,6 +13295,84 @@
     {
       "categoryPath": "shop/convenience",
       "defaultCategoryPath": "shop/convenience",
+      "brand": "Coop Eesti",
+      "brandKey": "coop_eesti",
+      "brandWikidata": "Q12361460",
+      "resolved": {
+        "brand": "Coop Eesti",
+        "brandKey": "coop_eesti",
+        "brandWikidata": "Q12361460"
+      },
+      "raw": {
+        "brand": "Coop Eesti",
+        "brandWikidata": "",
+        "name": "Coop Selvehall kauplus",
+        "nameWikidata": "",
+        "operator": "Tõrva Tarbijate Ühistu",
+        "operatorWikidata": "",
+        "rawBrandKey": "coop_eesti",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q12361460",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Tõrva Tarbijate Ühistu",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
       "brand": "LaTS",
       "brandKey": "lats",
       "brandWikidata": "Q126453824",
@@ -11897,6 +13452,79 @@
         "canonicalName": "LaTS",
         "brandWikidata": "Q126453824",
         "categoryPath": "shop/convenience"
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
+      "brand": "Mere",
+      "brandKey": "mere",
+      "brandWikidata": "Q759590",
+      "resolved": {
+        "brand": "Mere",
+        "brandKey": "mere",
+        "brandWikidata": "Q759590"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Mere",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "mere",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q759590",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -12107,10 +13735,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -12126,13 +13754,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q89560313",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12155,14 +13783,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Fluo Grand Est",
         "brandWikidata": "Q89560313",
         "categoryPath": "unknown"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12373,10 +14001,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -12392,13 +14020,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q9257470",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12421,14 +14049,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Faberlic",
         "brandWikidata": "Q9257470",
         "categoryPath": "shop/cosmetics"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12460,10 +14088,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -12479,13 +14107,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q3196447",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12508,14 +14136,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Kiehl's",
         "brandWikidata": "Q3196447",
         "categoryPath": "shop/cosmetics"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12696,6 +14324,79 @@
     {
       "categoryPath": "shop/cosmetics",
       "defaultCategoryPath": "shop/cosmetics",
+      "brand": "Stenders",
+      "brandKey": "stenders",
+      "brandWikidata": "Q126180262",
+      "resolved": {
+        "brand": "Stenders",
+        "brandKey": "stenders",
+        "brandWikidata": "Q126180262"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Stenders",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "stenders",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "cosmetics"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126180262",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/cosmetics",
+      "defaultCategoryPath": "shop/cosmetics",
       "brand": "The Body Shop",
       "brandKey": "the_body_shop",
       "brandWikidata": "Q837851",
@@ -12779,6 +14480,79 @@
       "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "shop/dairy",
+      "defaultCategoryPath": "shop/dairy",
+      "brand": "Latgales piens",
+      "brandKey": "latgales_piens",
+      "brandWikidata": "Q126679465",
+      "resolved": {
+        "brand": "Latgales piens",
+        "brandKey": "latgales_piens",
+        "brandWikidata": "Q126679465"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "LATGALES PIENS",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "latgales_piens",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "dairy"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126679465",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/doityourself",
@@ -12998,6 +14772,153 @@
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "shop/doityourself",
+      "defaultCategoryPath": "shop/doityourself",
+      "brand": "Stokker",
+      "brandKey": "stokker",
+      "brandWikidata": "Q12375369",
+      "resolved": {
+        "brand": "Stokker",
+        "brandKey": "stokker",
+        "brandWikidata": "Q12375369"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Stokker",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "stokker",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "doityourself"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q12375369",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/dry_cleaning",
+      "defaultCategoryPath": "shop/dry_cleaning",
+      "brand": "Kims",
+      "brandKey": "kims",
+      "brandWikidata": "Q1771992",
+      "resolved": {
+        "brand": "Kims",
+        "brandKey": "kims",
+        "brandWikidata": "Q1771992"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Kims",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "kims",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "dry cleaning",
+          "dry_cleaning"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q1771992",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/electronics",
@@ -14049,6 +15970,79 @@
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "shop/hardware",
+      "defaultCategoryPath": "shop/hardware",
+      "brand": "Sanistal",
+      "brandKey": "sanistal",
+      "brandWikidata": "Q125968279",
+      "resolved": {
+        "brand": "Sanistal",
+        "brandKey": "sanistal",
+        "brandWikidata": "Q125968279"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Sanistal",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "sanistal",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 7,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "hardware"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q125968279",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "shop/hardware",
@@ -15218,7 +17212,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 2,
+        "count": 1,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -15229,12 +17223,85 @@
         "categoryTokens": [
           "mall"
         ],
-        "samplePointCount": 2
+        "samplePointCount": 1
       },
       "qidDiagnostics": {
         "acceptedQid": "Q61121404",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_wikidata",
+        "acceptedQidReason": "wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/mall",
+      "defaultCategoryPath": "shop/mall",
+      "brand": "Spice Life",
+      "brandKey": "spice_life",
+      "brandWikidata": "Q61121404",
+      "resolved": {
+        "brand": "Spice Life",
+        "brandKey": "spice_life",
+        "brandWikidata": "Q61121404"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Spice Life",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "spice_life",
+        "wikidata": "Q61121404"
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "mall"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q61121404",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_wikidata",
@@ -15313,6 +17380,80 @@
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
         "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/mobile_phone",
+      "defaultCategoryPath": "shop/mobile_phone",
+      "brand": "Evelatus",
+      "brandKey": "evelatus",
+      "brandWikidata": "Q126945980",
+      "resolved": {
+        "brand": "Evelatus",
+        "brandKey": "evelatus",
+        "brandWikidata": "Q126945980"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Evelatus",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "evelatus",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 12,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "mobile phone",
+          "mobile_phone"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q126945980",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -15521,10 +17662,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": false,
@@ -15540,13 +17681,13 @@
         "samplePointCount": 1
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q271812",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -15569,14 +17710,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Ducati",
         "brandWikidata": "Q271812",
         "categoryPath": "shop/motorcycle"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -16165,6 +18306,79 @@
       "reviewReason": "qid_verified"
     },
     {
+      "categoryPath": "shop/rental",
+      "defaultCategoryPath": "shop/rental",
+      "brand": "Cramo",
+      "brandKey": "cramo",
+      "brandWikidata": "Q10460958",
+      "resolved": {
+        "brand": "Cramo",
+        "brandKey": "cramo",
+        "brandWikidata": "Q10460958"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Cramo",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "cramo",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "rental"
+        ],
+        "samplePointCount": 2
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q10460958",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
       "categoryPath": "shop/shoes",
       "defaultCategoryPath": "shop/shoes",
       "brand": "Aldo",
@@ -16685,6 +18899,79 @@
     {
       "categoryPath": "shop/shoes",
       "defaultCategoryPath": "shop/shoes",
+      "brand": "NS King",
+      "brandKey": "ns_king",
+      "brandWikidata": "Q125857235",
+      "resolved": {
+        "brand": "NS King",
+        "brandKey": "ns_king",
+        "brandWikidata": "Q125857235"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "NS King",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "ns_king",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 8,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "shoes"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q125857235",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/shoes",
+      "defaultCategoryPath": "shop/shoes",
       "brand": "Rieker",
       "brandKey": "rieker",
       "brandWikidata": "Q2152193",
@@ -17055,10 +19342,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": false,
@@ -17074,13 +19361,13 @@
         "samplePointCount": 2
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q61994827",
+        "acceptedQid": "",
         "acceptedQidCount": 0,
         "totalQidCount": 0,
         "conflictCount": 0,
         "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
         "conflictingQids": []
       },
       "loyalty": {
@@ -17103,14 +19390,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Tamaris",
         "brandWikidata": "Q61994827",
         "categoryPath": "shop/shoes"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -18329,14 +20616,14 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 96,
+      "confidence": 64,
       "evidenceSummary": {
-        "count": 3,
+        "count": 1,
         "hasWebsite": true,
-        "hasEmail": true,
+        "hasEmail": false,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
@@ -18345,7 +20632,94 @@
         "categoryTokens": [
           "tattoo"
         ],
-        "samplePointCount": 3
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "VeAn Tattoo",
+        "brandWikidata": "Q116871240",
+        "categoryPath": "shop/tattoo"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/tattoo",
+      "defaultCategoryPath": "shop/tattoo",
+      "brand": "VeAn Tattoo",
+      "brandKey": "vean_tattoo",
+      "brandWikidata": "Q116871240",
+      "resolved": {
+        "brand": "VeAn Tattoo",
+        "brandKey": "vean_tattoo",
+        "brandWikidata": "Q116871240"
+      },
+      "raw": {
+        "brand": "VeAn Tattoo",
+        "brandWikidata": "Q116871240",
+        "name": "VeAn Tattoo",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "vean_tattoo",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 2,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "tattoo"
+        ],
+        "samplePointCount": 2
       },
       "qidDiagnostics": {
         "acceptedQid": "Q116871240",
@@ -18385,6 +20759,79 @@
       },
       "nsiStatus": "clean_qid_match",
       "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/toys",
+      "defaultCategoryPath": "shop/toys",
+      "brand": "XS Rotaļlietas",
+      "brandKey": "xs_rotallietas",
+      "brandWikidata": "Q125824061",
+      "resolved": {
+        "brand": "XS Rotaļlietas",
+        "brandKey": "xs_rotallietas",
+        "brandWikidata": "Q125824061"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "XS Rotaļlietas",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "xs_rotallietas",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "brand_key",
+        "status": "resolved"
+      },
+      "confidence": 88,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "toys"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q125824061",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "base_repo",
+        "acceptedQidReason": "base_repo_match",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -18898,10 +21345,10 @@
   },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 223,
-    "candidateCount": 137,
-    "rejectCount": 25,
-    "humanReviewCount": 5616,
+    "productionCount": 256,
+    "candidateCount": 143,
+    "rejectCount": 28,
+    "humanReviewCount": 5576,
     "aiReviewCount": 0
   }
 }
