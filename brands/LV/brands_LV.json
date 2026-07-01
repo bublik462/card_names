@@ -450,7 +450,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 26,
+        "count": 24,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -1600,7 +1600,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 19,
+        "count": 18,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -1654,6 +1654,98 @@
       "enrichStatus": "nsi_confirmed",
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
+    },
+    {
+      "categoryPath": "amenity/fuel",
+      "defaultCategoryPath": "amenity/fuel",
+      "brand": "Latvijas Nafta 63. Degvielas Uzpildes Stacija",
+      "brandKey": "latvijas_nafta_63_degvielas_uzpildes_stacija",
+      "brandWikidata": "Q104429461",
+      "resolved": {
+        "brand": "Latvijas Nafta 63. Degvielas Uzpildes Stacija",
+        "brandKey": "latvijas_nafta_63_degvielas_uzpildes_stacija",
+        "brandWikidata": "Q104429461"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Latvijas Nafta 63. Degvielas Uzpildes Stacija",
+        "nameWikidata": "",
+        "operator": "Latvijas nafta",
+        "operatorWikidata": "",
+        "rawBrandKey": "latvijas_nafta_63_degvielas_uzpildes_stacija",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "fuel"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Latvijas nafta",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Latvijas Nafta",
+        "brandWikidata": "Q104429461",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
     },
     {
       "categoryPath": "amenity/fuel",
@@ -1883,8 +1975,8 @@
         "totalQidCount": 67,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
+        "acceptedQidSource": "glossary_qid_lock",
+        "acceptedQidReason": "qid_lock",
         "conflictingQids": []
       },
       "loyalty": {
@@ -1914,8 +2006,8 @@
         "brandWikidata": "Q616376",
         "categoryPath": "amenity/fuel"
       },
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
+      "brandStatus": "manual_verified",
+      "reviewReason": "manual_verified"
     },
     {
       "categoryPath": "amenity/fuel",
@@ -2134,6 +2226,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "АО \"РН-Тверь\"",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -2206,6 +2303,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "ПТК",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -2631,6 +2733,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "BENU Aptieka SIA",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "sources": {
         "osm": true,
         "nsi": true
@@ -2768,8 +2875,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q124713990",
-        "acceptedQidCount": 15,
-        "totalQidCount": 15,
+        "acceptedQidCount": 16,
+        "totalQidCount": 16,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -3013,7 +3120,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 11,
+        "count": 9,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -3127,6 +3234,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Lauras Gailītes IK",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -3341,7 +3453,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 37,
+        "count": 35,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -3594,7 +3706,7 @@
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "operator_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "beauty"
         ],
@@ -3623,6 +3735,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "SIA \"Vitafit\"",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -3768,7 +3885,7 @@
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "brand_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "butcher"
         ],
@@ -4057,6 +4174,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Chevrolet",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -4405,6 +4527,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Hyundai",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -5046,10 +5173,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "alias",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 84,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -5087,6 +5214,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Renault",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -5348,6 +5480,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Favorits",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "sources": {
         "osm": true,
         "nsi": true
@@ -5434,6 +5571,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Autofavorīts",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -5928,7 +6070,7 @@
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "operator_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "car repair",
           "car_repair"
@@ -5958,6 +6100,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "SIA \"RVT\"",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -6194,6 +6341,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Domenikss",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
@@ -11507,10 +11659,10 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 93,
+        "count": 90,
         "hasWebsite": true,
         "hasEmail": false,
-        "hasPhone": true,
+        "hasPhone": false,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
@@ -11574,6 +11726,98 @@
     {
       "categoryPath": "shop/convenience",
       "defaultCategoryPath": "shop/convenience",
+      "brand": "Aizsili",
+      "brandKey": "aizsili",
+      "brandWikidata": "Q126120243",
+      "resolved": {
+        "brand": "Aizsili",
+        "brandKey": "aizsili",
+        "brandWikidata": "Q126120243"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Aizsili",
+        "nameWikidata": "",
+        "operator": "Aibe",
+        "operatorWikidata": "",
+        "rawBrandKey": "aizsili",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": false,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Aibe",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Aibe",
+        "brandWikidata": "Q126120243",
+        "categoryPath": "shop/convenience"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
       "brand": "LaTS",
       "brandKey": "lats",
       "brandWikidata": "Q126453824",
@@ -11604,7 +11848,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 167,
+        "count": 164,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -11654,6 +11898,98 @@
         "brandWikidata": "Q126453824",
         "categoryPath": "shop/convenience"
       },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
+      "brand": "Saime",
+      "brandKey": "saime",
+      "brandWikidata": "Q126453824",
+      "resolved": {
+        "brand": "Saime",
+        "brandKey": "saime",
+        "brandWikidata": "Q126453824"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Saime",
+        "nameWikidata": "",
+        "operator": "LaTS",
+        "operatorWikidata": "",
+        "rawBrandKey": "saime",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "LaTS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "LaTS",
+        "brandWikidata": "Q126453824",
+        "categoryPath": "shop/convenience"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -11879,8 +12215,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q20803907",
-        "acceptedQidCount": 100,
-        "totalQidCount": 100,
+        "acceptedQidCount": 99,
+        "totalQidCount": 99,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -11914,6 +12250,98 @@
         "brandWikidata": "Q20803907",
         "categoryPath": "shop/convenience"
       },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/convenience",
+      "defaultCategoryPath": "shop/convenience",
+      "brand": "Veikals Dagi",
+      "brandKey": "veikals_dagi",
+      "brandWikidata": "Q126120243",
+      "resolved": {
+        "brand": "Veikals Dagi",
+        "brandKey": "veikals_dagi",
+        "brandWikidata": "Q126120243"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Veikals \"Dagi\"",
+        "nameWikidata": "",
+        "operator": "Aibe",
+        "operatorWikidata": "",
+        "rawBrandKey": "veikals_dagi",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Aibe",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Aibe",
+        "brandWikidata": "Q126120243",
+        "categoryPath": "shop/convenience"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12458,7 +12886,7 @@
       },
       "confidence": 88,
       "evidenceSummary": {
-        "count": 11,
+        "count": 10,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -13467,6 +13895,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "SIA Krikers",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "manual_verified",
       "reviewReason": "manual_verified"
@@ -14495,7 +14928,7 @@
         "hasAddress": false,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "operator_tag",
+        "brandSource": "name_only",
         "categoryTokens": [
           "mall"
         ],
@@ -14524,6 +14957,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Galerija Centrs",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -15211,6 +15649,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "SIA Motocom",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -17412,6 +17855,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Maxima Latvija",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "sources": {
         "osm": true,
         "nsi": true
@@ -17754,6 +18202,11 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Selver AS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -17826,6 +18279,11 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "SIA \"RX tirdzniecība\"",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -18053,8 +18511,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q833903",
-        "acceptedQidCount": 2,
-        "totalQidCount": 2,
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -18074,6 +18532,12 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Stena Line",
+        "operatorWikidata": "Q833903",
+        "source": "operator",
+        "relationType": "brand_operator_relation"
       },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
@@ -18434,10 +18898,10 @@
   },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 219,
-    "candidateCount": 433,
-    "rejectCount": 27,
-    "humanReviewCount": 5298,
+    "productionCount": 223,
+    "candidateCount": 137,
+    "rejectCount": 25,
+    "humanReviewCount": 5616,
     "aiReviewCount": 0
   }
 }

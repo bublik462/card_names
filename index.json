@@ -47,10 +47,10 @@
       "file": "brands/LV/brands_LV.json",
       "schema": 2,
       "updatedAt": "2026-07-01",
-      "sha256": "5247df642b2c1aaf7585f5b7332f84ccc4da025c574533a213894e8b269673b0",
-      "items": 219,
+      "sha256": "d58ce54ebd3b25d9644dd3ce79b5354ebf8b8dc17247124b3756eb4efbb527cd",
+      "items": 223,
       "glossaryFile": "brands/LV/brand_glossary_LV.json",
-      "glossarySha256": "a5c662037470f646efa53feddf2fc8bd8b584ab2502743f5b0cde7065ab2df08"
+      "glossarySha256": "67b9756a32a4ea496aeb555321bf81447aa22aed99bc8690419af7c63dd87970"
     },
     {
       "code": "US",
