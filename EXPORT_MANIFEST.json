@@ -1,7 +1,22 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-01T22:41:10Z",
+  "generatedAt": "2026-07-02T16:40:35Z",
   "files": [
+    {
+      "path": "brands/LT/brands_LT.json",
+      "sha256": "594804434114bc5db93515d0e4ba4d53edbcfcc403ad58418862ba34109e4952",
+      "bytes": 361666,
+      "country": "LT",
+      "kind": "brands",
+      "items": 154
+    },
+    {
+      "path": "brands/LT/brand_glossary_LT.json",
+      "sha256": "72a1e19acae2c12d2603f7e49600c4ddb4333506e3d77304945898a0f49fc768",
+      "bytes": 8924,
+      "country": "LT",
+      "kind": "glossary"
+    },
     {
       "path": "brands/LV/brands_LV.json",
       "sha256": "c98f2a6612e8474086fe4f24af9db7de76a0ecc50b399e61d8347530879da6fe",

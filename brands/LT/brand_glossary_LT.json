@@ -5,19 +5,63 @@
   "revision": "lt-20260624-01",
   "notes": "auto-updated from review_pack_LT (2026-01-31): mergeBrandKeys=213 (variant_candidate), map=14 (alias_rejected core chains), qidLocks=1; remaining suspects kept for manual review",
   "map": {
-    "Maxima XX": "maxima_x",
-    "Maxima": "maxima_x",
-    "Maxima XXX": "maxima_x",
-    "Maxima XXXX": "maxima_x",
-    "Maxima bazė": "maxima_x",
-    "Norfa": "norfa_xl",
-    "Norfa XXL": "norfa_xl",
-    "Norfa L": "norfa_xl",
-    "Narvesen": "lietuvos_spauda",
-    "Moller Auto": "volkswagen",
+    "Maxima XX": {
+      "brand": "maxima_x",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222"
+    },
+    "Maxima": {
+      "brand": "maxima_x",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222"
+    },
+    "Maxima XXX": {
+      "brand": "maxima_x",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222"
+    },
+    "Maxima XXXX": {
+      "brand": "maxima_x",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222"
+    },
+    "Maxima bazė": {
+      "brand": "maxima_x",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222"
+    },
+    "Norfa": {
+      "brand": "norfa_xl",
+      "brandKey": "norfa_xl",
+      "brandWikidata": "Q1998983"
+    },
+    "Norfa XXL": {
+      "brand": "norfa_xl",
+      "brandKey": "norfa_xl",
+      "brandWikidata": "Q1998983"
+    },
+    "Norfa L": {
+      "brand": "norfa_xl",
+      "brandKey": "norfa_xl",
+      "brandWikidata": "Q1998983"
+    },
+    "Narvesen": {
+      "brand": "lietuvos_spauda",
+      "brandKey": "lietuvos_spauda",
+      "brandWikidata": "Q115548638"
+    },
+    "Moller Auto": {
+      "brand": "volkswagen",
+      "brandKey": "volkswagen",
+      "brandWikidata": "Q246"
+    },
     "PLC Akropolis": "plc_akropolis",
     "Sostena": "dacia_renault_volvo",
-    "Viada": "lukoil",
+    "Viada": {
+      "brand": "lukoil",
+      "brandKey": "lukoil",
+      "brandWikidata": "Q329347"
+    },
     "PC Banginis": "pc_banginis"
   },
   "mergeBrandKeys": {

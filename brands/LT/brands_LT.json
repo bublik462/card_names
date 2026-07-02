@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-07-02",
   "country": "LT",
   "items": [
     {
@@ -390,10 +390,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 29,
         "hasWebsite": true,
@@ -2077,12 +2077,12 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
-        "count": 80,
+        "count": 79,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -2334,6 +2334,100 @@
     {
       "categoryPath": "amenity/fuel",
       "defaultCategoryPath": "amenity/fuel",
+      "brand": "lukoil",
+      "brandKey": "lukoil",
+      "brandWikidata": "Q329347",
+      "resolved": {
+        "brand": "lukoil",
+        "brandKey": "lukoil",
+        "brandWikidata": "Q329347"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Viada",
+        "nameWikidata": "",
+        "operator": "Viada",
+        "operatorWikidata": "",
+        "rawBrandKey": "viada",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "alias",
+        "status": "resolved"
+      },
+      "confidence": 84,
+      "evidenceSummary": {
+        "count": 85,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "convenience",
+          "fuel",
+          "yes"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Viada",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Lukoil",
+        "brandWikidata": "Q329347",
+        "categoryPath": "amenity/fuel"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "amenity/fuel",
+      "defaultCategoryPath": "amenity/fuel",
       "brand": "Neste",
       "brandKey": "neste",
       "brandWikidata": "Q616376",
@@ -2453,10 +2547,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 5,
         "hasWebsite": false,
@@ -2527,10 +2621,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 30,
         "hasWebsite": true,
@@ -2621,12 +2715,12 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "wikidata_qid",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 96,
       "evidenceSummary": {
-        "count": 131,
+        "count": 50,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -2993,10 +3087,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 168,
         "hasWebsite": true,
@@ -3325,10 +3419,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 44,
         "hasWebsite": true,
@@ -3412,10 +3506,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 17,
         "hasWebsite": true,
@@ -3766,10 +3860,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -4390,10 +4484,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 4,
         "hasWebsite": true,
@@ -4753,10 +4847,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 5,
         "hasWebsite": true,
@@ -5019,10 +5113,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "alias",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 84,
       "evidenceSummary": {
         "count": 9,
         "hasWebsite": true,
@@ -5179,10 +5273,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 6,
         "hasWebsite": true,
@@ -5445,10 +5539,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 8,
         "hasWebsite": true,
@@ -5619,10 +5713,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -6762,10 +6856,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 28,
         "hasWebsite": true,
@@ -7719,10 +7813,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 8,
         "hasWebsite": true,
@@ -7980,10 +8074,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -8507,7 +8601,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 357,
+        "count": 358,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
@@ -8522,8 +8616,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1022952",
-        "acceptedQidCount": 334,
-        "totalQidCount": 334,
+        "acceptedQidCount": 335,
+        "totalQidCount": 335,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -8850,10 +8944,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 7,
         "hasWebsite": true,
@@ -9083,10 +9177,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 9,
         "hasWebsite": true,
@@ -9156,10 +9250,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 6,
         "hasWebsite": false,
@@ -9316,10 +9410,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 5,
         "hasWebsite": true,
@@ -9539,11 +9633,11 @@
     {
       "categoryPath": "shop/kiosk",
       "defaultCategoryPath": "shop/kiosk",
-      "brand": "lietuvos_spauda",
+      "brand": "Lietuvos spauda",
       "brandKey": "lietuvos_spauda",
       "brandWikidata": "Q115548638",
       "resolved": {
-        "brand": "lietuvos_spauda",
+        "brand": "Lietuvos spauda",
         "brandKey": "lietuvos_spauda",
         "brandWikidata": "Q115548638"
       },
@@ -9564,10 +9658,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "wikidata_qid",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 96,
       "evidenceSummary": {
         "count": 35,
         "hasWebsite": true,
@@ -9583,14 +9677,35 @@
         "samplePointCount": 5
       },
       "qidDiagnostics": {
-        "acceptedQid": "Q115548638",
-        "acceptedQidCount": 16,
-        "totalQidCount": 16,
-        "conflictCount": 0,
-        "acceptedQidRatio": 1.0,
-        "acceptedQidSource": "pbf_brand_wikidata",
-        "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 22,
+        "conflictCount": 22,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "brand_wikidata_conflict",
+        "conflictingQids": [
+          {
+            "qid": "Q115548638",
+            "count": 16,
+            "sources": [
+              {
+                "source": "brand:wikidata",
+                "count": 16
+              }
+            ]
+          },
+          {
+            "qid": "Q6514414",
+            "count": 6,
+            "sources": [
+              {
+                "source": "brand:wikidata",
+                "count": 6
+              }
+            ]
+          }
+        ]
       },
       "loyalty": {
         "hasProgram": false,
@@ -9609,8 +9724,7 @@
       "operatorEvidence": {
         "operator": "Reitan Convenience Lithuania",
         "operatorWikidata": "Q13504978",
-        "source": "operator",
-        "status": "operatorQidDifferentFromBrandQid"
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -9618,14 +9732,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
+        "matchType": "exact_name",
+        "confidence": 0.95,
         "canonicalName": "Lietuvos spauda",
         "brandWikidata": "Q115548638",
         "categoryPath": "shop/kiosk"
       },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -9750,10 +9864,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -10275,10 +10389,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 51,
         "hasWebsite": true,
@@ -10544,10 +10658,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": false,
@@ -11405,10 +11519,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -12000,12 +12114,12 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
-        "count": 210,
+        "count": 209,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -12020,8 +12134,100 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1653981",
-        "acceptedQidCount": 80,
-        "totalQidCount": 80,
+        "acceptedQidCount": 79,
+        "totalQidCount": 79,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Palink",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "IKI",
+        "brandWikidata": "Q1653981",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Iki Kaišiadorys",
+      "brandKey": "iki_kaisiadorys",
+      "brandWikidata": "Q1653981",
+      "resolved": {
+        "brand": "Iki Kaišiadorys",
+        "brandKey": "iki_kaisiadorys",
+        "brandWikidata": "Q1653981"
+      },
+      "raw": {
+        "brand": "Iki Kaišiadorys",
+        "brandWikidata": "Q1653981",
+        "name": "IKI",
+        "nameWikidata": "",
+        "operator": "Palink",
+        "operatorWikidata": "",
+        "rawBrandKey": "iki_kaisiadorys",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q1653981",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -12163,8 +12369,8 @@
         "brandWikidata": "Q1881222"
       },
       "raw": {
-        "brand": "",
-        "brandWikidata": "",
+        "brand": "Maxima X",
+        "brandWikidata": "Q1881222",
         "name": "Maxima X",
         "nameWikidata": "",
         "operator": "",
@@ -12182,19 +12388,19 @@
           "format": "X",
           "label": "X",
           "sizeLevel": 1,
-          "count": 132
+          "count": 76
         },
         {
           "format": "XX",
           "label": "XX",
           "sizeLevel": 2,
-          "count": 65
+          "count": 41
         },
         {
           "format": "XXX",
           "label": "XXX",
           "sizeLevel": 3,
-          "count": 16
+          "count": 11
         }
       ],
       "decision": {
@@ -12203,9 +12409,9 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 229,
+        "count": 129,
         "hasWebsite": true,
-        "hasEmail": true,
+        "hasEmail": false,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
@@ -12260,6 +12466,267 @@
     {
       "categoryPath": "shop/supermarket",
       "defaultCategoryPath": "shop/supermarket",
+      "brand": "Maxima X",
+      "brandKey": "maxima_x",
+      "brandWikidata": "Q1881222",
+      "resolved": {
+        "brand": "Maxima X",
+        "brandKey": "maxima_x",
+        "brandWikidata": "Q1881222"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Maxima X",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "maxima_x",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "specific_name_with_business_evidence",
+        "status": "resolved"
+      },
+      "confidence": 45,
+      "evidenceSummary": {
+        "count": 73,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maxima X",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Maxima XX",
+      "brandKey": "maxima_xx",
+      "brandWikidata": "Q1881222",
+      "resolved": {
+        "brand": "Maxima XX",
+        "brandKey": "maxima_xx",
+        "brandWikidata": "Q1881222"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Maxima XX",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "maxima_xx",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "specific_name_with_business_evidence",
+        "status": "resolved"
+      },
+      "confidence": 45,
+      "evidenceSummary": {
+        "count": 24,
+        "hasWebsite": true,
+        "hasEmail": true,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maxima XX",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
+      "brand": "Maxima XXX",
+      "brandKey": "maxima_xxx",
+      "brandWikidata": "Q1881222",
+      "resolved": {
+        "brand": "Maxima XXX",
+        "brandKey": "maxima_xxx",
+        "brandWikidata": "Q1881222"
+      },
+      "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Maxima XXX",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "maxima_xxx",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "specific_name_with_business_evidence",
+        "status": "resolved"
+      },
+      "confidence": 45,
+      "evidenceSummary": {
+        "count": 5,
+        "hasWebsite": false,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "supermarket"
+        ],
+        "samplePointCount": 5
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "",
+        "acceptedQidCount": 0,
+        "totalQidCount": 0,
+        "conflictCount": 0,
+        "acceptedQidRatio": 0.0,
+        "acceptedQidSource": "unresolved",
+        "acceptedQidReason": "no_local_qid",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "exact_name",
+        "confidence": 0.95,
+        "canonicalName": "Maxima XXX",
+        "brandWikidata": "Q1881222",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "filled_missing_qid",
+      "enrichStatus": "nsi_prefilled",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/supermarket",
+      "defaultCategoryPath": "shop/supermarket",
       "brand": "Norfa",
       "brandKey": "norfa",
       "brandWikidata": "Q1998983",
@@ -12269,13 +12736,13 @@
         "brandWikidata": "Q1998983"
       },
       "raw": {
-        "brand": "Norfa XL",
+        "brand": "Norfa",
         "brandWikidata": "Q1998983",
         "name": "Norfa XL",
         "nameWikidata": "",
         "operator": "",
         "operatorWikidata": "",
-        "rawBrandKey": "norfa_xl",
+        "rawBrandKey": "norfa",
         "wikidata": ""
       },
       "storeFormat": {
@@ -12290,10 +12757,10 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 72,
+        "count": 2,
         "hasWebsite": true,
-        "hasEmail": true,
-        "hasPhone": true,
+        "hasEmail": false,
+        "hasPhone": false,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
@@ -12301,12 +12768,12 @@
         "categoryTokens": [
           "supermarket"
         ],
-        "samplePointCount": 5
+        "samplePointCount": 2
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1998983",
-        "acceptedQidCount": 45,
-        "totalQidCount": 45,
+        "acceptedQidCount": 2,
+        "totalQidCount": 2,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -12356,11 +12823,11 @@
         "brandWikidata": "Q1998983"
       },
       "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Norfa L",
+        "brand": "Norfa L",
+        "brandWikidata": "Q1998983",
+        "name": "Norfa XL",
         "nameWikidata": "",
-        "operator": "",
+        "operator": "Norfa",
         "operatorWikidata": "",
         "rawBrandKey": "norfa_l",
         "wikidata": ""
@@ -12372,32 +12839,32 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "wikidata_qid",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 96,
       "evidenceSummary": {
-        "count": 8,
-        "hasWebsite": true,
+        "count": 1,
+        "hasWebsite": false,
         "hasEmail": false,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "name_only",
+        "brandSource": "brand_tag",
         "categoryTokens": [
           "supermarket"
         ],
-        "samplePointCount": 5
+        "samplePointCount": 1
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1998983",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12414,6 +12881,25 @@
         "registrationUrl": "",
         "notes": ""
       },
+      "operatorEvidence": {
+        "operator": "Norfa",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Norfa XL",
+        "brandWikidata": "Q1998983",
+        "categoryPath": "shop/supermarket"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12429,8 +12915,8 @@
         "brandWikidata": "Q1998983"
       },
       "raw": {
-        "brand": "",
-        "brandWikidata": "",
+        "brand": "Norfa XL",
+        "brandWikidata": "Q1998983",
         "name": "Norfa XL",
         "nameWikidata": "",
         "operator": "",
@@ -12445,14 +12931,14 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "alias",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 84,
       "evidenceSummary": {
-        "count": 46,
+        "count": 141,
         "hasWebsite": true,
-        "hasEmail": false,
+        "hasEmail": true,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
@@ -12464,13 +12950,13 @@
         "samplePointCount": 5
       },
       "qidDiagnostics": {
-        "acceptedQid": "",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
+        "acceptedQid": "Q1998983",
+        "acceptedQidCount": 41,
+        "totalQidCount": 41,
         "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "unresolved",
-        "acceptedQidReason": "no_local_qid",
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12493,14 +12979,14 @@
       },
       "nsi": {
         "matched": true,
-        "matchType": "exact_name",
-        "confidence": 0.95,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
         "canonicalName": "Norfa XL",
         "brandWikidata": "Q1998983",
         "categoryPath": "shop/supermarket"
       },
-      "nsiStatus": "filled_missing_qid",
-      "enrichStatus": "nsi_prefilled",
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -12516,8 +13002,8 @@
         "brandWikidata": "Q1998983"
       },
       "raw": {
-        "brand": "",
-        "brandWikidata": "",
+        "brand": "Norfa XXL",
+        "brandWikidata": "Q1998983",
         "name": "Norfa XXL",
         "nameWikidata": "",
         "operator": "",
@@ -12532,32 +13018,32 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
+        "matchReason": "wikidata_qid",
         "status": "resolved"
       },
-      "confidence": 88,
+      "confidence": 96,
       "evidenceSummary": {
-        "count": 19,
+        "count": 1,
         "hasWebsite": true,
         "hasEmail": false,
         "hasPhone": true,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
-        "brandSource": "name_only",
+        "brandSource": "brand_tag",
         "categoryTokens": [
           "supermarket"
         ],
-        "samplePointCount": 5
+        "samplePointCount": 1
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1998983",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
         "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12779,10 +13265,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -12937,10 +13423,10 @@
   },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 149,
-    "candidateCount": 1145,
-    "rejectCount": 29,
-    "humanReviewCount": 5113,
+    "productionCount": 154,
+    "candidateCount": 1186,
+    "rejectCount": 30,
+    "humanReviewCount": 5069,
     "aiReviewCount": 0
   }
 }
