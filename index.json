@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-02",
+  "updatedAt": "2026-07-03",
   "countries": [
     {
       "code": "EE",
       "file": "brands/EE/brands_EE.json",
       "schema": 2,
-      "updatedAt": "2026-07-02",
-      "sha256": "3aa155a877d94bd6512643754e0d5e0f17e9f5a017ddf8ee899f6025ec51d52f",
-      "items": 195,
+      "updatedAt": "2026-07-03",
+      "sha256": "4c59611094204230fb4ff906a723d4b8258fb18f1f0be6e4f6fa80aad867b062",
+      "items": 192,
       "glossaryFile": "brands/EE/brand_glossary_EE.json",
       "glossarySha256": "48f3346fcabd0728504bc8a5c12cec6fd7c4b6821ca581849391a7e145ff4fa2"
     },

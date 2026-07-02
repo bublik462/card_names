@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-02T20:22:22Z",
+  "generatedAt": "2026-07-02T21:13:18Z",
   "files": [
     {
       "path": "brands/EE/brands_EE.json",
-      "sha256": "3aa155a877d94bd6512643754e0d5e0f17e9f5a017ddf8ee899f6025ec51d52f",
-      "bytes": 449141,
+      "sha256": "4c59611094204230fb4ff906a723d4b8258fb18f1f0be6e4f6fa80aad867b062",
+      "bytes": 442905,
       "country": "EE",
       "kind": "brands",
-      "items": 195
+      "items": 192
     },
     {
       "path": "brands/EE/brand_glossary_EE.json",
