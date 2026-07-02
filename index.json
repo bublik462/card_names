@@ -3,6 +3,16 @@
   "updatedAt": "2026-07-02",
   "countries": [
     {
+      "code": "EE",
+      "file": "brands/EE/brands_EE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-02",
+      "sha256": "3aa155a877d94bd6512643754e0d5e0f17e9f5a017ddf8ee899f6025ec51d52f",
+      "items": 195,
+      "glossaryFile": "brands/EE/brand_glossary_EE.json",
+      "glossarySha256": "48f3346fcabd0728504bc8a5c12cec6fd7c4b6821ca581849391a7e145ff4fa2"
+    },
+    {
       "code": "LT",
       "file": "brands/LT/brands_LT.json",
       "schema": 2,

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-07-02",
   "country": "EE",
   "items": [
     {
@@ -191,10 +191,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 10,
         "hasWebsite": true,
@@ -2031,10 +2031,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 121,
         "hasWebsite": true,
@@ -2212,10 +2212,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "wikidata_qid",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 96,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 1,
         "hasWebsite": true,
@@ -2359,10 +2359,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": false,
@@ -3054,10 +3054,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": false,
@@ -3325,10 +3325,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -3499,10 +3499,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 2,
         "hasWebsite": true,
@@ -5352,7 +5352,7 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 12,
+        "count": 11,
         "hasWebsite": true,
         "hasEmail": true,
         "hasPhone": true,
@@ -5367,8 +5367,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q53268",
-        "acceptedQidCount": 11,
-        "totalQidCount": 11,
+        "acceptedQidCount": 10,
+        "totalQidCount": 10,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -5408,6 +5408,84 @@
       },
       "nsiStatus": "clean_qid_match",
       "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/car",
+      "defaultCategoryPath": "shop/car",
+      "brand": "Toyota;Lexus",
+      "brandKey": "toyota_lexus",
+      "brandWikidata": "Q53268",
+      "resolved": {
+        "brand": "Toyota;Lexus",
+        "brandKey": "toyota_lexus",
+        "brandWikidata": "Q53268"
+      },
+      "raw": {
+        "brand": "Toyota;Lexus",
+        "brandWikidata": "Q53268",
+        "name": "Amserv Viljandi",
+        "nameWikidata": "",
+        "operator": "Amserv Group AS",
+        "operatorWikidata": "",
+        "rawBrandKey": "toyota_lexus",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasAddress": true,
+        "hasOpeningHours": false,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "car"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q53268",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Amserv Group AS",
+        "operatorWikidata": "",
+        "source": "operator"
+      },
       "brandStatus": "qid_verified",
       "reviewReason": "qid_verified"
     },
@@ -7885,10 +7963,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 6,
         "hasWebsite": true,
@@ -8059,10 +8137,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 4,
         "hasWebsite": false,
@@ -8654,10 +8732,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": false,
@@ -10538,6 +10616,79 @@
         "brandWikidata": "Q1371302"
       },
       "raw": {
+        "brand": "",
+        "brandWikidata": "",
+        "name": "Takko",
+        "nameWikidata": "",
+        "operator": "",
+        "operatorWikidata": "",
+        "rawBrandKey": "takko",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "cleaned_name",
+        "status": "inferred"
+      },
+      "confidence": 64,
+      "evidenceSummary": {
+        "count": 3,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "name_only",
+        "categoryTokens": [
+          "clothes"
+        ],
+        "samplePointCount": 3
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q1371302",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/clothes",
+      "defaultCategoryPath": "shop/clothes",
+      "brand": "Takko Fashion",
+      "brandKey": "takko_fashion",
+      "brandWikidata": "Q1371302",
+      "resolved": {
+        "brand": "Takko Fashion",
+        "brandKey": "takko_fashion",
+        "brandWikidata": "Q1371302"
+      },
+      "raw": {
         "brand": "Takko Fashion",
         "brandWikidata": "Q1371302",
         "name": "Takko Fashion",
@@ -10559,11 +10710,11 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 8,
-        "hasWebsite": true,
+        "count": 6,
+        "hasWebsite": false,
         "hasEmail": false,
         "hasPhone": true,
-        "hasAddress": true,
+        "hasAddress": false,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
         "brandSource": "brand_tag",
@@ -10574,99 +10725,12 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q1371302",
-        "acceptedQidCount": 6,
-        "totalQidCount": 6,
+        "acceptedQidCount": 5,
+        "totalQidCount": 5,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
         "acceptedQidReason": "brand_wikidata_unique",
-        "conflictingQids": []
-      },
-      "loyalty": {
-        "hasProgram": false,
-        "hasPhysicalCard": true,
-        "hasMobileApp": false,
-        "cardType": "card_number",
-        "preferredAction": "enter_card_number",
-        "cardNames": [],
-        "defaultCardName": "",
-        "androidPackage": "",
-        "googlePlayUrl": "",
-        "websiteUrl": "",
-        "registrationUrl": "",
-        "notes": ""
-      },
-      "sources": {
-        "osm": true,
-        "nsi": true
-      },
-      "nsi": {
-        "matched": true,
-        "matchType": "clean_qid_match",
-        "confidence": 0.99,
-        "canonicalName": "Takko Fashion",
-        "brandWikidata": "Q1371302",
-        "categoryPath": "shop/clothes"
-      },
-      "nsiStatus": "clean_qid_match",
-      "enrichStatus": "nsi_confirmed",
-      "brandStatus": "qid_verified",
-      "reviewReason": "qid_verified"
-    },
-    {
-      "categoryPath": "shop/clothes",
-      "defaultCategoryPath": "shop/clothes",
-      "brand": "Takko Fashion",
-      "brandKey": "takko_fashion",
-      "brandWikidata": "Q1371302",
-      "resolved": {
-        "brand": "Takko Fashion",
-        "brandKey": "takko_fashion",
-        "brandWikidata": "Q1371302"
-      },
-      "raw": {
-        "brand": "",
-        "brandWikidata": "",
-        "name": "Takko Fashion",
-        "nameWikidata": "",
-        "operator": "",
-        "operatorWikidata": "",
-        "rawBrandKey": "takko_fashion",
-        "wikidata": ""
-      },
-      "storeFormat": {
-        "format": "",
-        "label": "",
-        "sizeLevel": 0
-      },
-      "storeFormats": [],
-      "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
-      },
-      "confidence": 88,
-      "evidenceSummary": {
-        "count": 1,
-        "hasWebsite": false,
-        "hasEmail": false,
-        "hasPhone": false,
-        "hasAddress": false,
-        "hasOpeningHours": false,
-        "nameSource": "raw.name",
-        "brandSource": "name_only",
-        "categoryTokens": [
-          "clothes"
-        ],
-        "samplePointCount": 1
-      },
-      "qidDiagnostics": {
-        "acceptedQid": "Q1371302",
-        "acceptedQidCount": 0,
-        "totalQidCount": 0,
-        "conflictCount": 0,
-        "acceptedQidRatio": 0.0,
-        "acceptedQidSource": "base_repo",
-        "acceptedQidReason": "base_repo_match",
         "conflictingQids": []
       },
       "loyalty": {
@@ -12858,10 +12922,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 3,
         "hasWebsite": true,
@@ -13781,10 +13845,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 5,
         "hasWebsite": true,
@@ -13860,10 +13924,10 @@
       },
       "confidence": 96,
       "evidenceSummary": {
-        "count": 10,
+        "count": 9,
         "hasWebsite": true,
         "hasEmail": true,
-        "hasPhone": true,
+        "hasPhone": false,
         "hasAddress": true,
         "hasOpeningHours": true,
         "nameSource": "raw.name",
@@ -13876,8 +13940,8 @@
       },
       "qidDiagnostics": {
         "acceptedQid": "Q309865",
-        "acceptedQidCount": 7,
-        "totalQidCount": 7,
+        "acceptedQidCount": 6,
+        "totalQidCount": 6,
         "conflictCount": 0,
         "acceptedQidRatio": 1.0,
         "acceptedQidSource": "pbf_brand_wikidata",
@@ -13897,6 +13961,99 @@
         "websiteUrl": "",
         "registrationUrl": "",
         "notes": ""
+      },
+      "sources": {
+        "osm": true,
+        "nsi": true
+      },
+      "nsi": {
+        "matched": true,
+        "matchType": "clean_qid_match",
+        "confidence": 0.99,
+        "canonicalName": "Tele2",
+        "brandWikidata": "Q309865",
+        "categoryPath": "shop/mobile_phone"
+      },
+      "nsiStatus": "clean_qid_match",
+      "enrichStatus": "nsi_confirmed",
+      "brandStatus": "qid_verified",
+      "reviewReason": "qid_verified"
+    },
+    {
+      "categoryPath": "shop/mobile_phone",
+      "defaultCategoryPath": "shop/mobile_phone",
+      "brand": "Tele2 müügiesindus",
+      "brandKey": "tele2_muugiesindus",
+      "brandWikidata": "Q309865",
+      "resolved": {
+        "brand": "Tele2 müügiesindus",
+        "brandKey": "tele2_muugiesindus",
+        "brandWikidata": "Q309865"
+      },
+      "raw": {
+        "brand": "Tele2 müügiesindus",
+        "brandWikidata": "Q309865",
+        "name": "Tele2",
+        "nameWikidata": "",
+        "operator": "Tele2",
+        "operatorWikidata": "",
+        "rawBrandKey": "tele2_muugiesindus",
+        "wikidata": ""
+      },
+      "storeFormat": {
+        "format": "",
+        "label": "",
+        "sizeLevel": 0
+      },
+      "storeFormats": [],
+      "decision": {
+        "matchReason": "wikidata_qid",
+        "status": "resolved"
+      },
+      "confidence": 96,
+      "evidenceSummary": {
+        "count": 1,
+        "hasWebsite": true,
+        "hasEmail": false,
+        "hasPhone": true,
+        "hasAddress": true,
+        "hasOpeningHours": true,
+        "nameSource": "raw.name",
+        "brandSource": "brand_tag",
+        "categoryTokens": [
+          "mobile phone",
+          "mobile_phone"
+        ],
+        "samplePointCount": 1
+      },
+      "qidDiagnostics": {
+        "acceptedQid": "Q309865",
+        "acceptedQidCount": 1,
+        "totalQidCount": 1,
+        "conflictCount": 0,
+        "acceptedQidRatio": 1.0,
+        "acceptedQidSource": "pbf_brand_wikidata",
+        "acceptedQidReason": "brand_wikidata_unique",
+        "conflictingQids": []
+      },
+      "loyalty": {
+        "hasProgram": false,
+        "hasPhysicalCard": true,
+        "hasMobileApp": false,
+        "cardType": "card_number",
+        "preferredAction": "enter_card_number",
+        "cardNames": [],
+        "defaultCardName": "",
+        "androidPackage": "",
+        "googlePlayUrl": "",
+        "websiteUrl": "",
+        "registrationUrl": "",
+        "notes": ""
+      },
+      "operatorEvidence": {
+        "operator": "Tele2",
+        "operatorWikidata": "",
+        "source": "operator"
       },
       "sources": {
         "osm": true,
@@ -14177,10 +14334,10 @@
       },
       "storeFormats": [],
       "decision": {
-        "matchReason": "brand_key",
-        "status": "resolved"
+        "matchReason": "cleaned_name",
+        "status": "inferred"
       },
-      "confidence": 88,
+      "confidence": 64,
       "evidenceSummary": {
         "count": 25,
         "hasWebsite": true,
@@ -16538,10 +16695,10 @@
   },
   "brandExport": {
     "strictBrandsOnly": true,
-    "productionCount": 193,
-    "candidateCount": 839,
+    "productionCount": 195,
+    "candidateCount": 873,
     "rejectCount": 15,
-    "humanReviewCount": 4676,
+    "humanReviewCount": 4642,
     "aiReviewCount": 0
   }
 }
