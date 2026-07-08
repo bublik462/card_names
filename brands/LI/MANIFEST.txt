@@ -1,0 +1,12 @@
+country=LI
+target=LI
+scope=country
+created_utc=2026-07-08T19:16:05Z
+
+app_files:
+  - brands_LI.json
+  - brand_glossary_LI.json
+
+source_files:
+  - out/final/brands/LI/brands_LI.json
+  - overrides/brand_glossary_LI.json
