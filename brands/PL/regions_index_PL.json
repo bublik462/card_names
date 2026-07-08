@@ -18,6 +18,20 @@
       "items": 476
     },
     {
+      "targetCode": "PL-KUJAWSKO-POMORSKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-KUJAWSKO-POMORSKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Kujawsko Pomorskie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/kujawsko-pomorskie-latest.osm.pbf",
+      "file": "brands_PL-KUJAWSKO-POMORSKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "a9ccbb188a41ba5c9907b97d796a317adb76953e59936eff31a0b3c8b8e483c8",
+      "items": 313
+    },
+    {
       "targetCode": "PL-LODZKIE",
       "countryCode": "PL",
       "scope": "region",

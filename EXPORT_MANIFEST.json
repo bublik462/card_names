@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-08T21:09:46Z",
+  "generatedAt": "2026-07-08T21:16:10Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -139,6 +139,16 @@
       "scope": "region"
     },
     {
+      "path": "brands/PL/brands_PL-KUJAWSKO-POMORSKIE.json",
+      "sha256": "a9ccbb188a41ba5c9907b97d796a317adb76953e59936eff31a0b3c8b8e483c8",
+      "bytes": 738950,
+      "country": "PL",
+      "kind": "regional_brands",
+      "items": 313,
+      "targetCode": "PL-KUJAWSKO-POMORSKIE",
+      "scope": "region"
+    },
+    {
       "path": "brands/PL/brands_PL-LODZKIE.json",
       "sha256": "a5c9f07363ab8296d69a39043f8edc144ca871a351ed2a3b0a5ec6300882e160",
       "bytes": 862550,
@@ -150,11 +160,11 @@
     },
     {
       "path": "brands/PL/regions_index_PL.json",
-      "sha256": "8ebcec3826b319b6385001c6f290cb892204226ce9aef302987433c344824164",
-      "bytes": 1115,
+      "sha256": "5703b8e85f0fe53a3f11ef0009eef534194ae583dbc1c30632fd7d055906bc06",
+      "bytes": 1667,
       "country": "PL",
       "kind": "regions_index",
-      "targets": 2
+      "targets": 3
     },
     {
       "path": "brands/US/brand_glossary_US.json",
