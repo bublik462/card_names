@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-08T19:16:13Z",
+  "generatedAt": "2026-07-08T20:39:53Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -102,6 +102,23 @@
       "kind": "brands",
       "items": 254,
       "targetCode": "LV",
+      "scope": "country"
+    },
+    {
+      "path": "brands/MT/brand_glossary_MT.json",
+      "sha256": "a764b08aa392f642dbb9c8e6d0cf3a8071da97e8b67d83e4d7eab6dd383e4455",
+      "bytes": 301,
+      "country": "MT",
+      "kind": "glossary"
+    },
+    {
+      "path": "brands/MT/brands_MT.json",
+      "sha256": "95bb5ad3e70d3bf04531e35991303cb233bb2fb559f2f13a5fd55cb9cb629a63",
+      "bytes": 283268,
+      "country": "MT",
+      "kind": "brands",
+      "items": 122,
+      "targetCode": "MT",
       "scope": "country"
     },
     {

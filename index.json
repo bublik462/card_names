@@ -63,6 +63,16 @@
       "glossarySha256": "4d9d998b63e282a3b16b2d3701c67b8a8a1231674ac903a4a5a1dc81855b4648"
     },
     {
+      "code": "MT",
+      "file": "brands/MT/brands_MT.json",
+      "schema": 2,
+      "updatedAt": "2026-07-08",
+      "sha256": "95bb5ad3e70d3bf04531e35991303cb233bb2fb559f2f13a5fd55cb9cb629a63",
+      "items": 122,
+      "glossaryFile": "brands/MT/brand_glossary_MT.json",
+      "glossarySha256": "a764b08aa392f642dbb9c8e6d0cf3a8071da97e8b67d83e4d7eab6dd383e4455"
+    },
+    {
       "code": "US",
       "file": "brands/US/brands_US.json",
       "schema": 2,

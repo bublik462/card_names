@@ -1,0 +1,15 @@
+{
+  "schema": 2,
+  "country": "MT",
+  "updatedAt": "2026-07-08T20:34:08Z",
+  "revision": "mt-20260708-01",
+  "notes": "auto-created skeleton; fill via review_pack loop",
+  "map": {},
+  "mergeBrandKeys": {},
+  "qidLocks": {},
+  "knownFormats": [],
+  "reject": {
+    "labels": [],
+    "regex": []
+  }
+}
