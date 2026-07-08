@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-08T20:58:05Z",
+  "generatedAt": "2026-07-08T21:09:46Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -129,6 +129,16 @@
       "kind": "glossary"
     },
     {
+      "path": "brands/PL/brands_PL-DOLNOSLASKIE.json",
+      "sha256": "6887256b30b21723a43eb591ea74c4f8ceb9e7ad61d3ba514fc80fbe7841d0c8",
+      "bytes": 1101913,
+      "country": "PL",
+      "kind": "regional_brands",
+      "items": 476,
+      "targetCode": "PL-DOLNOSLASKIE",
+      "scope": "region"
+    },
+    {
       "path": "brands/PL/brands_PL-LODZKIE.json",
       "sha256": "a5c9f07363ab8296d69a39043f8edc144ca871a351ed2a3b0a5ec6300882e160",
       "bytes": 862550,
@@ -140,11 +150,11 @@
     },
     {
       "path": "brands/PL/regions_index_PL.json",
-      "sha256": "cdcf5d0f50bac6eb77b96e232ac6035ee8735f7b37b4fbd88205d2c3978bd2b7",
-      "bytes": 593,
+      "sha256": "8ebcec3826b319b6385001c6f290cb892204226ce9aef302987433c344824164",
+      "bytes": 1115,
       "country": "PL",
       "kind": "regions_index",
-      "targets": 1
+      "targets": 2
     },
     {
       "path": "brands/US/brand_glossary_US.json",

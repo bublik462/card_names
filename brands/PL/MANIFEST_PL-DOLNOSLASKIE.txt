@@ -1,0 +1,12 @@
+country=PL
+target=PL-DOLNOSLASKIE
+scope=region
+created_utc=2026-07-08T21:06:12Z
+
+app_files:
+  - brands_PL-DOLNOSLASKIE.json
+  - brand_glossary_PL.json
+
+source_files:
+  - out/final/brands/PL/brands_PL-DOLNOSLASKIE.json
+  - overrides/brand_glossary_PL.json

@@ -1,8 +1,22 @@
 {
   "schemaVersion": 1,
   "countryCode": "PL",
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-09",
   "targets": [
+    {
+      "targetCode": "PL-DOLNOSLASKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-DOLNOSLASKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Dolnoslaskie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/dolnoslaskie-latest.osm.pbf",
+      "file": "brands_PL-DOLNOSLASKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "6887256b30b21723a43eb591ea74c4f8ceb9e7ad61d3ba514fc80fbe7841d0c8",
+      "items": 476
+    },
     {
       "targetCode": "PL-LODZKIE",
       "countryCode": "PL",
