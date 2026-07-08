@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-08T20:49:24Z",
+  "generatedAt": "2026-07-08T20:58:05Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -130,17 +130,17 @@
     },
     {
       "path": "brands/PL/brands_PL-LODZKIE.json",
-      "sha256": "e854152c8b116a3c8c234e594580097868b8cc438bba63b68b3a44827f0f95e3",
-      "bytes": 868688,
+      "sha256": "a5c9f07363ab8296d69a39043f8edc144ca871a351ed2a3b0a5ec6300882e160",
+      "bytes": 862550,
       "country": "PL",
       "kind": "regional_brands",
-      "items": 368,
+      "items": 365,
       "targetCode": "PL-LODZKIE",
       "scope": "region"
     },
     {
       "path": "brands/PL/regions_index_PL.json",
-      "sha256": "003b1cc82f8d4203c377f8b64a473f1f59b378294b3771b7c9ced40a8f18d68f",
+      "sha256": "cdcf5d0f50bac6eb77b96e232ac6035ee8735f7b37b4fbd88205d2c3978bd2b7",
       "bytes": 593,
       "country": "PL",
       "kind": "regions_index",

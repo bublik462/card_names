@@ -1,7 +1,7 @@
 country=PL
 target=PL-LODZKIE
 scope=region
-created_utc=2026-07-08T20:46:47Z
+created_utc=2026-07-08T20:55:15Z
 
 app_files:
   - brands_PL-LODZKIE.json

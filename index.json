@@ -87,7 +87,7 @@
     {
       "code": "PL",
       "regionsIndexFile": "brands/PL/regions_index_PL.json",
-      "regionsIndexSha256": "003b1cc82f8d4203c377f8b64a473f1f59b378294b3771b7c9ced40a8f18d68f",
+      "regionsIndexSha256": "cdcf5d0f50bac6eb77b96e232ac6035ee8735f7b37b4fbd88205d2c3978bd2b7",
       "targets": 1
     }
   ]
