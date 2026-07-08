@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "PL",
+  "updatedAt": "2026-07-08",
+  "targets": [
+    {
+      "targetCode": "PL-LODZKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-LODZKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Lodzkie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/lodzkie-latest.osm.pbf",
+      "file": "brands_PL-LODZKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-08",
+      "sha256": "e854152c8b116a3c8c234e594580097868b8cc438bba63b68b3a44827f0f95e3",
+      "items": 368
+    }
+  ]
+}

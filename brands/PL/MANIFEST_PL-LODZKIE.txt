@@ -1,0 +1,12 @@
+country=PL
+target=PL-LODZKIE
+scope=region
+created_utc=2026-07-08T20:46:47Z
+
+app_files:
+  - brands_PL-LODZKIE.json
+  - brand_glossary_PL.json
+
+source_files:
+  - out/final/brands/PL/brands_PL-LODZKIE.json
+  - overrides/brand_glossary_PL.json
