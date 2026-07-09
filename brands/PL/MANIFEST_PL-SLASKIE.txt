@@ -1,0 +1,12 @@
+country=PL
+target=PL-SLASKIE
+scope=region
+created_utc=2026-07-09T18:48:12Z
+
+app_files:
+  - brands_PL-SLASKIE.json
+  - brand_glossary_PL.json
+
+source_files:
+  - out/final/brands/PL/brands_PL-SLASKIE.json
+  - overrides/brand_glossary_PL.json

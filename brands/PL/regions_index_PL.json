@@ -58,6 +58,20 @@
       "updatedAt": "2026-07-09",
       "sha256": "afe53f654b830605ea1fea62fe488f1a4b79c87e0668c77910433032672f05d4",
       "items": 228
+    },
+    {
+      "targetCode": "PL-SLASKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-SLASKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Slaskie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/slaskie-latest.osm.pbf",
+      "file": "brands_PL-SLASKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "5ee3392327f6508f5223c9657cfb6fc79e56b5012f635d1d5bf0a36f444f5597",
+      "items": 454
     }
   ]
 }

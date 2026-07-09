@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-09T17:26:35Z",
+  "generatedAt": "2026-07-09T18:52:56Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -155,21 +155,21 @@
     },
     {
       "path": "brands/PL/brands_PL.json",
-      "sha256": "c519d4866232bf3bcc22df5e72a6d7969df1ab1b59c0ea2e6b59d1dc89615863",
-      "bytes": 1364272,
+      "sha256": "72a74416f82eea7d665ca26fab49a486d39816b7c5a04be99be4d3d5b2283858",
+      "bytes": 1558559,
       "country": "PL",
       "kind": "brands",
-      "items": 590,
+      "items": 677,
       "targetCode": "PL",
       "scope": "country"
     },
     {
       "path": "brands/PL/brands_PL.json.zip",
-      "sha256": "0ba02509ab6460b988d211dac0f51b588dbd2e0578da39bdba54a098ca52292c",
-      "bytes": 54180,
+      "sha256": "eca11e6c38dc841071da77c440f999d71408c04fd926f06098a2176179667cd6",
+      "bytes": 62371,
       "country": "PL",
       "kind": "brands_zip",
-      "items": 590,
+      "items": 677,
       "targetCode": "PL",
       "scope": "country",
       "compression": "zip"
@@ -215,12 +215,22 @@
       "scope": "region"
     },
     {
+      "path": "brands/PL/brands_PL-SLASKIE.json",
+      "sha256": "5ee3392327f6508f5223c9657cfb6fc79e56b5012f635d1d5bf0a36f444f5597",
+      "bytes": 1061805,
+      "country": "PL",
+      "kind": "regional_brands",
+      "items": 454,
+      "targetCode": "PL-SLASKIE",
+      "scope": "region"
+    },
+    {
       "path": "brands/PL/regions_index_PL.json",
-      "sha256": "6590368e8adf662ba329e22de364028e054b5210066eb5ec51a95b9c5e572283",
-      "bytes": 2169,
+      "sha256": "ca553ad4d532893bec013f706a2f77838f3e171cfa178f9e8b62b5b563f479d0",
+      "bytes": 2666,
       "country": "PL",
       "kind": "regions_index",
-      "targets": 4
+      "targets": 5
     },
     {
       "path": "brands/US/brand_glossary_US.json",
