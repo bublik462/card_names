@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-09T15:00:06Z",
+  "generatedAt": "2026-07-09T17:26:35Z",
   "files": [
     {
       "path": "brands/BY/brand_glossary_BY.json",
@@ -154,6 +154,27 @@
       "kind": "glossary"
     },
     {
+      "path": "brands/PL/brands_PL.json",
+      "sha256": "c519d4866232bf3bcc22df5e72a6d7969df1ab1b59c0ea2e6b59d1dc89615863",
+      "bytes": 1364272,
+      "country": "PL",
+      "kind": "brands",
+      "items": 590,
+      "targetCode": "PL",
+      "scope": "country"
+    },
+    {
+      "path": "brands/PL/brands_PL.json.zip",
+      "sha256": "0ba02509ab6460b988d211dac0f51b588dbd2e0578da39bdba54a098ca52292c",
+      "bytes": 54180,
+      "country": "PL",
+      "kind": "brands_zip",
+      "items": 590,
+      "targetCode": "PL",
+      "scope": "country",
+      "compression": "zip"
+    },
+    {
       "path": "brands/PL/brands_PL-DOLNOSLASKIE.json",
       "sha256": "6887256b30b21723a43eb591ea74c4f8ceb9e7ad61d3ba514fc80fbe7841d0c8",
       "bytes": 1101913,
@@ -184,12 +205,22 @@
       "scope": "region"
     },
     {
+      "path": "brands/PL/brands_PL-OPOLSKIE.json",
+      "sha256": "afe53f654b830605ea1fea62fe488f1a4b79c87e0668c77910433032672f05d4",
+      "bytes": 537857,
+      "country": "PL",
+      "kind": "regional_brands",
+      "items": 228,
+      "targetCode": "PL-OPOLSKIE",
+      "scope": "region"
+    },
+    {
       "path": "brands/PL/regions_index_PL.json",
-      "sha256": "5703b8e85f0fe53a3f11ef0009eef534194ae583dbc1c30632fd7d055906bc06",
-      "bytes": 1667,
+      "sha256": "6590368e8adf662ba329e22de364028e054b5210066eb5ec51a95b9c5e572283",
+      "bytes": 2169,
       "country": "PL",
       "kind": "regions_index",
-      "targets": 3
+      "targets": 4
     },
     {
       "path": "brands/US/brand_glossary_US.json",

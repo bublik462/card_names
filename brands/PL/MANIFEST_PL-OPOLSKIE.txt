@@ -1,0 +1,12 @@
+country=PL
+target=PL-OPOLSKIE
+scope=region
+created_utc=2026-07-09T17:25:10Z
+
+app_files:
+  - brands_PL-OPOLSKIE.json
+  - brand_glossary_PL.json
+
+source_files:
+  - out/final/brands/PL/brands_PL-OPOLSKIE.json
+  - overrides/brand_glossary_PL.json

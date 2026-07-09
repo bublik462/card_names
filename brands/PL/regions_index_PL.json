@@ -44,6 +44,20 @@
       "updatedAt": "2026-07-08",
       "sha256": "a5c9f07363ab8296d69a39043f8edc144ca871a351ed2a3b0a5ec6300882e160",
       "items": 365
+    },
+    {
+      "targetCode": "PL-OPOLSKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-OPOLSKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Opolskie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/opolskie-latest.osm.pbf",
+      "file": "brands_PL-OPOLSKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "afe53f654b830605ea1fea62fe488f1a4b79c87e0668c77910433032672f05d4",
+      "items": 228
     }
   ]
 }
