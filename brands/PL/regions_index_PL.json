@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "countryCode": "PL",
+  "updatedAt": "2026-07-09",
+  "targets": [
+    {
+      "targetCode": "PL-WIELKOPOLSKIE",
+      "countryCode": "PL",
+      "scope": "region",
+      "regionCode": "PL-WIELKOPOLSKIE",
+      "regionType": "geofabrik_shard",
+      "displayName": "Poland - Wielkopolskie",
+      "sourceUrl": "https://download.geofabrik.de/europe/poland/wielkopolskie-latest.osm.pbf",
+      "file": "brands_PL-WIELKOPOLSKIE.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "e1e6a961609b14c6eaaa55e553f5bedf5610860ce23d138ac719718f95be7f96",
+      "items": 398
+    }
+  ]
+}
