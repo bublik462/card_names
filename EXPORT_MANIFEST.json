@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-07-09T20:33:32Z",
+  "files": [
+    {
+      "path": "brands/MT/brand_glossary_MT.json",
+      "sha256": "a764b08aa392f642dbb9c8e6d0cf3a8071da97e8b67d83e4d7eab6dd383e4455",
+      "bytes": 301,
+      "country": "MT",
+      "kind": "glossary"
+    },
+    {
+      "path": "brands/MT/brands_MT.json",
+      "sha256": "102e5a13c72a6b2ef82bb9e2ec6852dbf752b4dc423a6a4b73cae3421cf1d88c",
+      "bytes": 269221,
+      "country": "MT",
+      "kind": "brands",
+      "items": 115,
+      "targetCode": "MT",
+      "scope": "country"
+    }
+  ]
+}
