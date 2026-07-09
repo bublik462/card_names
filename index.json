@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "updatedAt": "2026-07-09",
+  "countries": [
+    {
+      "code": "PL",
+      "file": "brands/PL/brands_PL.json",
+      "schema": 2,
+      "updatedAt": "2026-07-09",
+      "sha256": "e05531a07d60c0124a8c0757ab4c6500b5494a3a7b678fbaf772bea698cab2cb",
+      "items": 377,
+      "zipFile": "brands/PL/brands_PL.json.zip",
+      "zipSha256": "ceb0a90980d48c10bd7b686a214ba9b9a901c8c8281736d000fac4eb3fce04ae",
+      "compression": "zip",
+      "glossaryFile": "brands/PL/brand_glossary_PL.json",
+      "glossarySha256": "209a881967be1e56a4501149bc1638ed20dc4f0b2ea423f2110d7275244800a0",
+      "regionsIndexFile": "brands/PL/regions_index_PL.json",
+      "regionsIndexSha256": "8451365dee888432adfd94c2c30276570616b5dac30c610540d8597f83ee015f",
+      "targets": 1,
+      "regionalTargets": 1
+    }
+  ],
+  "regionalCountries": [
+    {
+      "code": "PL",
+      "regionsIndexFile": "brands/PL/regions_index_PL.json",
+      "regionsIndexSha256": "8451365dee888432adfd94c2c30276570616b5dac30c610540d8597f83ee015f",
+      "targets": 1
+    }
+  ]
+}
