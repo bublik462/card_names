@@ -12,6 +12,15 @@
       "compression": "zip"
     },
     {
+      "code": "LT",
+      "file": "brands/LT/brands_LT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "ea646811c2b499cc013ba24837b62dadd46be2f146b76d755fca0352408d7b78",
+      "items": 140,
+      "compression": "zip"
+    },
+    {
       "code": "LV",
       "file": "brands/LV/brands_LV.json.zip",
       "schema": 2,
