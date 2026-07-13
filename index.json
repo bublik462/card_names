@@ -1,41 +1,33 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-07-13",
   "countries": [
     {
+      "code": "EE",
+      "file": "brands/EE/brands_EE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "9f0958b5f50b78d1b9386b05ab73a986c3ddd8607588fd54659f400e021c9fc0",
+      "items": 178,
+      "compression": "zip"
+    },
+    {
       "code": "MT",
-      "file": "brands/MT/brands_MT.json",
+      "file": "brands/MT/brands_MT.json.zip",
       "schema": 2,
       "updatedAt": "2026-07-09",
-      "sha256": "102e5a13c72a6b2ef82bb9e2ec6852dbf752b4dc423a6a4b73cae3421cf1d88c",
+      "sha256": "b270bcaef8488090ab6b31e0f279df7e5e74f8ac6902adb6fcd89e17186f47c2",
       "items": 115,
-      "glossaryFile": "brands/MT/brand_glossary_MT.json",
-      "glossarySha256": "a764b08aa392f642dbb9c8e6d0cf3a8071da97e8b67d83e4d7eab6dd383e4455"
+      "compression": "zip"
     },
     {
       "code": "PL",
-      "file": "brands/PL/brands_PL.json",
+      "file": "brands/PL/brands_PL.json.zip",
       "schema": 2,
       "updatedAt": "2026-07-09",
-      "sha256": "e05531a07d60c0124a8c0757ab4c6500b5494a3a7b678fbaf772bea698cab2cb",
+      "sha256": "ceb0a90980d48c10bd7b686a214ba9b9a901c8c8281736d000fac4eb3fce04ae",
       "items": 377,
-      "zipFile": "brands/PL/brands_PL.json.zip",
-      "zipSha256": "ceb0a90980d48c10bd7b686a214ba9b9a901c8c8281736d000fac4eb3fce04ae",
-      "compression": "zip",
-      "glossaryFile": "brands/PL/brand_glossary_PL.json",
-      "glossarySha256": "209a881967be1e56a4501149bc1638ed20dc4f0b2ea423f2110d7275244800a0",
-      "regionsIndexFile": "brands/PL/regions_index_PL.json",
-      "regionsIndexSha256": "8451365dee888432adfd94c2c30276570616b5dac30c610540d8597f83ee015f",
-      "targets": 1,
-      "regionalTargets": 1
-    }
-  ],
-  "regionalCountries": [
-    {
-      "code": "PL",
-      "regionsIndexFile": "brands/PL/regions_index_PL.json",
-      "regionsIndexSha256": "8451365dee888432adfd94c2c30276570616b5dac30c610540d8597f83ee015f",
-      "targets": 1
+      "compression": "zip"
     }
   ]
 }
