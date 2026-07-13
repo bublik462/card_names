@@ -3,6 +3,15 @@
   "updatedAt": "2026-07-13",
   "countries": [
     {
+      "code": "DE",
+      "file": "brands/DE/brands_DE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-13",
+      "sha256": "1fc3e9d658604ecdff1aefec0494823f65fe2cd1a7caec839ec626d8d43e31bb",
+      "items": 435,
+      "compression": "zip"
+    },
+    {
       "code": "EE",
       "file": "brands/EE/brands_EE.json.zip",
       "schema": 2,
