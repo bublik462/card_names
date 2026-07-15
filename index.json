@@ -18,7 +18,13 @@
       "updatedAt": "2026-07-13",
       "sha256": "9f0958b5f50b78d1b9386b05ab73a986c3ddd8607588fd54659f400e021c9fc0",
       "items": 178,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/EE/geo_EE.zip",
+        "sha256": "5d0e188ca2a8fbbbd628e4840f4a24a9608185a1dbd3cf38a9bc688692970d1c",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
     },
     {
       "code": "LT",
