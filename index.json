@@ -33,7 +33,13 @@
       "updatedAt": "2026-07-13",
       "sha256": "ea646811c2b499cc013ba24837b62dadd46be2f146b76d755fca0352408d7b78",
       "items": 140,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LT/geo_LT.zip",
+        "sha256": "95d247877cb797a58c04e08e9887fbc1c63b62c85ba39ca8f820cf1c41afbc8f",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
     },
     {
       "code": "LV",
