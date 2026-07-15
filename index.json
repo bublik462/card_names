@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-14",
+  "updatedAt": "2026-07-15",
   "countries": [
     {
       "code": "DE",
       "file": "brands/DE/brands_DE.json.zip",
       "schema": 2,
-      "updatedAt": "2026-07-14",
-      "sha256": "e8c666922c99efa744bbdb552e16590da402f4f17a1b0f30211571de15cda8ba",
-      "items": 1749,
+      "updatedAt": "2026-07-15",
+      "sha256": "d229ff06b47699922a6074595debb99ebb64ab088f2633ccb3cda25cb9057002",
+      "items": 1792,
       "compression": "zip"
     },
     {
