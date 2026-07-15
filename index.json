@@ -42,7 +42,13 @@
       "updatedAt": "2026-07-13",
       "sha256": "e168e4d243820cbfa51c6866a39fe11f6b4771acaac004ecdc28db50ca3ad583",
       "items": 246,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LV/geo_LV.zip",
+        "sha256": "7dded16e9c6f7e0321af751c88edb063f7266309e5d24ff388ab13ed0ada6897",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
     },
     {
       "code": "MT",
