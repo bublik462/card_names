@@ -63,7 +63,13 @@
       "updatedAt": "2026-07-09",
       "sha256": "b270bcaef8488090ab6b31e0f279df7e5e74f8ac6902adb6fcd89e17186f47c2",
       "items": 115,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MT/geo_MT.zip",
+        "sha256": "642eb8f424969c6f171b610c43214182c60614f170d37b48a5b5177283c3ab25",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
     },
     {
       "code": "PL",
