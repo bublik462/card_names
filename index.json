@@ -9,7 +9,13 @@
       "updatedAt": "2026-07-15",
       "sha256": "f0421d03a54e75c5636fcf82b53c09d0ce338ccc5ff7f9a7298b432e3bf56d7e",
       "items": 2016,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DE/geo_DE.zip",
+        "sha256": "6641f89152e195f4a15750e7bb74390f2c84406afe07789633b21bb9b49a0ef3",
+        "schema": 2,
+        "updatedAt": "2026-07-15"
+      }
     },
     {
       "code": "EE",
