@@ -84,7 +84,13 @@
       "updatedAt": "2026-07-09",
       "sha256": "ceb0a90980d48c10bd7b686a214ba9b9a901c8c8281736d000fac4eb3fce04ae",
       "items": 377,
-      "compression": "zip"
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PL/geo_PL.zip",
+        "sha256": "3da927623d4033ace2280337f54b40a4d2f69b25eaf2b992a7ab9466a519351c",
+        "schema": 2,
+        "updatedAt": "2026-07-16"
+      }
     }
   ]
 }
