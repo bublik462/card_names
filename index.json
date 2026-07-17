@@ -1,7 +1,22 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-17",
   "countries": [
+    {
+      "code": "BY",
+      "file": "brands/BY/brands_BY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-17",
+      "sha256": "80ea38f7ee84e1dd6bc4ad5606e6c77de2f2debe26f69ff0c33a78336b7ae5a3",
+      "items": 560,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BY/geo_BY.zip",
+        "sha256": "bff2e5a7666a6b6ac48e8fd06365f449c58235adfeb4dfc2a84976775b65c716",
+        "schema": 2,
+        "updatedAt": "2026-07-17"
+      }
+    },
     {
       "code": "DE",
       "file": "brands/DE/brands_DE.json.zip",
