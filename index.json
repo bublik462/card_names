@@ -528,6 +528,21 @@
       }
     },
     {
+      "code": "MG",
+      "file": "brands/MG/brands_MG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "3b3b675976d739b47a84dc1d47768b179bcb4feff517e07b9e69c381f1132eba",
+      "items": 34,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MG/geo_MG.zip",
+        "sha256": "53b9e81ffa518cc3791ba773203e3cb0f2be4903bb5fbd7db1079fd5eb48e53c",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "MT",
       "file": "brands/MT/brands_MT.json.zip",
       "schema": 2,
