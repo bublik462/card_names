@@ -513,6 +513,21 @@
       }
     },
     {
+      "code": "LY",
+      "file": "brands/LY/brands_LY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "8d432565bb5c94cc1ecb1614296b2f808ba68d5e11457bc32b25a01ced48ccb4",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LY/geo_LY.zip",
+        "sha256": "401597d86f611f4523237553e60bd9cccb49e07148985b83da112632d4329471",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "MT",
       "file": "brands/MT/brands_MT.json.zip",
       "schema": 2,
