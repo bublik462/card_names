@@ -648,6 +648,21 @@
       }
     },
     {
+      "code": "NA",
+      "file": "brands/NA/brands_NA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "62bfb0aae566982bbd54b8a3e02fd0abff33c68c8cd41fcf6d838fa61bb9211a",
+      "items": 102,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NA/geo_NA.zip",
+        "sha256": "33b5f3b712df860530fac6476371c687841a332538f3c53383078eb3fc788c7b",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "PL",
       "file": "brands/PL/brands_PL.json.zip",
       "schema": 2,
