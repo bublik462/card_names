@@ -588,6 +588,21 @@
       }
     },
     {
+      "code": "MU",
+      "file": "brands/MU/brands_MU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "046fa186f8db88046a26e861ac0a8959bc804f7938d80ecf96f4a39ab2bdfa77",
+      "items": 72,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MU/geo_MU.zip",
+        "sha256": "f4b22104a73a188513f1d536aabe63469e7078225380b10dcbffe1c87364d790",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "MW",
       "file": "brands/MW/brands_MW.json.zip",
       "schema": 2,
