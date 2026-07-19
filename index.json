@@ -243,6 +243,21 @@
       }
     },
     {
+      "code": "ER",
+      "file": "brands/ER/brands_ER.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "798d7899f00c928f8f85ab64cd7f54cb177e0b5c5c9987dd1edeb971a629acd7",
+      "items": 11,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ER/geo_ER.zip",
+        "sha256": "d4a447155f75bb9f6fea58e3b69be2a483fd53895d79d179c5af0740895eec95",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "ES",
       "file": "brands/ES/brands_ES.json.zip",
       "schema": 2,
