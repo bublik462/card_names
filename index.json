@@ -183,6 +183,21 @@
       }
     },
     {
+      "code": "DJ",
+      "file": "brands/DJ/brands_DJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "27a73c113dbd6412c1bee8aae2eaf4ba9086837a01a83dd141e2b02904a3cab0",
+      "items": 10,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/DJ/geo_DJ.zip",
+        "sha256": "06d2bb3ace3d92110f6a13d35d5e3ffe263e6baf8642f9457c83f5658b260ff7",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "DZ",
       "file": "brands/DZ/brands_DZ.json.zip",
       "schema": 2,
