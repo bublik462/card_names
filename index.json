@@ -108,6 +108,21 @@
       }
     },
     {
+      "code": "CV",
+      "file": "brands/CV/brands_CV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "ce949fd7d2615b00cf5319c8b4b2286fd47801e622632ea2b62125cf30e3a81b",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CV/geo_CV.zip",
+        "sha256": "995fb099cc14d06a71518abb74dbb6c70f750eb0fb339edcd4443b058a493428",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "DE",
       "file": "brands/DE/brands_DE.json.zip",
       "schema": 2,
