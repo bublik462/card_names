@@ -138,6 +138,21 @@
       }
     },
     {
+      "code": "CI",
+      "file": "brands/CI/brands_CI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "68f95015a92d410fdf595fa4cea9693a8bf693ff1f3a726480ad75b5d481973c",
+      "items": 85,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CI/geo_CI.zip",
+        "sha256": "cbdec8d71f0ac07c9c8467aecd25b4ac7b0cc0c44d751509a87e0bf708cc0a0d",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "CM",
       "file": "brands/CM/brands_CM.json.zip",
       "schema": 2,
