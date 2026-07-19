@@ -33,6 +33,21 @@
       }
     },
     {
+      "code": "BI",
+      "file": "brands/BI/brands_BI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "2d4497706dcde1d129f9d26c5775412c933db25e3e6aef103961b01320f5cb7b",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BI/geo_BI.zip",
+        "sha256": "e424cd3a9cedf64050cb14239397ec63325fa2cfd32e8aec0d2ee4a70230df72",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "BJ",
       "file": "brands/BJ/brands_BJ.json.zip",
       "schema": 2,
