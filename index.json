@@ -93,6 +93,21 @@
       }
     },
     {
+      "code": "CF",
+      "file": "brands/CF/brands_CF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "324b4dd218274414ecaf323dcd1954a7b1822b4346a40df1c8d7774388ad17e4",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CF/geo_CF.zip",
+        "sha256": "53863c7d1d825088534ae6a138222266ffa22ceca9ef0af6fb0bc6f85fa0ac2d",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "CM",
       "file": "brands/CM/brands_CM.json.zip",
       "schema": 2,
