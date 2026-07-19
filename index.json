@@ -663,6 +663,21 @@
       }
     },
     {
+      "code": "NE",
+      "file": "brands/NE/brands_NE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "3ff85dfb6714087b049732e3f76295bd8893ff2fdeec7ca7ddcef658dcef3d85",
+      "items": 8,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NE/geo_NE.zip",
+        "sha256": "7dd2118cdb20b739fba9854324314cc35e5e90885b0f088151a0e4e716f75273",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "PL",
       "file": "brands/PL/brands_PL.json.zip",
       "schema": 2,
