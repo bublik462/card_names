@@ -708,6 +708,21 @@
       }
     },
     {
+      "code": "RW",
+      "file": "brands/RW/brands_RW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "82a1a6185aa415be0b365fd47132b83f51ead6478a12ef02f032c1cff75bb02b",
+      "items": 18,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RW/geo_RW.zip",
+        "sha256": "2fc867110b45ee827668af38f2e4451fe0d255b2ddfa554d4fcc62497c60f409",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "TD",
       "file": "brands/TD/brands_TD.json.zip",
       "schema": 2,
