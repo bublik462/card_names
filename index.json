@@ -18,6 +18,21 @@
       }
     },
     {
+      "code": "BJ",
+      "file": "brands/BJ/brands_BJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "420da6becd2de528b63431890796441fb8233639fda553a35db12f946e23d90c",
+      "items": 17,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BJ/geo_BJ.zip",
+        "sha256": "9e8a0cd90ea2c921e85503607ab2988107be458fc013a536271068003de07f41",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "BY",
       "file": "brands/BY/brands_BY.json.zip",
       "schema": 2,
