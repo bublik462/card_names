@@ -228,6 +228,21 @@
       }
     },
     {
+      "code": "KM",
+      "file": "brands/KM/brands_KM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "e09d5ba66c6cc68e766386be4c104c5b420470ba2924d618ba229a03bf8fe319",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KM/geo_KM.zip",
+        "sha256": "ebafce2f3e8cd661d5c733e8ab42df9295fbe1c41fa488d42135e2788bc949a7",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "KR",
       "file": "brands/KR/brands_KR.json.zip",
       "schema": 2,
