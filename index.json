@@ -333,6 +333,21 @@
       }
     },
     {
+      "code": "GW",
+      "file": "brands/GW/brands_GW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "51d34d6b6f33d22ed2ecb9061d16abdb2872dcbd3109fe71e9042451554ae211",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GW/geo_GW.zip",
+        "sha256": "31261a7387e57c203b42d54996ece6fa378938fe7912cc50980948e8e852923c",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "IT",
       "file": "brands/IT/brands_IT.json.zip",
       "schema": 2,
