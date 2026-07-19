@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "countries": [
     {
       "code": "AO",
@@ -675,6 +675,21 @@
         "sha256": "7dd2118cdb20b739fba9854324314cc35e5e90885b0f088151a0e4e716f75273",
         "schema": 2,
         "updatedAt": "2026-07-19"
+      }
+    },
+    {
+      "code": "NG",
+      "file": "brands/NG/brands_NG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "3af87d26ca7b6bdb7671e63b4857097af9ca2dfde8841148ac0a79b315772331",
+      "items": 70,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NG/geo_NG.zip",
+        "sha256": "8647ac10cd7e77ae5688abc230d1080b416a637192a2ee30565b8300617e4738",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
       }
     },
     {
