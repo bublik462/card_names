@@ -273,6 +273,21 @@
       }
     },
     {
+      "code": "ET",
+      "file": "brands/ET/brands_ET.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "48675b42b7ffdfa642cc81761d0b85cbbe98abff2d84906cba1f879f33c09b68",
+      "items": 31,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ET/geo_ET.zip",
+        "sha256": "492f183f3c38ef39718bfe52c6d170550e8d03073207e9aead97761102567f80",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "GQ",
       "file": "brands/GQ/brands_GQ.json.zip",
       "schema": 2,
