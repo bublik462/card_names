@@ -258,6 +258,21 @@
       }
     },
     {
+      "code": "GQ",
+      "file": "brands/GQ/brands_GQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-19",
+      "sha256": "fdb973c52ec6f92af3c0272f19178d29dd5f4ce74cd9f33ff693cd5337877be5",
+      "items": 7,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GQ/geo_GQ.zip",
+        "sha256": "c2555cba2c9b62bd4e9189afec459e1ba423447710ca61a0c2cd6377d2493144",
+        "schema": 2,
+        "updatedAt": "2026-07-19"
+      }
+    },
+    {
       "code": "IT",
       "file": "brands/IT/brands_IT.json.zip",
       "schema": 2,
