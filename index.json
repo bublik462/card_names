@@ -687,7 +687,7 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NG/geo_NG.zip",
-        "sha256": "8647ac10cd7e77ae5688abc230d1080b416a637192a2ee30565b8300617e4738",
+        "sha256": "28021dd72b4a84a6fa095ce92fb172670dfb643c54fde48c36f6c97e55f9f3c3",
         "schema": 2,
         "updatedAt": "2026-07-20"
       }
