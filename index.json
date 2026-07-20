@@ -946,6 +946,21 @@
         "schema": 2,
         "updatedAt": "2026-07-20"
       }
+    },
+    {
+      "code": "ZM",
+      "file": "brands/ZM/brands_ZM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "4c4a8d0d55cc60279e3e0babc5aa6ca8f596537961202874abd7eb3269beb578",
+      "items": 50,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZM/geo_ZM.zip",
+        "sha256": "a9f54586978f95c5cda2f3cde5bcbf757c9bf6f92d29423bb1406f8ebebe96e8",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
     }
   ]
 }
