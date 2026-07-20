@@ -18,6 +18,21 @@
       }
     },
     {
+      "code": "AM",
+      "file": "brands/AM/brands_AM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "a3c6b40df8e51ad4de2e550242f37b4dac742bb8a647529f097eef2e88c2f962",
+      "items": 159,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AM/geo_AM.zip",
+        "sha256": "b2328be9b780ab78e7c65082c5557acfc9740e49304a338cba94a5c7dcf7c77e",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "AO",
       "file": "brands/AO/brands_AO.json.zip",
       "schema": 2,
