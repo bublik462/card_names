@@ -48,6 +48,21 @@
       }
     },
     {
+      "code": "AZ",
+      "file": "brands/AZ/brands_AZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "66ed7c06577af55dbfa9c8779e3a2de1c77be4e62b747f9c8fce816e33314ba9",
+      "items": 143,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AZ/geo_AZ.zip",
+        "sha256": "55de28d042b413247ac2d66ca26e5d68644d39bc5099f2db52396c86ed08dea2",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "BF",
       "file": "brands/BF/brands_BF.json.zip",
       "schema": 2,
