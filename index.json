@@ -738,6 +738,21 @@
       }
     },
     {
+      "code": "ST",
+      "file": "brands/ST/brands_ST.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "50ca771c0939b5ec5bf50e0c067fd8493de1ad921022bc7f46143058f89731db",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ST/geo_ST.zip",
+        "sha256": "5ab8e2aa981c1122db9d57c22a8188f41d5b623570daf3fabb39a5813717eed1",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "TD",
       "file": "brands/TD/brands_TD.json.zip",
       "schema": 2,
