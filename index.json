@@ -826,6 +826,21 @@
         "schema": 2,
         "updatedAt": "2026-07-18"
       }
+    },
+    {
+      "code": "ZA",
+      "file": "brands/ZA/brands_ZA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "43811825f5ace29fcaa2ce0fc47837bd1293b6e23785448a491d92404b787ac7",
+      "items": 496,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZA/geo_ZA.zip",
+        "sha256": "4c7caa1bcd132776f70b6f441c948610eb62ae0a3294cf956d7cb2dd6db95469",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
     }
   ]
 }
