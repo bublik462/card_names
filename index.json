@@ -3,6 +3,21 @@
   "updatedAt": "2026-07-20",
   "countries": [
     {
+      "code": "AF",
+      "file": "brands/AF/brands_AF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "3032953bf730db0ddd8006da07070758145410b2ead087a12dac6699d550b628",
+      "items": 9,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AF/geo_AF.zip",
+        "sha256": "a89b3f5492fb694a6acd0c4160211c3be55649ee7ffdf7bf08b52e10b4187696",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "AO",
       "file": "brands/AO/brands_AO.json.zip",
       "schema": 2,
