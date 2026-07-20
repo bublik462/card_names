@@ -961,6 +961,21 @@
         "schema": 2,
         "updatedAt": "2026-07-20"
       }
+    },
+    {
+      "code": "ZW",
+      "file": "brands/ZW/brands_ZW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "a940d167be1eaa9951e1ccb1717ff54c3b601c0bb17e21f4d61b2826c055d91f",
+      "items": 42,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/ZW/geo_ZW.zip",
+        "sha256": "842c2dd7f66b22c324d2209a99411de17928524e3b7c9d5acd403442f10756c5",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
     }
   ]
 }
