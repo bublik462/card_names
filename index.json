@@ -723,6 +723,21 @@
       }
     },
     {
+      "code": "SH",
+      "file": "brands/SH/brands_SH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "fdfb365e126509244c1c7122721d1fa5f42f27f32352e85345079bbdbe4c3f61",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SH/geo_SH.zip",
+        "sha256": "2e3d549742daefde0285a2b2f9151d54133c818686429076690208e4eefc9d8b",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "TD",
       "file": "brands/TD/brands_TD.json.zip",
       "schema": 2,
