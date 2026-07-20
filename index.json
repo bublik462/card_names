@@ -417,9 +417,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/KE/geo_KE.zip",
-        "sha256": "4bc62205ec166ad8e9468ef104d04cc64353a44c774b6876e9e418d7085f20bb",
+        "sha256": "77641304d63a2b114ec9926414c34713ed85ae4e3445aefaf7d408bab94a357e",
         "schema": 2,
-        "updatedAt": "2026-07-19"
+        "updatedAt": "2026-07-20"
       }
     },
     {
