@@ -918,6 +918,21 @@
       }
     },
     {
+      "code": "UG",
+      "file": "brands/UG/brands_UG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-20",
+      "sha256": "416efa920513eb8697a0f11bb284d03eb1d31d1da25c67c2e7f5a794b2a71f66",
+      "items": 51,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/UG/geo_UG.zip",
+        "sha256": "f3c797aff52a7314ab8b3ec0677ba2de34b6e23f1c84191760ac074207801b7d",
+        "schema": 2,
+        "updatedAt": "2026-07-20"
+      }
+    },
+    {
       "code": "ZA",
       "file": "brands/ZA/brands_ZA.json.zip",
       "schema": 2,
