@@ -693,6 +693,21 @@
       }
     },
     {
+      "code": "MO",
+      "file": "brands/MO/brands_MO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-21",
+      "sha256": "9ba94f8dee7ff92444673d686c507baf9c934c66ef3e0c53ecb3a3871981e28a",
+      "items": 100,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MO/geo_MO.zip",
+        "sha256": "00e088d112fb47806b8f95bb09d224bd7652fdeeed2232d5b3b7924f2ffaf305",
+        "schema": 2,
+        "updatedAt": "2026-07-21"
+      }
+    },
+    {
       "code": "MR",
       "file": "brands/MR/brands_MR.json.zip",
       "schema": 2,
