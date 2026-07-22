@@ -687,9 +687,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MG/geo_MG.zip",
-        "sha256": "4dbd8aa592faebf9f17639319415edacfc123a3f2547529fddb84b2bb8e57968",
+        "sha256": "656d54e04a7adc8fa37c6ca86d47aa277be5588ef8b8bcf3d1b226e5cfdfdecf",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
