@@ -147,9 +147,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/BW/geo_BW.zip",
-        "sha256": "da94d8eaa3daf3de54c22d7822d83114291e5e4d914744765dc40e3290d04a51",
+        "sha256": "ae2e14b6e79174ef4e2681b7ca5eb49ec8f7370594b958eeb58527a11123c97b",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
