@@ -1107,9 +1107,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/ZA/geo_ZA.zip",
-        "sha256": "4c7caa1bcd132776f70b6f441c948610eb62ae0a3294cf956d7cb2dd6db95469",
+        "sha256": "003744cdd9e5ff81040b50ecbf3be1f7b683016e0f04328a46bdb4cda25edb18",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
