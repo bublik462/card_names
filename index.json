@@ -1062,9 +1062,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/TZ/geo_TZ.zip",
-        "sha256": "17bbb9108649c73ee986c24bb0dbcae2a0d6a07a473e3b47ed48d3fbb0936430",
+        "sha256": "580c5ddc6fc794eb1cfa2e9623269d77b13502396382b9550f6cf672491b7694",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
