@@ -822,9 +822,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NE/geo_NE.zip",
-        "sha256": "912a04bb0becc09e4a93cc6a7d1c3e14932c547f6c523a904c93d717f60c43ab",
+        "sha256": "9e392ecbc652371d527b90b7465696a1e94b67cb11011ad24209705c66843d75",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
