@@ -942,9 +942,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/SO/geo_SO.zip",
-        "sha256": "4fe373f65f9281581d24fae1df18e4f0f47c374821debd001dba6e8ada22aa19",
+        "sha256": "7505e09f6d3245be0d67ba01074baca967fb1dba3e93fe422f5ff244946fb4d1",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
