@@ -672,9 +672,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/MA/geo_MA.zip",
-        "sha256": "ca501e34dea85926a08ebd47db5fbe804435c08ce6500b5b1238c9038d63f056",
+        "sha256": "fa4771520a4a8223b8dbfbc360871f4819635a9327ef869c7d13016e0b1b463b",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
