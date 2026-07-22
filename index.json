@@ -867,9 +867,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/RW/geo_RW.zip",
-        "sha256": "f11435be1992f0a99f5424ec110363ca9695ed9623cfb1088d04b467a1a3baee",
+        "sha256": "72e517dce751dbe9e6d15d9553183fbea483399c19c4f1a43ef5faa1d862b011",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
