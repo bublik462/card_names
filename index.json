@@ -207,9 +207,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/CG/geo_CG.zip",
-        "sha256": "99183d1629f9cd584d0ec07a97ec18a814f93927baf0860916c1bda49e4a44c2",
+        "sha256": "a253ff10926f37ee8dfafc72046c189d06b976673a8d8cd05d21e5198caea881",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
