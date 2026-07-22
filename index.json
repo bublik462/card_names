@@ -807,9 +807,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/NA/geo_NA.zip",
-        "sha256": "2ab6cd915688559105cf8f7020c4bc0fcb8daa310b9556dc5a08b481601bbccd",
+        "sha256": "6dcebbc2e27e6504491ce1c21172649b2c449d629253a68f09f95d86a3929adb",
         "schema": 2,
-        "updatedAt": "2026-07-20"
+        "updatedAt": "2026-07-22"
       }
     },
     {
