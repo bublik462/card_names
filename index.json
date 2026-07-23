@@ -828,6 +828,21 @@
       }
     },
     {
+      "code": "MN",
+      "file": "brands/MN/brands_MN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "36c3b4bae76f526f0fb4824dca0caafdee5a61f51a98eb44adb224adb5d0efc7",
+      "items": 58,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MN/geo_MN.zip",
+        "sha256": "fe87511893887d25b33933922727691bd2d910f5a628f5071fcf4e75c22a2f6b",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
       "code": "MO",
       "file": "brands/MO/brands_MO.json.zip",
       "schema": 2,
