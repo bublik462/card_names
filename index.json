@@ -1038,6 +1038,21 @@
       }
     },
     {
+      "code": "PH",
+      "file": "brands/PH/brands_PH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "3113bda51c37da4ca6541c200470457ebbf81925e3f0d6b189d9c84d17f79acf",
+      "items": 634,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PH/geo_PH.zip",
+        "sha256": "49f1fd07d40c40669b1383ee0cf1eddfbd856aac17d38ca4fe5be0acc0f39042",
+        "schema": 2,
+        "updatedAt": "2026-07-24"
+      }
+    },
+    {
       "code": "PK",
       "file": "brands/PK/brands_PK.json.zip",
       "schema": 2,
