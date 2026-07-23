@@ -693,6 +693,21 @@
       }
     },
     {
+      "code": "LB",
+      "file": "brands/LB/brands_LB.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "01e63205ef5fd827a7f29cead91a93175b86aa54e3127c760d19180746606815",
+      "items": 132,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LB/geo_LB.zip",
+        "sha256": "997c5b925528a50d7671e66fa8ecc7defb0b716c855ab1a09ce1f33b87c559d2",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
       "code": "LR",
       "file": "brands/LR/brands_LR.json.zip",
       "schema": 2,
