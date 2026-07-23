@@ -888,6 +888,21 @@
       }
     },
     {
+      "code": "MV",
+      "file": "brands/MV/brands_MV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "0e8652eced28b8d3aba1cf6c0ea2c227dd4c43375f58d8f253d32fad5165bddc",
+      "items": 22,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MV/geo_MV.zip",
+        "sha256": "4927c4d4b4639150c2bb39a3bbf7c2194b26ded4f97635d2124feffd06877fb7",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
       "code": "MW",
       "file": "brands/MW/brands_MW.json.zip",
       "schema": 2,
