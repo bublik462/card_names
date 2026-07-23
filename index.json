@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updatedAt": "2026-07-23",
+  "updatedAt": "2026-07-24",
   "countries": [
     {
       "code": "AF",
@@ -720,6 +720,21 @@
         "sha256": "997c5b925528a50d7671e66fa8ecc7defb0b716c855ab1a09ce1f33b87c559d2",
         "schema": 2,
         "updatedAt": "2026-07-23"
+      }
+    },
+    {
+      "code": "LK",
+      "file": "brands/LK/brands_LK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-24",
+      "sha256": "0841cdba5e943d4bf783b903826f7c1a1d0a7c90ee5f06fbf6028f0c9f8074ae",
+      "items": 86,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LK/geo_LK.zip",
+        "sha256": "8c15ee2861ef5154a56af84f050dd1230a4d5cfd339f174bf7f26e99ccd7e6b5",
+        "schema": 2,
+        "updatedAt": "2026-07-24"
       }
     },
     {
