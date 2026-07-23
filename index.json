@@ -513,6 +513,21 @@
       }
     },
     {
+      "code": "IQ",
+      "file": "brands/IQ/brands_IQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "c85d83f61fd74840496c56cf5eb9878b1f8c71b4542efbb87919cee1a6ae46be",
+      "items": 81,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/IQ/geo_IQ.zip",
+        "sha256": "76b38995e6eab0784c8ff044e03f1556d1bef4630492c319af0d07443438e6e2",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
       "code": "IR",
       "file": "brands/IR/brands_IR.json.zip",
       "schema": 2,
