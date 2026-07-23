@@ -678,6 +678,21 @@
       }
     },
     {
+      "code": "LA",
+      "file": "brands/LA/brands_LA.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-23",
+      "sha256": "3de88168436b343a7a7f862b111e07d573b320d955c837ab397f8e2d40edf564",
+      "items": 60,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LA/geo_LA.zip",
+        "sha256": "fcdc30d4677eeccd0f253f1b68afa934ab139cc4bf557db4d80a2380257a54df",
+        "schema": 2,
+        "updatedAt": "2026-07-23"
+      }
+    },
+    {
       "code": "LR",
       "file": "brands/LR/brands_LR.json.zip",
       "schema": 2,
