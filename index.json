@@ -1263,6 +1263,21 @@
       }
     },
     {
+      "code": "TJ",
+      "file": "brands/TJ/brands_TJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "0fa3992bf53463c7f7db3c86c515ea2044cdd6b7689d7a6b233bb7a9c2097110",
+      "items": 33,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TJ/geo_TJ.zip",
+        "sha256": "2f86d4ee38b5caf3d2e7ed48cf95de8493a3c2172d740c534b8bbde8ebc375ed",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
       "code": "TL",
       "file": "brands/TL/brands_TL.json.zip",
       "schema": 2,
