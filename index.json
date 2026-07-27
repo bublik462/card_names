@@ -1263,6 +1263,21 @@
       }
     },
     {
+      "code": "TH",
+      "file": "brands/TH/brands_TH.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "2e5f62c78fec1433e4aeb39078550be88b08cb0e1897cb5f6ea5620a75f7ea2d",
+      "items": 443,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TH/geo_TH.zip",
+        "sha256": "7251112bc533deabe7399708005aae2963fafd1df84adc05acb81f18dbe09bbe",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
       "code": "TJ",
       "file": "brands/TJ/brands_TJ.json.zip",
       "schema": 2,
