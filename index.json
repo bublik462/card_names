@@ -1413,6 +1413,21 @@
       }
     },
     {
+      "code": "VN",
+      "file": "brands/VN/brands_VN.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "8093f2fc132b4a72b0ebd88e24ed0a6b2addb167abca3833fec451cf326dbe59",
+      "items": 252,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VN/geo_VN.zip",
+        "sha256": "cfc4f2c6a9c407141d0b268ad566a2aefe5eb89efe7f9c01fb09ec3f2011a689",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
       "code": "ZA",
       "file": "brands/ZA/brands_ZA.json.zip",
       "schema": 2,
