@@ -1428,6 +1428,21 @@
       }
     },
     {
+      "code": "YE",
+      "file": "brands/YE/brands_YE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-27",
+      "sha256": "d4d273ab376c5ca8e33364bab4c9e3564a0c7d3d9072a903838e94462375e742",
+      "items": 12,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/YE/geo_YE.zip",
+        "sha256": "f563e6425ba2803d3392732e510ab1aee6a6693190fdace33dd23da27ef139d1",
+        "schema": 2,
+        "updatedAt": "2026-07-27"
+      }
+    },
+    {
       "code": "ZA",
       "file": "brands/ZA/brands_ZA.json.zip",
       "schema": 2,
