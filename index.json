@@ -1248,6 +1248,21 @@
       }
     },
     {
+      "code": "PW",
+      "file": "brands/PW/brands_PW.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "d8b5889c1836909019a3ac00ec79d97b3530b020e9c8b34a9198d78a82d9438d",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PW/geo_PW.zip",
+        "sha256": "95698723cc9597636ad4bbd3d7c92645aea482c33177ea65b713695f4b24714b",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "RW",
       "file": "brands/RW/brands_RW.json.zip",
       "schema": 2,
