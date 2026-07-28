@@ -243,6 +243,21 @@
       }
     },
     {
+      "code": "CK",
+      "file": "brands/CK/brands_CK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "5e981da54881ea27dbac03925e20600d9fa136e5f5778855776cc83c8d5edb5c",
+      "items": 4,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CK/geo_CK.zip",
+        "sha256": "0aec029a8cb8afaa5351799c7ee027f58bb7e60add63ab5cb6fb02e3e082d82f",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "CM",
       "file": "brands/CM/brands_CM.json.zip",
       "schema": 2,
