@@ -1173,6 +1173,21 @@
       }
     },
     {
+      "code": "NU",
+      "file": "brands/NU/brands_NU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "21e7d7653855703a61aa968044d1e1f536df7cd85839a64a0721a1ba52cfce55",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NU/geo_NU.zip",
+        "sha256": "c5699c9a42e9a2804ecaf16e99f2295f3b9c70c0238fce950202c23188395753",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "NZ",
       "file": "brands/NZ/brands_NZ.json.zip",
       "schema": 2,
