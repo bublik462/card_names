@@ -1608,6 +1608,21 @@
       }
     },
     {
+      "code": "TV",
+      "file": "brands/TV/brands_TV.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "ddb23fed7c4774ccf649723ab3deee5d38439f5cacca5e91f04c20721084bc46",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TV/geo_TV.zip",
+        "sha256": "6dda3355caa83b53ca38c9c0df4f7b1e307971b4fe1cda388f12fb4b3bc0a039",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "TW",
       "file": "brands/TW/brands_TW.json.zip",
       "schema": 2,
