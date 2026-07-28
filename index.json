@@ -198,6 +198,21 @@
       }
     },
     {
+      "code": "BZ",
+      "file": "brands/BZ/brands_BZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "bedcdf8f4865a21b73bc1776b35105b535152db3d75dcd9817a93eb6f899621b",
+      "items": 24,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BZ/geo_BZ.zip",
+        "sha256": "19e918dd3c4cea036595a3681119dd6770d6ecd55bc193720910c982c3727d54",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "CD",
       "file": "brands/CD/brands_CD.json.zip",
       "schema": 2,
