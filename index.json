@@ -678,6 +678,21 @@
       }
     },
     {
+      "code": "KI",
+      "file": "brands/KI/brands_KI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e7cc907e1a6fefe1e3cbe5c7a8988dba5123b810b1f15607510af17611d39b3a",
+      "items": 1,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/KI/geo_KI.zip",
+        "sha256": "b29d5b5ce0dc6f6cfef7ef85031241c534e906923fc294c81ba89d69b9f86563",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "KM",
       "file": "brands/KM/brands_KM.json.zip",
       "schema": 2,
