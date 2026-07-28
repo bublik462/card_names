@@ -423,6 +423,21 @@
       }
     },
     {
+      "code": "FJ",
+      "file": "brands/FJ/brands_FJ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b52016a7ad2f1d0e5d6101dc47d605461e9615c5e9b67508e6d57c5c797ae2ec",
+      "items": 21,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FJ/geo_FJ.zip",
+        "sha256": "7dcc63dc5aad66b67914f7593702afdc770e57fbf37efa4e2e774ed426100acf",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "GA",
       "file": "brands/GA/brands_GA.json.zip",
       "schema": 2,
