@@ -1248,6 +1248,21 @@
       }
     },
     {
+      "code": "NI",
+      "file": "brands/NI/brands_NI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "e1dea9c65dbfae804babd602ceb10af169bcf4c104858dfadb0b6ee568b18f9d",
+      "items": 87,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NI/geo_NI.zip",
+        "sha256": "9242e58851a12aabf4a0885b14549185d3823c75aafe792a0e2f3832a19c8982",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "NP",
       "file": "brands/NP/brands_NP.json.zip",
       "schema": 2,
