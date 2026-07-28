@@ -1713,6 +1713,21 @@
       }
     },
     {
+      "code": "VU",
+      "file": "brands/VU/brands_VU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "9b32592691fc5c3dc5836cc3ec1d7390d202701421bd07b921b4e38809ea220b",
+      "items": 7,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VU/geo_VU.zip",
+        "sha256": "10f12087bcd073e43eef8ab3bd1c0054c76f791fcee4b2ea91187671b3bed925",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "WS",
       "file": "brands/WS/brands_WS.json.zip",
       "schema": 2,
