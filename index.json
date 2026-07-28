@@ -438,6 +438,21 @@
       }
     },
     {
+      "code": "FM",
+      "file": "brands/FM/brands_FM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "75f319f67182a9e7f6c7c783fa3f31d57a7b7def812c98b0fdaa01a857f840be",
+      "items": 2,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FM/geo_FM.zip",
+        "sha256": "b90119f40d584ae24f96c8be693261eb27ef8d84f2a68a941881ef1709b5cf19",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "GA",
       "file": "brands/GA/brands_GA.json.zip",
       "schema": 2,
