@@ -1098,6 +1098,21 @@
       }
     },
     {
+      "code": "NC",
+      "file": "brands/NC/brands_NC.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "796498995a4431f8aa9c6e3ca78da87baf3a8de14c24605b92b93f10ffd4d582",
+      "items": 108,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/NC/geo_NC.zip",
+        "sha256": "6b0ee11570da3c493e778ef542f810fdcb19805c6efef69af47b44e4063545ac",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "NE",
       "file": "brands/NE/brands_NE.json.zip",
       "schema": 2,
