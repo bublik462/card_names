@@ -708,6 +708,21 @@
       }
     },
     {
+      "code": "JM",
+      "file": "brands/JM/brands_JM.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "6eca1e7792f87085df696bf5502d397c96c49b169393d54b13e928f88be68dd7",
+      "items": 44,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/JM/geo_JM.zip",
+        "sha256": "3ae17977b624f5b2012dc87e806c74d12264785c9cab8e56c61b22dc05d0598f",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "JO",
       "file": "brands/JO/brands_JO.json.zip",
       "schema": 2,
