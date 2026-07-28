@@ -333,6 +333,21 @@
       }
     },
     {
+      "code": "CU",
+      "file": "brands/CU/brands_CU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "3dda496179d791d7935e9d7881eb448d01300f9458e4617658a9f908c83157ce",
+      "items": 51,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CU/geo_CU.zip",
+        "sha256": "36fd338946f4c069eb8f4a783634acb18d8f8ca3cdf957179ec1611cc53bc8a2",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "CV",
       "file": "brands/CV/brands_CV.json.zip",
       "schema": 2,
