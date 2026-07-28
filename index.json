@@ -78,6 +78,21 @@
       }
     },
     {
+      "code": "AT",
+      "file": "brands/AT/brands_AT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "c2480324e75567caccc733ff548507ff7a61c493ed51cf548f19790632647059",
+      "items": 768,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AT/geo_AT.zip",
+        "sha256": "b682a1b3e2d72f39d26efa9117dd86aedf02f9d5161e2ba53f4bed0907dda373",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "AU",
       "file": "brands/AU/brands_AU.json.zip",
       "schema": 2,
