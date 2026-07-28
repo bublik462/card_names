@@ -1203,6 +1203,21 @@
       }
     },
     {
+      "code": "PF",
+      "file": "brands/PF/brands_PF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "fe9af970469cb3d556e6774069a03a06a092cbd78aa55da318435c5e7f040d8f",
+      "items": 53,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PF/geo_PF.zip",
+        "sha256": "0e442c7cb525e2b6ace4edfac73e4bd0458863ef0d66491909a53b8d22703484",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "PG",
       "file": "brands/PG/brands_PG.json.zip",
       "schema": 2,
