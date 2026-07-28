@@ -573,6 +573,21 @@
       }
     },
     {
+      "code": "GT",
+      "file": "brands/GT/brands_GT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-28",
+      "sha256": "b1278ede19cbe3abe26cda98aee00016b9c4fedc40511ec618a3b41f4a98b1b8",
+      "items": 178,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GT/geo_GT.zip",
+        "sha256": "8f4dcba87e1d7948425339b3abdf8a4e52f955a66daa6b3a2b7606bebec7edbe",
+        "schema": 2,
+        "updatedAt": "2026-07-28"
+      }
+    },
+    {
       "code": "GW",
       "file": "brands/GW/brands_GW.json.zip",
       "schema": 2,
