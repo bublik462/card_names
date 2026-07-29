@@ -558,6 +558,21 @@
       }
     },
     {
+      "code": "FI",
+      "file": "brands/FI/brands_FI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "6aa656d96269cd8aca05116f8ada51183a194079f72212de1d6808d53bfaedc9",
+      "items": 357,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FI/geo_FI.zip",
+        "sha256": "ffdb811c96d14a2ba3c38fec2580b967e32e8ec035f6d0ad6deafb7a80e6bd40",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
       "code": "FJ",
       "file": "brands/FJ/brands_FJ.json.zip",
       "schema": 2,
