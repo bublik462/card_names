@@ -168,6 +168,21 @@
       }
     },
     {
+      "code": "BG",
+      "file": "brands/BG/brands_BG.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-29",
+      "sha256": "4e7724eb8d5450a6e714574e43b880b81fd8d0f1d211d0a3dc99af19df69bd79",
+      "items": 443,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/BG/geo_BG.zip",
+        "sha256": "f55313140edca0e90124bf78f7998a5b8525b9dc783687df31ac9e5c431e3340",
+        "schema": 2,
+        "updatedAt": "2026-07-29"
+      }
+    },
+    {
       "code": "BI",
       "file": "brands/BI/brands_BI.json.zip",
       "schema": 2,
