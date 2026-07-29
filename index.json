@@ -1482,9 +1482,9 @@
       "compression": "zip",
       "geo": {
         "file": "geo/PT/geo_PT.zip",
-        "sha256": "e631363b8f8d2fd35b79fb43fc330ea2e9c251ed5b3836a563101f6693740006",
+        "sha256": "89e9e3f9822d869a2e080bb4cbae1a491758b9a13738844b7efa89a46bc099e7",
         "schema": 2,
-        "updatedAt": "2026-07-28"
+        "updatedAt": "2026-07-29"
       }
     },
     {
