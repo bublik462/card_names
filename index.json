@@ -468,6 +468,21 @@
       }
     },
     {
+      "code": "CZ",
+      "file": "brands/CZ/brands_CZ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "d74be27b98de753271bf2cab2a382bce8fee7b89c785d563f5f7da645be513e9",
+      "items": 679,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CZ/geo_CZ.zip",
+        "sha256": "f6a9aec2e6ce6c5448bcebdb510b3570ef31cfb8bce0c7844e952d6fdd0a6ae1",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "DE",
       "file": "brands/DE/brands_DE.json.zip",
       "schema": 2,
