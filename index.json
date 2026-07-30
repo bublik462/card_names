@@ -1278,6 +1278,21 @@
       }
     },
     {
+      "code": "LU",
+      "file": "brands/LU/brands_LU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "b085f25a8a917691d8e4a4861f3f2d19d00e42bd05e09ff0ad49a0f941f4e304",
+      "items": 274,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/LU/geo_LU.zip",
+        "sha256": "aa7989c2ad77e01f5498b37a1f738b37df809a499dbff053f2ebfbcb2cc4ea71",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "LV",
       "file": "brands/LV/brands_LV.json.zip",
       "schema": 2,
