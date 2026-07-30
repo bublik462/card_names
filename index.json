@@ -2178,6 +2178,21 @@
       }
     },
     {
+      "code": "YT",
+      "file": "brands/YT/brands_YT.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "64275fcf937eb753fe9aa14d3423000338e0452a3436a8ff4038876f8c35a8a7",
+      "items": 25,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/YT/geo_YT.zip",
+        "sha256": "72bede9023f30a5b75f5cdcf4d7b50238e339be4fae9984bba85fd77e6adb4aa",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "ZA",
       "file": "brands/ZA/brands_ZA.json.zip",
       "schema": 2,
