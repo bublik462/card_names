@@ -453,6 +453,21 @@
       }
     },
     {
+      "code": "CY",
+      "file": "brands/CY/brands_CY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "8e6ac6498da9fb824ad674c7269b5f0194ff7864ea6e0ea50ad99cfc2c05418e",
+      "items": 251,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CY/geo_CY.zip",
+        "sha256": "5d9d429e379fed6f25a5cbc711883a9ff563394b0e13379514cef5c63efdbd44",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "DE",
       "file": "brands/DE/brands_DE.json.zip",
       "schema": 2,
