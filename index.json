@@ -1698,6 +1698,21 @@
       }
     },
     {
+      "code": "RE",
+      "file": "brands/RE/brands_RE.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "b9357efdaec37774aac39509b26fc6eafd5981e13ec308d2ea10a9fe29bd9eaa",
+      "items": 195,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RE/geo_RE.zip",
+        "sha256": "c54b7a40bada9946b4236f237a278972962accef02d165bc752388f8ea7a107f",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "RW",
       "file": "brands/RW/brands_RW.json.zip",
       "schema": 2,
