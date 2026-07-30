@@ -888,6 +888,21 @@
       }
     },
     {
+      "code": "HU",
+      "file": "brands/HU/brands_HU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "54d45a28200808d62fdb7dedb3e3f42946935a2b221160cbfbaa8a5233294be2",
+      "items": 432,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/HU/geo_HU.zip",
+        "sha256": "8aa95e9ff430f57963fe41a6b534c83bfb82f347a52adc9da7f0fd375e6e7c95",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "ID",
       "file": "brands/ID/brands_ID.json.zip",
       "schema": 2,
