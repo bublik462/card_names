@@ -798,6 +798,21 @@
       }
     },
     {
+      "code": "GR",
+      "file": "brands/GR/brands_GR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "f143d925d8bdc726ddb6ac74af69a542a2982ff4ac856503a5c3526e6e0816b6",
+      "items": 425,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GR/geo_GR.zip",
+        "sha256": "d7768996409b24bce4019f3c9aa007a2d40ae38608dbced12becf74f8e92be92",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "GT",
       "file": "brands/GT/brands_GT.json.zip",
       "schema": 2,
