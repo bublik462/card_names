@@ -2253,6 +2253,21 @@
       }
     },
     {
+      "code": "XK",
+      "file": "brands/XK/brands_XK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "f8dbe1d31bd8ed040c5ec3de680398014c120bb56c5fab95888aced251a4630e",
+      "items": 105,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/XK/geo_XK.zip",
+        "sha256": "28f6c669816d71ab90c812b29716a2b0530a423d1155fab638cb5ba3462a2658",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "YE",
       "file": "brands/YE/brands_YE.json.zip",
       "schema": 2,
