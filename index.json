@@ -1323,6 +1323,21 @@
       }
     },
     {
+      "code": "MQ",
+      "file": "brands/MQ/brands_MQ.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "0bbedf9d2f0a54388953880369570280a2985891507223e3afe218b228f0550d",
+      "items": 94,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MQ/geo_MQ.zip",
+        "sha256": "84cad0ce62ed43a9bf173bc9754939df7a2c3595a2485359b8c577f4b39f2e96",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "MR",
       "file": "brands/MR/brands_MR.json.zip",
       "schema": 2,
