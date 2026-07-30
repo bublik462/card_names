@@ -708,6 +708,21 @@
       }
     },
     {
+      "code": "GF",
+      "file": "brands/GF/brands_GF.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-07-30",
+      "sha256": "4a863e74383897434c2c0e1c2224ed08280227852941b6d051b0098442047d09",
+      "items": 114,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GF/geo_GF.zip",
+        "sha256": "2c40f621a48300a91977801ce6664b0f3de7a47cc9d5e7f79ba3af9617e71be7",
+        "schema": 2,
+        "updatedAt": "2026-07-30"
+      }
+    },
+    {
       "code": "GH",
       "file": "brands/GH/brands_GH.json.zip",
       "schema": 2,
