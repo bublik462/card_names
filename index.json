@@ -1908,6 +1908,21 @@
       }
     },
     {
+      "code": "RO",
+      "file": "brands/RO/brands_RO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "69f3de085348d2a60370db12fb622ea8d370cd11364a457c5827b28679399fb6",
+      "items": 536,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RO/geo_RO.zip",
+        "sha256": "1a2c6a2a1bc24f05cb4da4a746ccc6e253c9bbe68348847124073cb488b96b1d",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
       "code": "RW",
       "file": "brands/RW/brands_RW.json.zip",
       "schema": 2,
