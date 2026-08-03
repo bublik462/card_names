@@ -2013,6 +2013,21 @@
       }
     },
     {
+      "code": "SK",
+      "file": "brands/SK/brands_SK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-03",
+      "sha256": "7526928ee9ab4b3847df2e53c4ca34cbf16499ff347d888c28cb9d99f3494d1c",
+      "items": 492,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/SK/geo_SK.zip",
+        "sha256": "237aefa2ac2d80742bf6eb6cb62d97741f67964348e0c2980645ad40ca428709",
+        "schema": 2,
+        "updatedAt": "2026-08-03"
+      }
+    },
+    {
       "code": "SL",
       "file": "brands/SL/brands_SL.json.zip",
       "schema": 2,
