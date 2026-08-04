@@ -2298,6 +2298,21 @@
       }
     },
     {
+      "code": "TR",
+      "file": "brands/TR/brands_TR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "dab697bfdaa206a677dd001aa98588ff0efafae0a51232b403011ed916c9052d",
+      "items": 578,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/TR/geo_TR.zip",
+        "sha256": "659073c749882dec4e2c6e678b1e13d961295c7c8e40a81dc670bb650950fd00",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
       "code": "TV",
       "file": "brands/TV/brands_TV.json.zip",
       "schema": 2,
