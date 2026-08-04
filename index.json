@@ -663,6 +663,21 @@
       }
     },
     {
+      "code": "FK",
+      "file": "brands/FK/brands_FK.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-04",
+      "sha256": "4f6b2c11dfd79829535f46a4217b6e5d8952e044faa4c29643b19edf4ef2e4e9",
+      "items": 0,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/FK/geo_FK.zip",
+        "sha256": "121722a62aa11fd039ecdc1cab3d3b7d66a8e0dad80263ace8b1466960150929",
+        "schema": 2,
+        "updatedAt": "2026-08-04"
+      }
+    },
+    {
       "code": "FM",
       "file": "brands/FM/brands_FM.json.zip",
       "schema": 2,
