@@ -1653,6 +1653,21 @@
       }
     },
     {
+      "code": "MX",
+      "file": "brands/MX/brands_MX.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-05",
+      "sha256": "79a02fdc3c8a62446615d0076592f2be15f7565221ce5c64cc24be1c2b0d18e2",
+      "items": 641,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/MX/geo_MX.zip",
+        "sha256": "2ab67d9348a96de09929b66a70b9b5153045813b628a9e426dddde297b97eabf",
+        "schema": 2,
+        "updatedAt": "2026-08-05"
+      }
+    },
+    {
       "code": "MZ",
       "file": "brands/MZ/brands_MZ.json.zip",
       "schema": 2,
