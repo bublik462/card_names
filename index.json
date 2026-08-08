@@ -2043,6 +2043,21 @@
       }
     },
     {
+      "code": "RU",
+      "file": "brands/RU/brands_RU.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "795c60b7457037d001abc73ef2e1127c00b540e7fea62f484d9011f85ea144c3",
+      "items": 1055,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/RU/geo_RU.zip",
+        "sha256": "871f96f1bd931b62f874e9c551f4eabab2bcdecaa10abce7be60df8f1046d8c6",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "RW",
       "file": "brands/RW/brands_RW.json.zip",
       "schema": 2,
