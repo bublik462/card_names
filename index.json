@@ -513,6 +513,21 @@
       }
     },
     {
+      "code": "CO",
+      "file": "brands/CO/brands_CO.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "313a051f66cc5aab78c4924f0553d67f5093211e4cb30d332af625e06784b14e",
+      "items": 601,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/CO/geo_CO.zip",
+        "sha256": "df2b1497492113a87caa15f50c2bde0f9309981b653b1b6bca54b78d00078b74",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "CR",
       "file": "brands/CR/brands_CR.json.zip",
       "schema": 2,
