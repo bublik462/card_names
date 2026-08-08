@@ -1953,6 +1953,21 @@
       }
     },
     {
+      "code": "PR",
+      "file": "brands/PR/brands_PR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "af9957ec67c86a17ac745d2db6166442d6e7112fe22728fa3303ffce1f295766",
+      "items": 287,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/PR/geo_PR.zip",
+        "sha256": "76570cc2bf8703d2be06277edabe5304f4d7b9a2e186e749be843b4ff69fc829",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "PT",
       "file": "brands/PT/brands_PT.json.zip",
       "schema": 2,
