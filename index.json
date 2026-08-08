@@ -2523,6 +2523,21 @@
       }
     },
     {
+      "code": "VI",
+      "file": "brands/VI/brands_VI.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "75b07e2862a48d5baae66075cef49a46b393cb365ca66b952181c5d0d2be8c69",
+      "items": 26,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/VI/geo_VI.zip",
+        "sha256": "f35e3380f5236b419d3536face2bf39176b90aec75701f45a31879eb2aba3d01",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "VN",
       "file": "brands/VN/brands_VN.json.zip",
       "schema": 2,
