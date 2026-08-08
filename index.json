@@ -1008,6 +1008,21 @@
       }
     },
     {
+      "code": "GY",
+      "file": "brands/GY/brands_GY.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "37448acd7b70333670809a3791a1fc3d7dba2d03fc916cce883c30753fb3170a",
+      "items": 19,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/GY/geo_GY.zip",
+        "sha256": "437f6afdfc974fb51401159259dd8c40d84c50041af7ca7e01327dd78599a020",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "HK",
       "file": "brands/HK/brands_HK.json.zip",
       "schema": 2,
