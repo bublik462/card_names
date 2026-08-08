@@ -78,6 +78,21 @@
       }
     },
     {
+      "code": "AR",
+      "file": "brands/AR/brands_AR.json.zip",
+      "schema": 2,
+      "updatedAt": "2026-08-08",
+      "sha256": "43544fed886c19e3f0179276b195b0c368b59fbfa3be97c43a62a88fe39f8303",
+      "items": 365,
+      "compression": "zip",
+      "geo": {
+        "file": "geo/AR/geo_AR.zip",
+        "sha256": "429bbdb3a751f6ca89df25c0ddfef492f6242ffc8fffe0f921746863ab839193",
+        "schema": 2,
+        "updatedAt": "2026-08-08"
+      }
+    },
+    {
       "code": "AT",
       "file": "brands/AT/brands_AT.json.zip",
       "schema": 2,
